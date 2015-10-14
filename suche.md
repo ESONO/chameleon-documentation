@@ -1,14 +1,5 @@
 # Suche
 
-#### Inhalt
-
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">9.1 Artikelsuchindex</span>](artikelsuchindex.md)
-
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">9.2 Suchwortwolke</span>](suchwortwolke.md)
-
-<br>
-
-<br/>
 
 Der Shop verfügt über zwei unterschiedliche Suchen. In der einfachen Suche gibt der Kunde einen Suchbegriff ein, zu dem das System versucht, möglichst gute Treffer anhand der Eingabe zu produzieren. In der erweiterten Suche kann der Kunde nach bestimmten Werten in vordefinierten Feldern (z.B. Titel, Kategorie usw.) suchen.
 
