@@ -12,7 +12,7 @@ Basisdaten
 | Hintergrundbild |  |
 | Zusätzlich berechtigte Gruppen | Normalerweise kann eine Seite nur von den Benutzern editiert werden, die Zugang zu dem der Seite zugewiesenen Portal haben. Ausgenommen davon sind CMS-Benutzer, die zu den hier hinterlegten Gruppen gehören. |
 | SSI verwenden | ist SSL aktiv, werden Links auf die Seite automatisch mit https:// aufgerufen. |
-| Zugriff einschränken | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
+| Zugriff einschränken | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Gruppen sind.|
 | Zugriff für nicht bestätigte Benutzer zulassen |  |
 | Auf folgende Extranet-Gruppen einschränken | Werden keine Gruppen angegeben, dann können alle angemeldeten Benutzer auf die Seite zugreifen |
 | Sprache der Seite |  |
