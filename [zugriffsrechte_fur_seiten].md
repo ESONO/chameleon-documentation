@@ -1,3 +1,0 @@
-# Zugriffsrechte für Seiten
-
-bla
