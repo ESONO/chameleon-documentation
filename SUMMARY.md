@@ -21,7 +21,6 @@
        * [Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Layouts](seiten-layouts.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
-       * [Seiten-Layouts](seiten-layouts.md)
    * [Medien](medien.md)
    * [Dokumente](dokumente.md)
    * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
