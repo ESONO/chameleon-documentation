@@ -1,3 +1,3 @@
-# [Zugriffsrechte für Seiten]
+# Zugriffsrechte für Seiten
 
 bla
