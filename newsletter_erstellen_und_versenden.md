@@ -14,7 +14,7 @@ Auf der angelegten Seite können Sie nun die dynamischen Steckplätze editieren.
 
 <br>
 
-#### Kampagen anlegen
+#### Kampagnen anlegen
 
 *Newsletter → Newsletter-Kampagnen*
 
