@@ -47,7 +47,7 @@ Außerdem sollte das Feld ***DoubleOptIn-Verfahren benutzen*** unbedingt auf *JA
 
 
 
-### ## Newsletter in verschiedenen Sprachen verschicken
+### Newsletter in verschiedenen Sprachen verschicken
 
 
 Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter *Anmeldung möglich für* anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
