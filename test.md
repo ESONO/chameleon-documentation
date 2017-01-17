@@ -1,12 +1,12 @@
 # Test Überschrift 1
 text text text
-[Test](#Anker Überschrift 3)
+[Test](#Anker)
 
 ## Anker Überschrift 2
 
 [texttexttext](../backend.md)
 
-### Anker Überschrift 3
+### Anker
 
 text text text
 
