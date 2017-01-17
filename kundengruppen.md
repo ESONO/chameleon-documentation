@@ -19,7 +19,5 @@ _Kunde → Basisdaten → Kundengruppen _→ Haken bei entsprechender Kundengrup
 
 Außerdem kann der Zugriff auf Seiten auf Kundengruppen eingeschränkt werden. Hierfür in den Seiteneinstellungen _Zugriff einschränken_ aktivieren, dann können nur angemeldete Benutzer die Seite sehen. Dies kann zusätzlich auf einzelene Kundengruppen eingeschränkt werden, indem man beim Feld _Auf folgende Extranet-Gruppen einschränken_ einen Haken bei der gewünschten Kundengruppe setzt.
 
-
-
-
+![](/assets/2017-01-17 15_21_39-Fotos.png)
 
