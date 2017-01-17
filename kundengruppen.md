@@ -11,9 +11,9 @@ Kundengruppen können in CHAMELEON frei definiert werden und finden ihre Anwendu
 | **Autozuweisung ab Bestellwert** | Kundengruppe wird dem Benutzer automatisch zugewiesen, wenn die Bestellung des Kunden einen definierten Wert überschreitet |
 | **Autozuweisung bis Bestellwert** | Erreicht der Kunde diesen Bestellwert, dann wird er automatisch aus der Gruppe genommen \(die Gruppe greift also nur für Kunden mit Bestellungen UNTER diesem Betrag\). Wird hier 0 angegeben, dann gilt die Gruppe bis zu einem beliebigen Bestellwert. |
 
-
-
-Kunden können nicht nur automatisch einer Kundengruppe zugewiesen werden, sondern auch direkt im Kundendatensatz: 
+Kunden können nicht nur automatisch einer Kundengruppe zugewiesen werden, sondern auch direkt im Kundendatensatz:
 
 _Kunde → Basisdaten → Kundengruppen _→ Haken bei entsprechender Kundengruppe setzen
+
+Außerdem kann der Zugriff auf Seiten auf Kundengruppen eingeschränkt werden. Hierfür in den Seiteneinstellungen _Zugriff einschränken_ aktivieren, dann können nur angemeldete Benutzer die Seite sehen. Dies kann zusätzlich auf einzelene Kundengruppen eingeschränkt werden, indem man beim Feld _Auf folgende Extranet-Gruppen einschränken_ einen Haken bei der gewünschten Kundengruppe setzt.
 
