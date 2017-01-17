@@ -96,6 +96,4 @@
         * [Transaktionen weitergeben \/ übernehmen](transaktionen_weitergeben__ubernehmen.md)
         * [Vorschau](vorschau.md)
 * [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
-* [Test](test.md)
-    * [unterkapitel](unterkapitel.md)
 
