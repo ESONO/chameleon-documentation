@@ -1,6 +1,6 @@
 # Test Überschrift 1
 text text text
-[heading](#test)
+[Test](#test)
 
 ## Anker Überschrift 2
 
