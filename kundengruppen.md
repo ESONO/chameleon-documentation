@@ -15,5 +15,11 @@ Kunden können nicht nur automatisch einer Kundengruppe zugewiesen werden, sonde
 
 _Kunde → Basisdaten → Kundengruppen _→ Haken bei entsprechender Kundengruppe setzen
 
+###### Zugriffsbeschränkung
+
 Außerdem kann der Zugriff auf Seiten auf Kundengruppen eingeschränkt werden. Hierfür in den Seiteneinstellungen _Zugriff einschränken_ aktivieren, dann können nur angemeldete Benutzer die Seite sehen. Dies kann zusätzlich auf einzelene Kundengruppen eingeschränkt werden, indem man beim Feld _Auf folgende Extranet-Gruppen einschränken_ einen Haken bei der gewünschten Kundengruppe setzt.
+
+
+
+
 
