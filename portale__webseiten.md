@@ -16,7 +16,7 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 
 
-_Basisdaten_
+```Basisdaten```
 
 | Bezeichnung | Beschreibung | Erforderlich |
 | -- | -- | -- |
@@ -31,13 +31,13 @@ _Basisdaten_
 
 <br>
 
-_Metadaten_
+```Metadaten```
 
 ![](bild_metadaten.png)
 
 <br>
 
-_AddThis_
+```AddThis```
 
 ![](Bild2.png)
 
@@ -45,7 +45,7 @@ Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil
 
 <br>
 
-_robots_
+```robots```
 
 Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!
 
@@ -53,9 +53,9 @@ Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldi
 
 ##### Speichern / Seitenbaum editieren
 
-Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.
+Am oberen Rand des Datensatzes steht der Button ```Seitenbaum Editieren``` zur Verfügung.
 
-Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste (Mac = Apfel linksklick) auf die Editiermöglichkeiten im Kontextmenü
+Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste auf die Editiermöglichkeiten im Kontextmenü
 zugreifen.
 
 ![](bild5.png)

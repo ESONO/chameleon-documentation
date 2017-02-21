@@ -4,7 +4,7 @@
 
 #### Blacklisted Benutzer
 
-Die Liste der *Blacklisted Benutzer* ist eine Schutzliste mit den E-Mail-Adressen der Personen, die keine unaufgeforderte Werbung erhalten wollen. Sie dienen dem Kundenschutz vor unerwünschter Werbung. Seriöse Unternehmen verpflichten sich, dem Wunsch ihrer registrierten Kunden nach Werbefreiheit nachzukommen und sie nicht weiter zu kommerziellen Zwecken per E-Mail zu kontaktieren.
+Die Liste der ```Blacklisted Benutzer``` ist eine Schutzliste mit den E-Mail-Adressen der Personen, die keine unaufgeforderte Werbung erhalten wollen. Sie dienen dem Kundenschutz vor unerwünschter Werbung. Seriöse Unternehmen verpflichten sich, dem Wunsch ihrer registrierten Kunden nach Werbefreiheit nachzukommen und sie nicht weiter zu kommerziellen Zwecken per E-Mail zu kontaktieren.
 Die in der Liste hinterlegten E-Mail-Adressen werden beim Newsletter-Versand ausgeschlossen.
 
 <br>

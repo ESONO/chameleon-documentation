@@ -1,6 +1,6 @@
 # Kundenrezensionen
 
-*Shop-Benutzer → Kundenrezensionen der Produkte*
+```Shop-Benutzer → Kundenrezensionen der Produkte```
 
 Kunden können für Produkte eigene Rezensionen erstellen. Über das entsprechende Modul auf der Produktdetailseite („Artikelkommentare“) können im Backend die Bewertungen konfiguriert werden:
 * Rezensionen nur für angemeldete Benutzer
@@ -24,5 +24,5 @@ Kunden können für Produkte eigene Rezensionen erstellen. Über das entsprechen
 | **Rezension** | Die Rezension des Kunden für diesen Artikel |
 | **Erstellt am** | Erstellungsdatum der Rezension |
 
-Rezensionen sind direkt mit dem Kunden (Rezensionen) als auch dem Produkt (Bewertungen → Kundenrezensionen) verknüpft.
+Rezensionen sind direkt mit dem Kunden (Rezensionen) als auch dem Produkt (```Bewertungen → Kundenrezensionen```) verknüpft.
 
