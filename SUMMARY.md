@@ -10,8 +10,8 @@
 ## Allgemeine Bedienung
 
 * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
-* [Portale und Webseiten](portale__webseiten.md)
 * [Menüführung](menufuhrung.md)
+* [Portale und Webseiten](portale__webseiten.md)
 * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
 * [Tabelle \/ Datensatz](tabelle__datensatz.md)
 * [Navigationsverwaltung](navigationsverwaltung.md)
