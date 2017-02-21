@@ -6,6 +6,7 @@
     * [Testsystem und Live-System](testsystem_und_live-system.md)
     * [Datenbackup](datenbackup.md)
     * [Backend](backend.md)
+----
 * [Grundsätzliches zur Bedienung von Chameleon](grundsatzliches_zur_bedienung_von_chameleon.md)
     * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
     * [Portale \/ Webseiten](portale__webseiten.md)
@@ -25,6 +26,7 @@
     * [Dokumente](dokumente.md)
     * [Sprache \/ Website\/ Cache \/ Hilfe](sprache__website_cache__hilfe.md)
     * [CKEditor](ckeditor.md)
+----
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
     * [Shops](shops.md)
     * [Extranet-Konfiguration](extranet-konfiguration.md)
@@ -34,6 +36,7 @@
     * [Variantensets](variantensets.md)
     * [Währungen](wahrungen.md)
     * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
+----
 * [Produktinformation](produktinformation.md)
     * [Artikel](artikel.md)
     * [Artikelkategorien](artikelkategorien.md)
