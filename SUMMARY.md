@@ -99,7 +99,7 @@
     * [Newsletter-Elemente](newsletter-elemente.md)
     * [Grundkonfiguration](grundkonfiguration.md)
     * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
-* [Freigabesystem \/ Workflow](freigabesystem__workflow.md)
+* [Freigabesystem / Workflow](freigabesystem__workflow.md)
     * [Grundlagen](grundlagen.md)
     * [Transaktionen](transaktionen.md)
     * [Status-Arten](status-arten.md)
