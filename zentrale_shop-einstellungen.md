@@ -1,5 +1,5 @@
 # Zentrale Shop-Einstellungen
-
+----
 ## Shops
 ```Shop-Einstellungen → Shops```
 
