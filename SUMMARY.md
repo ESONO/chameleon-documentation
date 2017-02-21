@@ -7,7 +7,7 @@
   * [Datenbackup](chameleon_dokumentation.md#datenbackup)
   * [Backend](chameleon_dokumentation.md#backend)
 
-## Allgemeine Bedienung
+## Allgemeine Bedienung und Content Management
 
 * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
 * [Menüführung](menufuhrung.md)
@@ -26,7 +26,7 @@
 * [Medien](medien.md)
 * [Dokumente](dokumente.md)
 * [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
-* [CKEditor](ckeditor.md)
+* [Texte editieren mit dem CKEditor](ckeditor.md)
 
 ## Shop
 
@@ -96,16 +96,17 @@
 
 * [Kontaktformular](kontaktformular.md)
 * [Newsletter](newsletter.md)
-    * [Newsletter-Elemente](newsletter-elemente.md)
-    * [Grundkonfiguration](grundkonfiguration.md)
-    * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
+  * [Newsletter-Elemente](newsletter-elemente.md)
+  * [Grundkonfiguration](grundkonfiguration.md)
+  * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
 * [Freigabesystem / Workflow](freigabesystem__workflow.md)
-    * [Grundlagen](grundlagen.md)
-    * [Transaktionen](transaktionen.md)
-    * [Status-Arten](status-arten.md)
-    * [Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
-    * [Vorschau](vorschau.md)
+  * [Grundlagen](grundlagen.md)
+  * [Transaktionen](transaktionen.md)
+  * [Status-Arten](status-arten.md)
+  * [Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
+  * [Vorschau](vorschau.md)
 
 ## Zusätzliche Dokumentationen
+
 * [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
 
