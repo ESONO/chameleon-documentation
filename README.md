@@ -6,7 +6,7 @@
 
 
 ----
-# Anwenderdokumentation Chameleon Shop Version 6
+Sie finden hier die Anwenderdokumentation für Chameleon Shop Version 6.
 
 
 > E-Commerce und Content Management in einem
