@@ -2,10 +2,10 @@
 
 * [Chameleon Dokumentation](README.md)
 * [Vorbemerkungen](chameleon_dokumentation.md)
-    * [Frontend und Backend](frontend_und_backend.md)
-    * [Testsystem und Live-System](testsystem_und_live-system.md)
-    * [Datenbackup](datenbackup.md)
-    * [Backend](backend.md)
+    * [Frontend und Backend](chameleon_dokumentation.md#frontend)
+    * [Stage und Live-Umgebung](chameleon_dokumentation.md#stage)
+    * [Datenbackup](chameleon_dokumentation.md#datenbackup)
+    * [Backend](chameleon_dokumentation.md#frontend#backend)
 ----
 * [Grundsätzliches zur Bedienung von Chameleon](grundsatzliches_zur_bedienung_von_chameleon.md)
     * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
