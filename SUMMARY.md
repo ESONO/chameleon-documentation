@@ -8,9 +8,8 @@
     * [Backend](chameleon_dokumentation.md#backend)
 
 ## Allgemeine Bedienung
-* [Grundsätzliches zur Bedienung von Chameleon](grundsatzliches_zur_bedienung_von_chameleon.md)
-    * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
-    * [Portale \/ Webseiten](portale__webseiten.md)
+* [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
+* [Portale \/ Webseiten](portale__webseiten.md)
     * [Menüführung](menufuhrung.md)
     * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
     * [Tabelle \/ Datensatz](tabelle__datensatz.md)
