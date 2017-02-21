@@ -1,5 +1,5 @@
 # Umsatzsteuergruppen
 
-*Shop-Einstellungen → Umsatzsteuergruppen*
+```Shop-Einstellungen → Umsatzsteuergruppen```
 
 Alle über den Shop verwaltbaren Steuergruppen. 

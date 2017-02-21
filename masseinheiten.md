@@ -1,6 +1,6 @@
 # Maßeinheiten
 
-*Shop-Einstellungen → Maßeinheiten*
+```Shop-Einstellungen → Maßeinheiten```
 
 Hier werden die Maßeinheiten für die Grundpreisberechnung hinterlegt.
 
