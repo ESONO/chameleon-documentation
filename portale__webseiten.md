@@ -1,4 +1,4 @@
-# Portale / Webseiten
+# Portale und Webseiten
 
 *CMS / Portal-Einstellungen → Portale / Webseiten*
 
