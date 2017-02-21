@@ -11,7 +11,7 @@
 
 > E-Commerce und Content Management in einem
 > suchmaschinenoptimiert, schnell, erweiterbar
-> umfasende Internetpräsenz mit nur einem System
+> umfassende Internetpräsenz mit nur einem System
 
 
 
