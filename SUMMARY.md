@@ -69,7 +69,7 @@
     * [Versandkostenart](versandkostenart.md)
     * [Versandkostengruppen](versandkostengruppen.md)
     * [Zahlmethoden](zahlmethoden.md)
-* [Auswertungen \/ Statistik](auswertungen__statistik.md)
+* [Auswertungen / Statistik](auswertungen__statistik.md)
   * [Auswertung \(Chameleon intern\)](auswertung_chameleon_intern.md)
   * [Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
 * [Rabatte und Gutscheine](rabatte_und_gutscheine.md)
