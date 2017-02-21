@@ -36,7 +36,6 @@
     * [Variantensets](variantensets.md)
     * [Währungen](wahrungen.md)
     * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
-----
 * [Produktinformation](produktinformation.md)
     * [Artikel](artikel.md)
     * [Artikelkategorien](artikelkategorien.md)
@@ -82,10 +81,12 @@
     * [CMS Webübersetzungen](cms_webubersetzungen.md)
     * [CMS Übersetzungen](cms_ubersetzungen.md)
     * [Übersetzungen von Fehlermeldungen -&gt; Portale \/ Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
+----
 * [CMS Admin](cms_admin.md)
     * [E-Mail-Vorlagen](e-mail-vorlagen.md)
     * [Interface \/ Interface Manager](interface__interface_manager.md)
     * [Systemnachrichten \/ Fehlercodes-Typen](systemnachrichten__fehlercodes-typen.md)
+----
 * [Zusätzliche Module](zusatzliche_module.md)
     * [Kontaktformular](kontaktformular.md)
     * [Newsletter](newsletter.md)
