@@ -11,9 +11,9 @@
 
 * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
 * [Menüführung](menufuhrung.md)
-* [Portale und Webseiten](portale__webseiten.md)
 * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
-* [Tabelle \/ Datensatz](tabelle__datensatz.md)
+* [Tabelle / Datensatz](tabelle__datensatz.md)
+* [Portale und Webseiten](portale__webseiten.md)
 * [Navigationsverwaltung](navigationsverwaltung.md)
 * [Seitenverwaltung](seitenverwaltung.md)
   * [Seite anlegen](seite_anlegen.md)
