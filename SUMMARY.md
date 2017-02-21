@@ -25,7 +25,7 @@
   * [Seite löschen](seite_loschen.md)
 * [Medien](medien.md)
 * [Dokumente](dokumente.md)
-* [Sprache \/ Website\/ Cache \/ Hilfe](sprache__website_cache__hilfe.md)
+* [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
 * [CKEditor](ckeditor.md)
 
 ---
