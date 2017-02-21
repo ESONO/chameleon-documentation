@@ -28,7 +28,7 @@
 * [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
 * [CKEditor](ckeditor.md)
 
----
+## Shop
 
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
   * [Shops](shops.md)
