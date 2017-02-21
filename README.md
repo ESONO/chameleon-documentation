@@ -9,8 +9,7 @@
 Sie finden hier die Anwenderdokumentation für Chameleon Shop Version 6.
 
 
-> Chameleon ist 
-E-Commerce und Content Management in einem
+> E-Commerce und Content Management in einem
 suchmaschinenoptimiert, schnell, erweiterbar
 umfassende Internetpräsenz mit nur einem System
 
