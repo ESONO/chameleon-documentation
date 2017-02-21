@@ -1,6 +1,11 @@
 # CMS Webübersetzungen
 
-*CMS / Portal-Einstellungen → CMS Webübersetzungen*
+[gültig bis Chameleon Version 6.0]
+
+
+```CMS / Portal-Einstellungen → CMS Webübersetzungen```
+
+
 
 Dies ist die zentrale Stelle im CHAMELEON-CMS, um alle im Frontend stehenden übersetzbaren Texte in andere Sprachen zu übersetzen.
 
