@@ -3,7 +3,7 @@
 Über den Punkt *Dokumente* gelangt man zur zentralen Dokumentenverwaltung im Chameleon-System. Hier werden alle Daten abgelegt, die den Besuchern der Webseite als Download zur Verfügung gestellt werden sollen.
 
 Von hier aus kann man neue Dokumente hochladen sowie bestehende entfernen oder aktualisieren. Die Verzeichnisstruktur links und die Suchfunktion ermöglichen ein schnelles Auffinden der gesuchten Datei.
-Für die genaue Beschreibung der Funktionen aus dem Kontextmenü siehe oberes Kapitel ***2.8 Medien***. 
+Für die genaue Beschreibung der Funktionen aus dem Kontextmenü siehe Kapitel [Medien](/medien.md). 
 
 Die Dateigröße darf die unter *CMS / Portal-Einstellungen → CMS Einstellungen → Uploader Konfiguration* eingestellten Werte nicht überschreiten.
 
