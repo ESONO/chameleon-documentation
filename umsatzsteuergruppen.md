@@ -1,4 +1,4 @@
-## Umsatzsteuergruppen
+### Umsatzsteuergruppen
 
 ```Shop-Einstellungen → Umsatzsteuergruppen```
 

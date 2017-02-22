@@ -1,4 +1,4 @@
-## Extranet-Konfiguration
+### Extranet-Konfiguration
 
 ```CMS / Portal-Einstellungen → Extranet-Konfiguration```
 

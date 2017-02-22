@@ -1,4 +1,4 @@
-# Variantensets
+### Variantensets
 
 Werden mehrere Varianten eines Artikels angeboten, müssen hier die passenden Variantensets angelegt werden, wie z.B. ein Variantenset *Rahmengröße und Farbe* bei Fahrrädern.
 
