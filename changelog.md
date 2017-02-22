@@ -25,7 +25,7 @@ Die Änderungen können an 3 Stellen eingesehen werden:
 Die Änderungen werden als Liste angezeigt, innerhalb dieser jede Änderung als einzelner Datensatz mit Detailinformationen aufrufbar ist. 
 <br>
 ###### Liste (Übersicht)
-![](/assets/changelog_liste.png)
+![](/assets/changelog_liste_neu.png)
 <br>
 ###### Datensatz
 
