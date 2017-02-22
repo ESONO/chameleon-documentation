@@ -2,7 +2,7 @@
 
 `CMS / Portal-Einstellungen → Portale / Webseiten`
 
-Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Jede dieser Webseiten wird als Portal geführt. An dieser Stelle legen Sie die Grundeinstellungen Ihrer Webseite fest.
+*Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Jede dieser Webseiten wird als Portal geführt. An dieser Stelle legen Sie die Grundeinstellungen Ihrer Webseite fest.
 
 Je Portal können beliebige Domain-Namen hinterlegt werden, unter welchen die Webseite erreichbar sein soll. Neben einer Domain-Unterscheidung, können auch mehrere Portale auf der gleichen Domain laufen, müssen dann aber über einen URL-Präfix unterscheidbar sein.
 
