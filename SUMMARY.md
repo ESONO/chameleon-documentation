@@ -44,7 +44,7 @@
   * [Artikelkategorien](artikelkategorien.md)
   * [Artikeltypen](artikeltypen.md)
   * [Beitragende Personen](beitragende_personen.md)
-  * [Hersteller \/ Marke](hersteller__marke.md)
+  * [Hersteller / Marke](hersteller__marke.md)
   * [Produktattribute](produktattribute.md)
   * [Artikelmerkmale](artikelmerkmale.md)
   * [Artikelvarianten](artikelvarianten.md)
