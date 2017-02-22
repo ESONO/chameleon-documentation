@@ -15,7 +15,7 @@ Um die Suche manuell beeinflussen zu können, besteht die Möglichkeit, im Syste
 
 Neben dem Suchergebnis werden alle Kategorien aufgeführt, in denen die gefundenen Artikel enthalten sind. Neben jeder Kategorie steht, wie viele Treffer in einer Kategorie enthalten sind.
 
-Diese Sucheinstellungen werden in *Shop-Einstellungen → Shops* im Tab *Sucheinstellungen* vorgenommen.
+Diese Sucheinstellungen werden in ```Shop-Einstellungen → Shops``` im Tab ```Sucheinstellungen``` vorgenommen.
 
 Es besteht die Möglichkeit, Chameleon an externe Suchen anzubinden, wie z.B. die extrem performante Volltextsuche *Elasticsearch* (besonders geeignet für große Artikelbestände ab 10.000 Stk. aufwärts) oder der ausgelagerten Such- und Navigationsmaschine *FACT-Finder®*.
 
