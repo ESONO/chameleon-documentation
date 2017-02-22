@@ -1,4 +1,4 @@
-#### Auswertung (Chameleon intern)
+### Auswertung (Chameleon intern)
 
 ```Artikel → Auswertung```
 
