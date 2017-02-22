@@ -25,10 +25,10 @@ Die Änderungen können an 3 Stellen eingesehen werden:
 Die Änderungen werden als Liste angezeigt, innerhalb dieser jede Änderung als einzelner Datensatz mit Detailinformationen aufrufbar ist. 
 <br>
 ###### Liste (Übersicht)
-![](/assets/changelog_liste_neu.png)
+![](/assets/changelog_liste.png)
 <br>
 ###### Datensatz
-
+![](/assets/changelog_datensatz.png)
 Im Datensatz werden diese Änderungsinformationen angezeigt: 
 * Änderungsdatum
 * Benutzer, der die Änderung durchgeführt hat
@@ -38,7 +38,6 @@ Im Datensatz werden diese Änderungsinformationen angezeigt:
 * Art der Änderung (neu, geändert, gelöscht)
 * Was wurde geändert (alter Wert / neuer Wert) 
 
-![](/assets/changelog_datensatz.png)
 <br>
 ###### CSV-Datei
 Das Changelog kann außerdem auch in eine CSV-Datei exportiert werden. Rufen Sie hierfür im Hauptmenü den Menüpunkt `Generischer Tabellen-Export → ExportChangelog` auf und betätigen den Button `Export als Download ausführen`. 
