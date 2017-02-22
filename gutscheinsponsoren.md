@@ -1,4 +1,4 @@
-#### Gutscheinsponsoren
+### Gutscheinsponsoren
 
 ```Rabatte & Gutscheine → Gutscheinsponsoren```
 
