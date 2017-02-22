@@ -1,13 +1,5 @@
 ### Bestellungen
 
-##### Inhalt
-
-<p style="text-indent: 2em;">[<span style="color:#B7C66E">Bestellprozess-Einstellungen</span>](bestellprozess-einstellungen.md)
-
-<br>
-
-<br/>
-
 ```Bestellungen → Bestellungen```
 
 Dies ist die zentrale Stelle für alle im System durchgeführten Bestellungen. In der Bestellung selbst sind alle die mit ihr zusammenhängenden Parameter hinterlegt:
