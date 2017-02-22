@@ -1,4 +1,4 @@
-# E-Mail-Vorlagen
+### E-Mail-Vorlagen
 
 ```CMS Admin → E-Mail-Vorlagen```
 
