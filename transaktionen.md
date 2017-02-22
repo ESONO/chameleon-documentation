@@ -1,4 +1,4 @@
-# Transaktionen
+### Transaktionen
 
 Bei aktiviertem Workflow und den passenden Rechten des CMS-Redakteurs erscheint im Backend-Header das Workflow-Menü:
 

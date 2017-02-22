@@ -1,4 +1,4 @@
-# Grundlagen
+### Grundlagen
 
 Der **Freigabe Workflow** lässt sich Tabellen/Modul-bezogen aktivieren. Er ermöglicht das Anlegen, Ändern und Löschen von Inhalten, ohne dass diese Anpassungen am Inhalt sofort auf der Website ersichtlich sind. 
 

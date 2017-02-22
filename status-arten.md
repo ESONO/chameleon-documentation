@@ -1,4 +1,4 @@
-# Status-Arten
+### Status-Arten
 
 In Datensatz Auflistungen und im Datensatz-Editier-Dialog wird der aktuelle Status eines Datensatzes farblich gekennzeichnet. Durch Anklicken des Status-Symbols erhält man Informationen zur Transaktion, zu der die Änderung gehört.
 

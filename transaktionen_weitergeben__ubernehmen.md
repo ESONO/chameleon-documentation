@@ -1,4 +1,4 @@
-# Transaktionen weitergeben / übernehmen
+### Transaktionen weitergeben / übernehmen
 
 ![](bild74.png)
 
