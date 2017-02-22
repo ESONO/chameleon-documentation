@@ -1,6 +1,6 @@
 # Seiten-Einstellungen
 
-Basisdaten
+```Basisdaten```
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
