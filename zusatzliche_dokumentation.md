@@ -1,4 +1,4 @@
-# Zusätzliche Dokumentation
+## Zusätzliche Dokumentation
 
 Auf Anfrage senden wir Ihnen gerne folgende zusätzliche Anwenderdokumentationen zu:
 
