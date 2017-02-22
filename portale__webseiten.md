@@ -10,7 +10,7 @@ Jedes Portal wird in Chameleon in ```Bereiche``` unterteilt. Dabei sollte mindes
 
 Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Navigation, Primäre Navigation, Footer-Navigation usw.) unterteilt werden. Dabei ist jeder Navigationseinstiegspunkt auch gleichzeitig der URL-Startpunkt der sich darunter befindenden Seiten (der Navigationspunkt selbst wird dabei nicht mehr mit in der URL geführt).
 
-Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
+Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Listenansicht der verfügbaren Portale eingeblendet.
 
 <br> 
 
