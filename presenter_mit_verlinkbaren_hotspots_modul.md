@@ -1,4 +1,4 @@
-# Presenter mit verlinkbaren Hotspots (Modul)
+### Presenter mit verlinkbaren Hotspots (Modul)
 
 Mit individuellen Banner-Präsentationen haben Sie die Möglichkeit, besondere Artikel auf besondere Art und Weise zu präsentieren. Im Chameleon Shop ist dieses Modul in der Regel auf der Startseite eingefügt, aber natürlich kann es an jeder anderen Stelle platziert werden.
 

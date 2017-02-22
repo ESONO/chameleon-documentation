@@ -1,4 +1,4 @@
-# Kundengruppen
+### Kundengruppen
 
 ```Shop-Benutzer → Kundengruppen```
 

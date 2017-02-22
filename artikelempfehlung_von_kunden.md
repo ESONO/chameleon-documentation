@@ -1,4 +1,4 @@
-# Artikelempfehlung von Kunden
+### Artikelempfehlung von Kunden
 
 ```Shop-Benutzer → Artikelempfehlungen von Kunden```
 
