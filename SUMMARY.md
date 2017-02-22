@@ -94,7 +94,7 @@
   * [Interface / Interface Manager](interface__interface_manager.md)
   * [Systemnachrichten / Fehlercodes-Typen](systemnachrichten__fehlercodes-typen.md)
 
-## Weitere Module
+## Weitere Module / Packages
 
 * [Kontaktformular](kontaktformular.md)
 * [Newsletter](newsletter.md)
