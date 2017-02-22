@@ -25,7 +25,7 @@ Die Änderungen können an 3 Stellen eingesehen werden:
 Die Änderungen werden als Liste angezeigt, innerhalb dieser jede Änderung als einzelner Datensatz mit Detailinformationen aufrufbar ist. 
 <br>
 ###### Liste (Übersicht)
-
+![](/assets/changelog_liste.png)
 <br>
 ###### Datensatz
 
@@ -37,6 +37,8 @@ Im Datensatz werden diese Änderungsinformationen angezeigt:
 * Name des veränderten Datensatzes
 * Art der Änderung (neu, geändert, gelöscht)
 * Was wurde geändert (alter Wert / neuer Wert) 
+
+![](/assets/changelog_datensatz.png)
 
 <br>
 ###### CSV-Datei
