@@ -1,20 +1,20 @@
 # Varianten generieren
 
-Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varianten des Hauptartikels (Parent) mithilfe des Variantengenerators anlegen. Gehen Sie beim Parent-Artikel (*Artikel → Artikel*) zum Tab *Varianten* und wählen Sie dort das entsprechende Variantenset aus dem Dropdown-Menü aus. 
+Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varianten des Hauptartikels (Parent) mithilfe des Variantengenerators anlegen. Gehen Sie beim Parent-Artikel (```Artikel → Artikel```) zum Tab ```Varianten``` und wählen Sie dort das entsprechende Variantenset aus dem Dropdown-Menü aus. 
 
-Mit Klick auf den Button ***Mögliche Varianten*** anzeigen
+Mit Klick auf den Button ```Mögliche Varianten``` anzeigen
 
 ![](bild37.png)
 
-erhalten Sie eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Wählen Sie aus den vorgeschlagenen Varianten die aus, die angelegt werden sollen, und klicken Sie auf ***Varianten generieren***.
+erhalten Sie eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Wählen Sie aus den vorgeschlagenen Varianten die aus, die angelegt werden sollen, und klicken Sie auf ```Varianten generieren```.
 
 ![](bild38.png),
 
-Die erzeugten Varianten werden Ihnen sowohl in der Artikelübersicht (*Artikel → Artikel*) angezeigt,
+Die erzeugten Varianten werden Ihnen sowohl in der Artikelübersicht (```Artikel → Artikel```) angezeigt,
 
 ![](bild39.png)
 
-als auch direkt beim Parent-Artikel im Tab *Varianten* → Artikelvarianten.
+als auch direkt beim Parent-Artikel im Tab ```Varianten → Artikelvarianten```.
 
 ![](bild40.png)
 
