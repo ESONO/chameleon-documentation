@@ -1,6 +1,6 @@
-# Bestellungen
+### Bestellungen
 
-#### Inhalt
+##### Inhalt
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E">Bestellprozess-Einstellungen</span>](bestellprozess-einstellungen.md)
 
