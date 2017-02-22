@@ -1,4 +1,4 @@
-# Artikel
+### Artikel
 
 ```Artikel → Artikel```
 
@@ -8,7 +8,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 <br>
 
 
-#### Basisdaten
+`Basisdaten`
 
 
 | Bezeichnung | Beschreibung | erforderlich |
