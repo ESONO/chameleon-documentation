@@ -1,7 +1,7 @@
 # Variantenset
 
 
-Ein **Variantenset** ist eine Kombination aus einem oder mehreren **Variantenarten** eines Produktes. Jede Variantenart verfügt wiederum über entsprechende **Variantenwerte**.
+Ein ```Variantenset``` ist eine Kombination aus einem oder mehreren ```Variantenarten``` eines Produktes. Jede Variantenart verfügt wiederum über entsprechende ```Variantenwerte```.
 
 Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 
