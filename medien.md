@@ -1,4 +1,4 @@
-# Medien
+## Medien
 
 Über den Punkt ```Medien``` gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. Alle Bilder / Videos, die auf der Webseite angezeigt werden sollen, müssen zuerst in der Medienverwaltung hinterlegt werden. 
 
