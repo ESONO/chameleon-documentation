@@ -1,12 +1,12 @@
-## Changelog
+### Changelog
 
-### Zweck / Nutzen
+#### Zweck / Nutzen
 Änderungen im CMS werden protokolliert. 
 
-### Voraussetzungen
+#### Voraussetzungen
 Chameleon Core 4.0.x 
 
-### Verwendung
+#### Verwendung
 
 Das Changelog kann pro Tabelle (= ein Menüpunkt oder Menüunterpunkt im CMS) aktiviert werden. Die Aktivierung wird vom CMS-Administrator (in der Regel Ihr technischer Ansprechpartner) in den Tabelleneinstellungen vorgenommen.
  
