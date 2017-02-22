@@ -26,7 +26,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 <br>
 
 
-#### Beschreibung
+`Beschreibung`
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -36,7 +36,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 <br>
 
-#### Kategorie / Merkmale
+`Kategorie / Merkmale`
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -54,7 +54,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 <br>
 
-#### Preis / Versand
+`Preis / Versand`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -67,7 +67,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 <br>
 
-#### Inhalt / Maße / Gewicht
+`Inhalt / Maße / Gewicht`
 
 Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.
 
@@ -77,13 +77,13 @@ Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3
 
 <br>
 
-#### Varianten
+`Varianten`
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
 
 <br>
 
-####Lager
+`Lager`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -93,13 +93,13 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 
 <br>
 
-#### Cross Selling
+`Cross Selling`
 
 Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).
 
 <br>
 
-#### SEO / Meta
+`SEO / Meta`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -111,7 +111,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 <br>
 
-#### Suche
+`Suche`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -122,7 +122,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 <br>
 
-#### Bewertungen
+`Bewertungen`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -131,7 +131,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 <br>
 
-#### Bundle
+`Bundle`
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -140,7 +140,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 <br>
 
-#### Stats
+`Stats`
 
 ![](bild air.png)
 
