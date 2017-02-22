@@ -4,6 +4,7 @@
 
 ![](bild6.png)
 
+<br>
 Über die Breadcrumb verfolgt das System die vom Benutzer durchgeführten Schritte. Mit Klick auf einen der Punkte können Sie jederzeit zur vorher angesteuerten Seite zurückkehren.
 
 ![](bild7.png)
