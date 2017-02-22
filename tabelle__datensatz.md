@@ -47,7 +47,7 @@ Im oberen Bereich des Datensatzes steht ein Eingabefeld zur Verfügung über wel
 
 <br>
 
-##### Datensatz Details
+##### Datensatz-Details
 
 Im oberen linken Bereich wird die ID des aktiven Datensatzes angezeigt. Dabei werden sowohl eine ID wie auch eine GUID (global unique identifier) aufgeführt. Bei der GUID handelt es sich entweder um die gleiche Nummer wie ID, oder um ein 36 Zeichen langen Identifier (je nachdem ob Komplexe ID Felder in den CMS-Einstellungen aktiviert wurden).
 
