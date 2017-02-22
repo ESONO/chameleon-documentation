@@ -11,7 +11,7 @@ Die in der Liste hinterlegten E-Mail-Adressen werden beim Newsletter-Versand aus
 
 #### Newsletter-Abonennten
 
-Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben, aufgelistet (auch diejenigen, deren Anmeldung noch nicht über den zugesandten Link bestätigt wurde; diese sind durch den Eintrag *Anmeldung wurde bestätigt*: *NEIN* zu erkennen). Jede Anmeldung ist einem bestimmten Kunden zugewiesen und kann eindeutig identifiziert werden. Der exakte Zeitpunkt der Anmeldung und die der Bestätigung kann hier ebenfalls abgelesen werden.
+Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben, aufgelistet (auch diejenigen, deren Anmeldung noch nicht über den zugesandten Link bestätigt wurde; diese sind durch den Eintrag ```Anmeldung wurde bestätigt: NEIN``` zu erkennen). Jede Anmeldung ist einem bestimmten Kunden zugewiesen und kann eindeutig identifiziert werden. Der exakte Zeitpunkt der Anmeldung und die der Bestätigung kann hier ebenfalls abgelesen werden.
 
 | **Name** | Beschreibung |
 | -- | -- |
