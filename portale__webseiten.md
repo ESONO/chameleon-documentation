@@ -52,7 +52,8 @@ Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldi
 
 ![](bild3.png)
 
-##### Speichern / Seitenbaum editieren
+<br>
+```Speichern / Seitenbaum editieren```
 
 Am oberen Rand des Datensatzes steht der Button ```Seitenbaum Editieren``` zur Verfügung.
 
