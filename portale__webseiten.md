@@ -16,8 +16,8 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 
 
-```Basisdaten```
-<br>
+Basisdaten
+
 
 | Bezeichnung | Beschreibung | Erforderlich |
 | -- | -- | -- |
