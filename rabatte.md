@@ -1,6 +1,6 @@
 # Rabatte
 
-*Rabatte & Gutscheine → Rabatte*
+```Rabatte & Gutscheine → Rabatte```
 
 Im System können Rabatte definiert werden, die sich auf den Warenkorb oder auf Teile des Warenkorbs auswirken.
 
