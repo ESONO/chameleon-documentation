@@ -1,4 +1,4 @@
-#### Artikelsuchindex
+### Artikelsuchindex
 
 ```Suche → Artikelsuchindex```
 

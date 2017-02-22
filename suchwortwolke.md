@@ -1,4 +1,4 @@
-#### Suchwortwolke
+### Suchwortwolke
 
 ```Suche → Worte für die Suchwortwolke```
 
