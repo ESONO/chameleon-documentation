@@ -1,15 +1,16 @@
-# Newsletter-Elemente
+### Newsletter-Elemente
 
 ![](bild56.png)
 
-#### Blacklisted Benutzer
+<br>
+`Blacklisted Benutzer`
 
 Die Liste der ```Blacklisted Benutzer``` ist eine Schutzliste mit den E-Mail-Adressen der Personen, die keine unaufgeforderte Werbung erhalten wollen. Sie dienen dem Kundenschutz vor unerwünschter Werbung. Seriöse Unternehmen verpflichten sich, dem Wunsch ihrer registrierten Kunden nach Werbefreiheit nachzukommen und sie nicht weiter zu kommerziellen Zwecken per E-Mail zu kontaktieren.
 Die in der Liste hinterlegten E-Mail-Adressen werden beim Newsletter-Versand ausgeschlossen.
 
 <br>
 
-#### Newsletter-Abonennten
+`Newsletter-Abonennten`
 
 Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben, aufgelistet (auch diejenigen, deren Anmeldung noch nicht über den zugesandten Link bestätigt wurde; diese sind durch den Eintrag ```Anmeldung wurde bestätigt: NEIN``` zu erkennen). Jede Anmeldung ist einem bestimmten Kunden zugewiesen und kann eindeutig identifiziert werden. Der exakte Zeitpunkt der Anmeldung und die der Bestätigung kann hier ebenfalls abgelesen werden.
 
@@ -28,7 +29,7 @@ Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben,
 <br>
 
 
-#### Newsletter-Empfängerlisten / Konfiguration
+`Newsletter-Empfängerlisten / Konfiguration`
 
 Eine Empfängerliste definiert sozusagen die Grundeinstellungen eines Versandes. Hier wird u.a. festgelegt, welche E-Mail-Adresse und welcher Name als Absender des Newsletters angegeben werden und an welche E-Mail-Adresse Antworten des Abonnenten gelangen.
 
@@ -36,12 +37,12 @@ Es sind unterschiedliche Empfängerlisten möglich. Durch die Anmeldeseite wird 
 
 <br>
 
-####Newsletter-Kampagnen
+`Newsletter-Kampagnen`
 
 Dies ist die zentrale Stelle, an welcher alle beteiligten Komponenten für den Versand eines Newsletters zusammen kommen. Eine Kampagne ist die Konfiguration mit allen benötigten Einstellungen für den Newsletter-Versand: Die Zuteilung des zu versendenden Newsletters und die restlichen Angaben werden durch Zuteilung der Empfängerliste zugeschrieben.
+<br>
 
-
-**<u>Basisdaten:</u>**
+`Basisdaten`
 
 | Name | Beschreibung |
 | -- | -- |
@@ -55,7 +56,8 @@ Dies ist die zentrale Stelle, an welcher alle beteiligten Komponenten für den V
 | **Benutzer-abhängige Newsletter generieren** | Wenn ja, wird für jede E-Mailadresse an die der Newsletter gesendet wird, ein personalisierter Newsletter generiert. Dass bedeutet, der Newsletter wird für jede E-Mailadresse neu generiert, was massiv die Performance beeinflusst. Wenn nein, wird der Newsletter nur einmal generiert und einzelne Texte wie z. B. Name oder Anrede werden für jede E-Mailadresse ersetzt. |
 | **Empfängerliste** | alle Empfängerlisten für diesen Newsletter |
 
-**<u>Kampagnenstatus:</u>**
+<br>
+`Kampagnenstatus`
 
 | Name | Beschreibung |
 | -- | -- |

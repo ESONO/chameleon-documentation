@@ -1,4 +1,4 @@
-# Newsletter
+## Newsletter
 
 
 Benutzer können sich auf dem Portal für einen Newsletter anmelden. Bei der Registrierung erhält der Benutzer eine Bestätigungs-E-Mail, in der er seine Registrierung durch den Aufruf des Bestätigungslinks bestätigen muss (Double-Opt-In). 
