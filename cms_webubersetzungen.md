@@ -7,7 +7,7 @@
 
 
 
-Dies ist die zentrale Stelle im CHAMELEON-CMS, um alle im Frontend stehenden übersetzbaren Texte in andere Sprachen zu übersetzen.
+Dies ist die zentrale Stelle im CHAMELEON CMS, um alle im Frontend stehenden übersetzbaren Texte in andere Sprachen zu übersetzen.
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
