@@ -1,4 +1,4 @@
-# Mehrere Seiten mit einem Navigationspunkt verbinden
+### Mehrere Seiten mit einem Navigationspunkt verbinden
 
 (**Achtung:** Nur bis Chameleon Version 5):
 
