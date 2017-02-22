@@ -6,4 +6,4 @@ Hier können Artikeltypen definiert werden. Im Gegensatz zu Warengruppen, die ab
 
 <u>Beispiel</u>: Artikeltypen können zur Kategorisierung von Artikeln verwendet werden, indem man die Typen Buch, CD, DVD usw. definiert.
 
-Die Artikeltypen werden im Artikel im Tab *Kategorie/Merkmale* mit dem Artikel verknüpft.
+Die Artikeltypen werden im Artikel im Tab ```Kategorie/Merkmale``` mit dem Artikel verknüpft.
