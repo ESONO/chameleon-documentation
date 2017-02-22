@@ -1,20 +1,21 @@
-# Grundkonfiguration
+### Grundkonfiguration
 
-#### Empfängerlisten / Konfiguration
+##### Empfängerlisten / Konfiguration
 
 ```Newsletter → Newsletter-Empfängerlisten / Konfiguration```
 
 Richten Sie zuerst eine Empfängerliste ein. Sie dient dazu, dass ihre zukünftigen Abonnenten in einen Verteiler geschrieben werden. Sie können auch mehrere Empfängerlisten einrichten und somit unterschiedliche Newsletter beispielsweise an unterschiedliche Interessengruppen versenden. Wichtig bei der Konfiguration der Empfängerliste ist, dass Sie ihr entsprechendes Portal angeben. Außerdem sollten Sie immer eine Reply- und Absender-E-Mail Adresse angeben. 
+<br>
 
-**<u>Basisdaten:</u>**
+`Basisdaten`
 
 ![](bild57.png)
-
+<br>
 Zusätzlich können in der Empfängerliste individuelle Versandeinstellungen vorgenommen werden:
 
 ![](bild58.png)
-
-**<u>Empfänger definieren:</u>**
+<br>
+`Empfänger definieren`
 
 | Name | Beschreibung |
 | -- | -- |
@@ -25,7 +26,7 @@ Zusätzlich können in der Empfängerliste individuelle Versandeinstellungen vor
 
 <br>
 
-#### Anmeldung
+##### Anmeldung
 
 Um Ihren Kunden einen Newsletter anbieten zu können, muss es für diese möglich sein, sich für ein Newsletter-Abo anzumelden. Richten Sie daher einen Navigationspunkt “Newsletter” ein (z.B. in der Top-Navigation). Verknüpfen Sie mit diesem Navigationspunkt die Systemseite ```Newsletter Anmelden``` (Rechtsklick auf den eben angelegten Navigationspunkt ```Newsletter → Verbundene Seiten → Neu → Seite „Newsletter Anmelden``` aus der Liste auswählen und ```JA``` bei Seitenverbindung aktiv).
 
@@ -47,12 +48,12 @@ Außerdem sollte das Feld ```DoubleOptIn-Verfahren benutzen``` unbedingt auf ```
 
 
 
-##### Newsletter in verschiedenen Sprachen verschicken
+###### Newsletter in verschiedenen Sprachen verschicken
 
 
 Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter ```Anmeldung möglich für``` anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
-
-#### Abmeldung
+<br>
+##### Abmeldung
 
 Die Abmeldeseite ```Newsletter Abmelden``` ist ebenfalls bereits als Systemseite eingerichtet. Die Texte können Sie selbst nach Ihren Wünschen eingeben.
 
