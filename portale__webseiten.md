@@ -48,7 +48,7 @@ Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil
 
 <br>
 
-```robots```
+`robots`
 
 Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!
 
