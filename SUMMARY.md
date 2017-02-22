@@ -97,7 +97,6 @@
 
 ## Weitere Module / Packages
 
-* [Changelog](changelog.md)
 * [Kontaktformular](kontaktformular.md)
 * [Newsletter](newsletter.md)
   * [Newsletter-Elemente](newsletter-elemente.md)
