@@ -23,3 +23,19 @@ Die Änderungen können an 3 Stellen eingesehen werden:
 3. Beim Menüpunkt „CMS Changelog“ (unter CMS Admin). Hier werden alle Änderungen, die im gesamten CMS vorgenommen wurden und für die das Changelog aktiviert wurde, angezeigt. 
  
 Die Änderungen werden als Liste angezeigt, innerhalb dieser jede Änderung als einzelner Datensatz mit Detailinformationen aufrufbar ist. 
+
+###### Liste (Übersicht)
+
+###### Datensatz
+
+Im Datensatz werden diese Änderungsinformationen angezeigt: 
+* Änderungsdatum
+* Benutzer, der die Änderung durchgeführt hat
+* Haupttabelle, die geändert wurde
+* ID des veränderten Datensatzes
+* Name des veränderten Datensatzes
+* Art der Änderung (neu, geändert, gelöscht)
+* Was wurde geändert (alter Wert / neuer Wert) 
+
+###### CSV-Datei
+Das Changelog kann außerdem auch in eine CSV-Datei exportiert werden. Rufen Sie hierfür im Hauptmenü den Menüpunkt `Generischer Tabellen-Export → ExportChangelog` auf und betätigen den Button `Export als Download ausführen`. 
