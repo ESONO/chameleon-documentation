@@ -18,4 +18,4 @@ So kann z.B. die Primäre Navigation, die Top-Navigation und die Footer-Navigati
 
 Einträge im Baum können über Drag-and-Drop untereinander positioniert werden. 
 
-Über Rechtsklick können Navigationspunkte angelegt, editiert oder gelöscht werden. Ist bei einem Punkt bereits eine Seite hinterlegt, kann diese per Rechtsklick editiert werden ***(Seite editieren)*** oder es können die Einstellungen der Seite geöffnet werden ***(Seiten- Einstellungen)***.
+Über Rechtsklick können Navigationspunkte angelegt, editiert oder gelöscht werden. Ist bei einem Punkt bereits eine Seite hinterlegt, kann diese per Rechtsklick editiert werden ```(Seite editieren)``` oder es können die Einstellungen der Seite geöffnet werden ```(Seiten- Einstellungen)```.
