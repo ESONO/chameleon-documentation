@@ -1,4 +1,4 @@
-# CKEditor
+## CKEditor
 
 Der CKEditor, auch WYSIWYG („What You See Is What You Get“) genannt, ermöglicht die einfache Pflege der Inhalte auf den Content-Seiten der Website. Nicht nur Text, sondern auch Medien wie Bilder, Videos oder Dokumenten-Downloads lassen sich mit ihm platzieren.
 
