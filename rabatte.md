@@ -1,4 +1,4 @@
-# Rabatte
+#### Rabatte
 
 ```Rabatte & Gutscheine → Rabatte```
 
