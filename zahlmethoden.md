@@ -1,4 +1,4 @@
-# Zahlmethoden
+#### Zahlmethoden
 
 ```Bestellprozess-Einstellungen → Zahlungsanbieter```
 

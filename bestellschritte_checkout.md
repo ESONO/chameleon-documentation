@@ -1,4 +1,4 @@
-# Bestellschritte (Checkout)
+#### Bestellschritte (Checkout)
 
 ```Bestellprozess-Einstellungen → Bestellschritte```
 
