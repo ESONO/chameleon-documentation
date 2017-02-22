@@ -6,7 +6,7 @@ Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Je
 
 Je Portal können beliebige Domain-Namen hinterlegt werden, unter welchen die Webseite erreichbar sein soll. Neben einer Domain-Unterscheidung, können auch mehrere Portale auf der gleichen Domain laufen, müssen dann aber über einen URL-Präfix unterscheidbar sein.
 
-Jedes Portal wird in Chameleon in Bereiche unterteilt. Dabei sollte mindestens ein Bereich je Navigationsstartpunkt definiert werden. Über die Bereiche lassen sich Einstellungen hinterlegen, die für einen Sub-Baum innerhalb des Portals (also für eine ganze Reihe von Seiten) gelten soll. Dazu gehört unter anderem die Sprache des Bereichs.
+Jedes Portal wird in Chameleon in ```Bereiche``` unterteilt. Dabei sollte mindestens ein Bereich je Navigationsstartpunkt definiert werden. Über die Bereiche lassen sich Einstellungen hinterlegen, die für einen Sub-Baum innerhalb des Portals (also für eine ganze Reihe von Seiten) gelten soll. Dazu gehört unter anderem die Sprache des Bereichs.
 
 Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Navigation, Primäre Navigation, Footer-Navigation usw.) unterteilt werden. Dabei ist jeder Navigationseinstiegspunkt auch gleichzeitig der URL-Startpunkt der sich darunter befindenden Seiten (der Navigationspunkt selbst wird dabei nicht mehr mit in der URL geführt).
 
