@@ -3,11 +3,11 @@
 * [Chameleon Dokumentation](README.md)
 
 ## Vorbemerkung
-* [Vorbemerkungen](chameleon_dokumentation.md)
-  * [Frontend und Backend](chameleon_dokumentation.md#frontend)
-  * [Stage und Live-Umgebung](chameleon_dokumentation.md#stage)
-  * [Datenbackup](chameleon_dokumentation.md#datenbackup)
-  * [Backend](chameleon_dokumentation.md#backend)
+
+* [Frontend und Backend](chameleon_dokumentation.md#frontend)
+* [Stage und Live-Umgebung](chameleon_dokumentation.md#stage)
+* [Datenbackup](chameleon_dokumentation.md#datenbackup)
+* [Backend](chameleon_dokumentation.md#backend)
 
 ## Allgemeine Bedienung und Content Management
 
