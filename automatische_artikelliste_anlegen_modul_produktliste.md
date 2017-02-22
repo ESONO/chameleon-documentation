@@ -1,6 +1,6 @@
 # Automatische Artikelliste anlegen (Modul Produktliste)
 
-Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, das Modul **Produktliste** an.
+Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, das Modul ```Produktliste``` an.
 
 #### Basisdaten
 
@@ -18,6 +18,6 @@ Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, 
 
 ![](bild42.png)
 
-Möchten Sie manuell ausgewählte Produkte anzeigen lassen, wählen Sie bei **Filter** / **Inhalt** „Manuelle Selektion“. Im Tab *Über die Alternativselektion kann definiert werden, wie sich die Liste verhalten soll, wenn der gewählte Filter keine Ergebnisse bringt* können Sie entweder Artikel aus bestimmten Warengruppen oder Produktkategorien anzeigen lassen oder auch einzeln selektierte Artikel. Diese Auswahl können Sie auch treffen, wenn Sie z.B. eine Filter gewählt haben, der keine Ergebnisse bringt wie „Zuletzt angeschaut“.
+Möchten Sie manuell ausgewählte Produkte anzeigen lassen, wählen Sie bei ```Filter/Inhalt``` ```Manuelle Selektion```. Im Tab ```Über die Alternativselektion kann definiert werden, wie sich die Liste verhalten soll, wenn der gewählte Filter keine Ergebnisse bringt``` können Sie entweder Artikel aus bestimmten Warengruppen oder Produktkategorien anzeigen lassen oder auch einzeln selektierte Artikel. Diese Auswahl können Sie auch treffen, wenn Sie z.B. eine Filter gewählt haben, der keine Ergebnisse bringt wie „Zuletzt angeschaut“.
 
-Im Tab *Filter* kann bestimmt werden, ob die Artikelliste durch einen Shop-Listenfilter weiter eingeschränkt werden soll (anzulegen in einem 2. Steckplatz auf der Seite). Es kann immer nur eine Liste auf der Seite für diesen Filter freigegeben werden.
+Im Tab ```Filter``` kann bestimmt werden, ob die Artikelliste durch einen Shop-Listenfilter weiter eingeschränkt werden soll (anzulegen in einem 2. Steckplatz auf der Seite). Es kann immer nur eine Liste auf der Seite für diesen Filter freigegeben werden.
