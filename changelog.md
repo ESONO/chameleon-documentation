@@ -1,4 +1,8 @@
 ## Changelog
 
-lorem ipsum
+### Zweck / Nutzen
+
+### Voraussetzungen
+
+### Verwendung
 
