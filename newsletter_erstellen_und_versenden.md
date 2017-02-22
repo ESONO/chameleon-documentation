@@ -1,4 +1,4 @@
-# Newsletter erstellen und versenden
+### Newsletter erstellen und versenden
 
 <br>
 
