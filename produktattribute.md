@@ -1,4 +1,4 @@
-# Produktattribute
+### Produktattribute
 
 ```Artikel → Produktattribute```
 

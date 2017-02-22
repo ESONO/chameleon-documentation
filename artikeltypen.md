@@ -1,4 +1,4 @@
-# Artikeltypen
+### Artikeltypen
 
 ```Artikel → Artikeltypen```
 

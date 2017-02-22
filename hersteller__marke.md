@@ -1,4 +1,4 @@
-# Hersteller / Marke
+### Hersteller / Marke
 
 ```Artikel → Hersteller/Marke```
 

@@ -1,6 +1,6 @@
-# Artikelmerkmale
+### Artikelmerkmale
 
-#### Inhalt
+##### Inhalt
 
 
 ![](bild29.png)

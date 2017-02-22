@@ -1,4 +1,4 @@
-## Variantenset
+#### Variantenset
 
 
 Ein ```Variantenset``` ist eine Kombination aus einem oder mehreren ```Variantenarten``` eines Produktes. Jede Variantenart verfügt wiederum über entsprechende ```Variantenwerte```.

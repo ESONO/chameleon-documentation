@@ -1,4 +1,4 @@
-# Artikelvarianten
+### Artikelvarianten
 
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können im Chameleon Backend mithilfe des ```Variantengenerators``` erzeugt werden.

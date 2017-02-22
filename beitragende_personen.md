@@ -1,4 +1,4 @@
-# Beitragende Personen
+### Beitragende Personen
 
 ```Artikel → Beitragende Personen (z.B. Autoren für Artikel)```
 
