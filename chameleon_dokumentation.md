@@ -17,7 +17,7 @@ Anwender sollten mit individuellen Zugängen Arbeiten am Backend vornehmen, da e
 
 Menüpunkte im Backend werden in dieser Dokumentation wie folgt aufgeführt:
 
-Artikel → Artikelkategorien
+```Artikel → Artikelkategorien```
 
 ![](Chameleon_Anwenderdokumentation_Standardshop_V6.png)
 
