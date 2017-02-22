@@ -6,7 +6,7 @@
 
 ![](bild63.png)
 
-Der Newsletter wird als Seite im Backend angelegt. Sie können die Newsletter z.B. unter dem Menüpunkt „Newsletter“ als versteckte Seiten anlegen (versteckt, damit sie nicht verlinkt auf Ihrer Website erscheinen). Sie können aber auch einen eigenen Navigationspunkt *Newsletter* unter dem Hauptportal anlegen und darunter die einzelnen Newsletter-Seiten hängen (in diesem Fall muss auch der oberste Navigationspunkt versteckt sein).
+Der Newsletter wird als Seite im Backend angelegt. Sie können die Newsletter z.B. unter dem Menüpunkt ```Newsletter``` als versteckte Seiten anlegen (versteckt, damit sie nicht verlinkt auf Ihrer Website erscheinen). Sie können aber auch einen eigenen Navigationspunkt ```Newsletter``` unter dem Hauptportal anlegen und darunter die einzelnen Newsletter-Seiten hängen (in diesem Fall muss auch der oberste Navigationspunkt versteckt sein).
 
 Für ein einheitliches CI empfiehlt es sich, vorab eine Seitenvorlage für den Newsletter zu erstellen, die Sie dann einfach bei jeder Newsletter-Seite verwenden können (Navigation editieren → Seiten/Layouts).
 
