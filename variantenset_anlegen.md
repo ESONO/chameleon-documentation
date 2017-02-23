@@ -1,4 +1,4 @@
-##### Variantenset anlegen
+#### Variantenset anlegen
 
 Legen Sie zunächst ein neues Variantenset an (```Shop-Einstellungen → Variantensets```).
 

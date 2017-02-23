@@ -1,4 +1,4 @@
-##### Variantenwerte anlegen
+#### Variantenwerte anlegen
 
 Mit Klick auf ```Neu``` verlassen Sie jetzt die angelegte Variantenart und gelangen zu einer neuen Maske. Die Zugehörigkeit zur Variantenart *Farbe* wird in der ersten Zeile angezeigt.
 * ```Name``` des Variantenwerts: Tragen Sie den Wert der Variante ein, z.B. bei Farben den Wert indigo<sup>1</sup>
