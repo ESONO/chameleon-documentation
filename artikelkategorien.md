@@ -1,6 +1,6 @@
 ### Artikelkategorien
 
-```Artikel → Artikelkategorien```
+    Artikel → Artikelkategorien
 
 Die Shop-Kategorien sind Präsentationsflächen Ihres Shops. Die Kategorien selbst können beliebig viele Unterkategorien haben. Beim Anlegen der Kategorien ist grundsätzlich zu beachten „Versetzen Sie sich in Ihre Käufer“ und erstellen Sie eine Reihe von Kategorien, mit deren Hilfe Käufer schnellstens zu den gewünschten Artikeln gelangen.
 
