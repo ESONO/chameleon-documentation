@@ -8,7 +8,7 @@ Geldwert-Gutscheine erscheinen unterhalb der Produktbruttosumme mit Namen und We
 
 Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen beziehen sich auf die Gutscheinserie, und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
 
-Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^2]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
+Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^1]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
 
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
@@ -74,4 +74,4 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
 
-[^2]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
+[^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
