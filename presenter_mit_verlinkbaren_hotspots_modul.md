@@ -8,6 +8,8 @@ In jedem Bild können beliebig viele Hotspots positioniert und mit einem Artikel
 
 Die Hotspots sind mit kleinen Symbolen (z.B. einem Pluszeichen) auf dem Bild markiert. Bei Mouseover über einen Hotspot erscheinen Informationen zum Artikel (Artikelname und Preis), zur Kategorie oder zur verlinkten Seite. Mit Klick auf den Hotspot gelangt man zur jeweiligen Seite.
 
-![](bild46.png)
+![](/assets/presenter.png)
+
+<br>
 
 Weiterhin lassen sich verlinkte Polygonflächen auf dem Bild einfügen (es ist dann kein Hotspot-Symbol sichtbar), die auf Mouseover reagieren. Bei Klick auf die verlinkte Fläche (wird durch Koordinaten eingegeben) gelangt man wie beim Hotspot zum Artikel, zur Kategorie oder auf eine Seite. Zusätzlich lässt sich noch einstellen, ob beim Mouseover über die Polygonfläche ein Info-Layover eingeblendet werden soll.
