@@ -43,6 +43,7 @@ Hier können Sie die Übersetzungen des CHAMELEON-CMS selbst, also die im Backen
 Diese Funktion steht in der Regel nur Administratoren zur Verfügung.
 
 <br>
+
 ### Übersetzungen von Fehlermeldungen
 
     CMS / Portal-Einstellungen → Portale / Webseiten
