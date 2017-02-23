@@ -10,7 +10,7 @@ Beispiel eines Bestellprozesses (auch Checkout genannt):
 ###### Darstellung im Frontend:
 
 ![](bild47.png)
-
+<br>
 ###### Einstellung im Backend:
 
 ![](bild48.png)
