@@ -1,9 +1,9 @@
 ## Zentrale Shop-Einstellungen
 ----
 ### Shops
-```Shop-Einstellungen → Shops```
+    Shop-Einstellungen → Shops
 
-Unter ```Shops``` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
+Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
 | Tab | Beschreibung |
 | -- | -- |
