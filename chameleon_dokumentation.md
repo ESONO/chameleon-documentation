@@ -21,9 +21,7 @@ Menüpunkte im Backend werden in dieser Dokumentation wie folgt aufgeführt:
 
 
 
-`Tab Basisdaten`
-
-
+oder Tabs/Reiter `Basisdaten`
 
 Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeichnet durch ![](bildfragezeichen.png).
 
