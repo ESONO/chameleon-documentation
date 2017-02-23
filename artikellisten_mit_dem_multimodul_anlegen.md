@@ -11,9 +11,9 @@ Möchten Sie z.B. auf der Produktdetailseite weitere Listen wie „Dazu passt“
 
 ![](bild44.png)
 
-**Achtung**: Die Artikel, die in den Cross-Selling-Listen *Zubehör* und *Ähnliche Artikel* („Dazu passt“) erscheinen sollen, werden beim Artikel selbst im Tab ```Cross Selling``` hinterlegt. 
+**Achtung**: Die Artikel, die in den Cross-Selling-Listen *Zubehör* und *Ähnliche Artikel* („Dazu passt“) erscheinen sollen, werden beim Artikel selbst im Tab `Cross Selling` hinterlegt. 
 
-Die Reihenfolge der umschaltbaren Tabs wird über den Button ```Sortierung``` im Multimodul-Set gesteuert.
+Die Reihenfolge der umschaltbaren Tabs wird über den Button `Sortierung` im Multimodul-Set gesteuert.
 
 ![](bild45.png)
 
