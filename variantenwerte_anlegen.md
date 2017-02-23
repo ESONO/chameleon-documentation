@@ -11,7 +11,7 @@ Die weiteren Felder in dieser Maske wie z.B. `Preisauf-/abschlag` füllen Sie na
 <br>
 Wenn Sie einen Variantenwert gespeichert haben, können Sie gleich mit Klick auf `Neu` den nächsten Wert anlegen, Sie müssen nicht zurück in die Maske _Variantenart_ gehen.
 
-![](bild36.png)
+![](/assets/artikelvarianten_variantenwerte.png)
 
 <br>
 Die Variantenwerte können mit einem Namen, einem Bild, und einem Farbwert versehen werden. 
