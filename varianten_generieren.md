@@ -1,26 +1,24 @@
 ### Varianten generieren
 
-Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varianten des Hauptartikels (Parent) mithilfe des Variantengenerators anlegen. Gehen Sie beim Parent-Artikel (```Artikel → Artikel```) zum Tab ```Varianten``` und wählen Sie dort das entsprechende Variantenset aus dem Dropdown-Menü aus. 
+Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varianten des Hauptartikels (Parent) mithilfe des Variantengenerators anlegen. Gehen Sie beim Parent-Artikel (`Artikel → Artikel`) zum Tab `Varianten` und wählen Sie dort das entsprechende Variantenset aus dem Dropdown-Menü aus. 
 
-Mit Klick auf den Button ```Mögliche Varianten``` anzeigen
+Mit Klick auf den Button `Mögliche Varianten` anzeigen
 
-![](bild37.png)
+![](/assets/artikelvarianten_varianten_generieren1.png)
 
-erhalten Sie eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Wählen Sie aus den vorgeschlagenen Varianten die aus, die angelegt werden sollen, und klicken Sie auf ```Varianten generieren```.
+erhalten Sie eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Wählen Sie aus den vorgeschlagenen Varianten die aus, die angelegt werden sollen, und klicken Sie auf `Varianten generieren`.
 
-![](bild38.png),
+![](/assets/artikelvarianten_varianten_generieren2.png)
 
-Die erzeugten Varianten werden Ihnen sowohl in der Artikelübersicht (```Artikel → Artikel```) angezeigt,
 
-![](bild39.png)
+Die erzeugten Varianten werden Ihnen sowohl in der Artikelübersicht (`Artikel → Artikel`) angezeigt als auch direkt beim Parent-Artikel im Tab `Varianten → Artikelvarianten`.
 
-als auch direkt beim Parent-Artikel im Tab ```Varianten → Artikelvarianten```.
+![](/assets/artikelvarianten_varianten_generieren3.png)
 
-![](bild40.png)
 
-Im Frontend wird der Artikel auf der Produktdetailseite mit den auswählbaren Varianten angezeigt:
+Im Frontend wird der Artikel auf der [Produktdetailseite mit den auswählbaren Varianten](https://demo.chameleon-system.de/testmarke-3/gehaekeltes/merino-muetze-muetzen_pid_820_6702.html?_ref=spot3&url=%2FProdukte%2FGehaekeltes%2FMuetzen%2F) angezeigt:
 
-![](bild41.png)
+![](/assets/artikelvarianten_varianten_generieren4.png)
 
 <u>Hinweis</u>: Der Hauptartikel eines Variantensets kann nicht gekauft werden – ein Kunde muss also immer eine Variante wählen. Um Sortierung nach Preisen, Beliebtheit usw. sinnvoll durchführen zu können, werden folgende Felder der Varianten vom System automatisch summiert und beim Hauptartikel hinterlegt:
 1. Preis
