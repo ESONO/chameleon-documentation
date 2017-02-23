@@ -1,6 +1,6 @@
 ### Anzeige Shop-Hauptnavigation
 
-```Website → Shop-Hauptnavigation```
+    Website → Shop-Hauptnavigation
 
 Über diesen Menüpunkt wird die Anzeige der Shop-Hauptnavigation gesteuert.
 
