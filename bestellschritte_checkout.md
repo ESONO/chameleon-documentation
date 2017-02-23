@@ -7,7 +7,7 @@ Während der Bestellung durchläuft der Käufer alle zur Bestellung nötigen Sch
 Die Bestellschritte können Sie je nach Anforderung Ihres Shops selbst definieren.
 Beispiel eines Bestellprozesses (auch Checkout genannt):
 
-Darstellung im Frontend:
+###### Darstellung im Frontend:
 
 ![](bild47.png)
 
