@@ -82,9 +82,9 @@
   * [Suchwortwolke](suchwortwolke.md)
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
-  * [CMS Webübersetzungen](ubersetzungen.md#cms_webuebersetzungen)
-  * [CMS Übersetzungen](ubersetzungen.md#cms_uebersetzungen)
-  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#uebersetzungen_von_fehlermeldungen)
+  * [CMS Webübersetzungen](ubersetzungen.md#cms_webübersetzungen)
+  * [CMS Übersetzungen](ubersetzungen.md#cms_übersetzungen)
+  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#übersetzungen_von_fehlermeldungen)
 
 ## Systemeinstellungen
 
