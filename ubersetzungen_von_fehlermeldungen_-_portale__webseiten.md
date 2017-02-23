@@ -1,4 +1,4 @@
-### Übersetzungen von Fehlermeldungen -> Portale / Webseiten
+### Übersetzungen von Fehlermeldungen
 
     CMS / Portal-Einstellungen → Portale / Webseiten
 
