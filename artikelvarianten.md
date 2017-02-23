@@ -18,7 +18,7 @@ Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 
 ```
 
-**Variantenset:** Größe und Farbe (= Name)
+**Variantenset:** Größe und Farbe (= Name/Bezeichnung)
     
 **Variantenarten:**
  * Größe
