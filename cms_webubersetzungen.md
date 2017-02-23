@@ -3,7 +3,7 @@
 [gültig bis Chameleon Version 6.0]
 
 
-```CMS / Portal-Einstellungen → CMS Webübersetzungen```
+    CMS / Portal-Einstellungen → CMS Webübersetzungen
 
 
 

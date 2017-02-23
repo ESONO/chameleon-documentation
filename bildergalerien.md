@@ -1,6 +1,6 @@
 ## Bildergalerien
 
-```Website → Bildergalerien```
+    Website → Bildergalerien
 
 Durch die Bildergalerien hat man die Möglichkeit, im Frontend Bildsammlungen zu präsentieren. Es können beliebig viele Bildergalerien angelegt werden, die jeweils beliebig viele Bilder enthalten können.
 
@@ -18,6 +18,6 @@ Durch die Bildergalerien hat man die Möglichkeit, im Frontend Bildsammlungen zu
 
 Die Bildergalerien können über einen im Frontend anzulegenden View angezeigt werden.
 
-Beispiel Bildergalerie im Frontend:
+###### Beispiel Bildergalerie im Frontend:
 
 ![](bild51.png)
