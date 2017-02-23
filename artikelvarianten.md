@@ -16,7 +16,7 @@ Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 
 <br>
 
-1. Variantenset: Größe und Farbe (= Name)
+**Variantenset:** Größe und Farbe (= Name)
     
 2. Variantenarten:
      2.1. Größe
