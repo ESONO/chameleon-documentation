@@ -14,7 +14,7 @@ Gilt der Rabatt nur für bestimmte Artikel oder Kategorien, beziehen sich die Ei
 Rabatte können außerdem auf bestimmte Benutzergruppen oder Benutzer sowie bestimmte Länder eingeschränkt werden. 
 Hier ist zu beachten, dass so eingeschränkte Rabatte erst zur Anwendung kommen, nachdem sich der Benutzer angemeldet bzw. sein Lieferland gewählt hat.
 
-Generell können Rabatte als absoluter Wert oder als prozentualer Wert angegeben werden. Die prozentuale Angabe bezieht sich auf die für den Rabatt relevanten Artikel. Hier muss also nicht unbedingt der ganze Warenkorb betroffen sein.
+Generell können Rabatte als [absoluter Wert](https://demo.chameleon-system.de/testmarke-4/beispielprodukte/artikel-mit-rabatt-absolut_pid_839_6992.html?_ref=spot2&url=%2FTestbereich%2FBeispielprodukte%2F) oder als [prozentualer Wert](https://demo.chameleon-system.de/testmarke-4/beispielprodukte/artikel-mit-rabatt-prozentual_pid_839_6995.html?_ref=spot2&url=%2FTestbereich%2FBeispielprodukte%2F) angegeben werden. Die prozentuale Angabe bezieht sich auf die für den Rabatt relevanten Artikel. Hier muss also nicht unbedingt der ganze Warenkorb betroffen sein.
 
 Zusätzlich zu der prozentualen oder absoluten Angabe kann ein Gratisartikel bei einem Rabatt hinterlegt werden. Wird ein Rabatt mit einem Gratisartikel angewendet, so wird der Gratisartikel automatisch mit einem 0,- € Wert in den Warenkorb gelegt.
 
