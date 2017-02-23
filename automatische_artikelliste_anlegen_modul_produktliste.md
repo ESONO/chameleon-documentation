@@ -1,6 +1,6 @@
-#### Automatische Artikelliste anlegen (Modul Produktliste)
+#### Automatische Artikelliste anlegen (Modul Produkt-Liste)
 
-Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, das Modul ```Produktliste``` an.
+Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, das Modul `Produkt-Liste` an.
 
 `Basisdaten`
 
