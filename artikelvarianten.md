@@ -1,4 +1,4 @@
-### Artikelvarianten
+## Artikelvarianten
 
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können im Chameleon Backend mithilfe des **Variantengenerators** erzeugt werden.
@@ -7,7 +7,7 @@ Dafür wird zunächst ein generisches **Variantenset** erzeugt (z.B. *Größe un
 
 Zur Veranschaulichung dieser Dokumentation wird als Produkt ein **T-Shirt** in verschiedenen **Größen und Farben** verwendet.
 
-#### Variantenset
+### Variantenset
 
 
 Ein `Variantenset` ist eine Kombination aus einem oder mehreren `Variantenarten` eines Produktes. Jede Variantenart verfügt wiederum über entsprechende `Variantenwerte`.
