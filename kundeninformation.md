@@ -1,7 +1,7 @@
 ## Kundeninformation
 
 
-Informationen Kunden betreffen finden sich im Hauptmenü unter 
+Informationen Kunden betreffend finden sich im Hauptmenü unter 
 
     Shopkunden / Benutzer
 
