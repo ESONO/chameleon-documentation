@@ -1,6 +1,6 @@
 ## Übersetzungen
 
-Ab CHAMELEON Version 6.1 steht eine komplett überarbeite Funktionalität der Mehrsprachigkeit zur Verfügung. Möchten Sie Ihren Shop mehrsprachig darstellen, empfehlen wir ein Update auf diese Version. 
+Ab CHAMELEON Version 6.1 steht eine komplett überarbeite Funktionalität der Mehrsprachigkeit zur Verfügung.
 
 ### CMS Webübersetzungen
 [gültig bis Chameleon Version 6.0]
