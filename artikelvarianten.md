@@ -25,5 +25,5 @@ Das Variantenset unseres Beispiels sieht folgendermaßen aus:
     
 **Variantenwerte:** Jede Variantenart hat entsprechende Werte
  * Variantenart _Größe_ hat die Werte S, M, L
- * Variantenart _Farbe_ hat die Werte rot, pink, gelb, indigo, olive
+ * Variantenart _Farbe_ hat die Werte schnee, neon grün, grau marmor, nuss anthrazit, weinrot pink, petrol violet
  
