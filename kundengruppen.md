@@ -13,7 +13,7 @@ Kundengruppen können in CHAMELEON frei definiert werden und finden ihre Anwendu
 
 Kunden können nicht nur automatisch einer Kundengruppe zugewiesen werden, sondern auch direkt im Kundendatensatz:
 
-```Kunde → Basisdaten → Kundengruppen → Haken bei entsprechender Kundengruppe setzen```
+    Kunde → Basisdaten → Kundengruppen → Haken bei entsprechender Kundengruppe setzen
 
 ###### Zugriffsbeschränkung
 
