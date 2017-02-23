@@ -3,7 +3,6 @@
 Ab CHAMELEON Version 6.1
 
 ### CMS Webübersetzungen
-
 [gültig bis Chameleon Version 6.0]
 
 
@@ -35,7 +34,6 @@ Stellen Sie nun auf die gewünschte Editiersprache um. Das zu übersetzende Feld
 <br>
 
 ### CMS Übersetzungen
-
 [gültig bis Chameleon Version 6.0]
 
 
@@ -48,7 +46,6 @@ Diese Funktion steht in der Regel nur Administratoren zur Verfügung.
 <br>
 
 ### Übersetzungen von Fehlermeldungen
-
     CMS / Portal-Einstellungen → Portale / Webseiten
 
 Einige Systemmeldungen und Fehlercodes erscheinen auch im Frontend und sollten daher ebenfalls übersetzt werden (Feld `Meldung`)
