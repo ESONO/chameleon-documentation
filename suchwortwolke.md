@@ -1,6 +1,6 @@
 ### Suchwortwolke
 
-```Suche → Worte für die Suchwortwolke```
+    Suche → Worte für die Suchwortwolke
 
 In den Einstellungen der Suchwolke hat man die Möglichkeit, Wörter, die in der Suchwortwolke im Frontend angezeigt werden sollen, frei zu definieren.
 
