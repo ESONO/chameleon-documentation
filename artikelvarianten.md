@@ -21,8 +21,8 @@ Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 **Variantenset:** Größe und Farbe (= Name/Bezeichnung)
     
 **Variantenarten:**
- * Größe
- * Farbe
+ 1. Größe
+ 2. Farbe
     
 **Variantenwerte:** Jede Variantenart hat entsprechende Werte
  * Variantenart _Größe_ hat die Werte S, M, L
