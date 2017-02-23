@@ -27,3 +27,5 @@ Legen Sie zunächst ein neues Variantenset an.
 
 Klicken Sie auf `Neu` – Sie gelangen nun in eine neue Maske, sh. nächster Abschnitt.
 
+![](/bild30.png)
+
