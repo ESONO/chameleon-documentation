@@ -26,5 +26,5 @@ Kunden können für Produkte eigene Rezensionen erstellen. Über das entsprechen
 | **Rezension** | Die Rezension des Kunden für diesen Artikel |
 | **Erstellt am** | Erstellungsdatum der Rezension |
 
-Rezensionen sind direkt mit dem Kunden (Rezensionen) als auch dem Produkt (```Bewertungen → Kundenrezensionen```) verknüpft.
+Rezensionen sind direkt mit dem Kunden (Rezensionen) als auch dem Produkt (`Bewertungen → Kundenrezensionen`) verknüpft.
 
