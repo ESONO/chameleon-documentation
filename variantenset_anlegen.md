@@ -1,8 +1,9 @@
 #### Variantenset anlegen
 
+    Shop-Einstellungen → Variantensets
+
 Legen Sie zunächst ein neues Variantenset an.
 
-    Shop-Einstellungen → Variantensets
 
 ![](/bild29.png)
 
