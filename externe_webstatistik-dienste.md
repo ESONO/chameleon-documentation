@@ -8,4 +8,5 @@ Derzeit werden folgende Dienste unterstützt:
 
 * Google Analytics
 
+<br>
 Da die „Externen Webstatistik-Dienste“ als separate Module im System eingebunden werden, ist die Entwicklung neuer Module und dadurch die Anbindung neuer externer Dienste jederzeit möglich.
