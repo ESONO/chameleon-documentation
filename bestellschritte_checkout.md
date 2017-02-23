@@ -11,7 +11,7 @@ Beispiel eines Bestellprozesses (auch Checkout genannt):
 
 ![](bild47.png)
 
-Einstellung im Backend:
+###### Einstellung im Backend:
 
 ![](bild48.png)
 
