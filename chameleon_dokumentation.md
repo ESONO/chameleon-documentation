@@ -20,5 +20,10 @@ Menüpunkte im Backend werden in dieser Dokumentation wie folgt aufgeführt:
 ![](/assets/vorbemerkung_backend.png)
 
 
+
+`Tab Basisdaten`
+
+
+
 Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeichnet durch ![](bildfragezeichen.png).
 
