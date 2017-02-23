@@ -83,7 +83,7 @@
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
   * [CMS Webübersetzungen](ubersetzungen.md#cms_webubersetzungen)
-  * [CMS Übersetzungen](cms_ubersetzungen.md)
+  * [CMS Übersetzungen](ubersetzungen.md#cms_ubersetzungen)
   * [Übersetzungen von Fehlermeldungen -&gt; Portale \/ Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
 
 ## Systemeinstellungen
