@@ -15,9 +15,8 @@ Anwender sollten mit individuellen Zugängen Arbeiten am Backend vornehmen, da e
 
 Menüpunkte im Backend werden in dieser Dokumentation wie folgt aufgeführt:
 
-```Artikel → Artikelkategorien```
-
-![](/assets/vorbemerkung_backend.png)
+    Artikel → Artikelkategorien
+/assets/vorbemerkung_backend.png)
 
 
 Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeichnet durch ![](bildfragezeichen.png).
