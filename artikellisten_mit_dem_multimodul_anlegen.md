@@ -1,6 +1,7 @@
 #### Artikellisten mit dem Multimodul anlegen
 
-![](bild43.png)
+
+![](/assets/artikellisten_multimodul.png)
 
 Mit dem Multimodul können in einem Steckplatz mehrere Module platziert und somit Modul-Kollektionen vorkonfiguriert werden, die auf beliebigen Seiten einsetzbar sind. So können z.B. mehrere Artikellisten an einer Stelle auf der Seite platziert werden, die durch umschaltbare Tabs erreichbar sind.
 
