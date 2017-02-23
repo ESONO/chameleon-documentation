@@ -82,7 +82,7 @@
   * [Suchwortwolke](suchwortwolke.md)
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
-  * [CMS Webübersetzungen](cms_webubersetzungen.md)
+  * [CMS Webübersetzungen](ubersetzungen.md#cms_webubersetzungen)
   * [CMS Übersetzungen](cms_ubersetzungen.md)
   * [Übersetzungen von Fehlermeldungen -&gt; Portale \/ Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
 
