@@ -1,8 +1,9 @@
 #### Variantenarten anlegen
 
-Mit Klick auf `Neu` verlassen Sie das angelegte Variantenset und gelangen zu einer neuen Maske. Die Zugehörigkeit zum Set *Größe und Farbe* wird in der ersten Zeile angezeigt.
+Mit Klick auf `Neu` verlassen Sie das angelegte Variantenset und gelangen zu einer neuen Maske. Die Zugehörigkeit zum Set *Merino: Frabe, Größe* wird in der ersten Zeile angezeigt.
 
-![](bild33.png)
+![](/assets/artikelvarianten_variantenarten.png)
+
 <br>
 
 Füllen Sie zunächst die Pflichtfelder (durch * gekennzeichnet) aus:
