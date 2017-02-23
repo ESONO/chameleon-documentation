@@ -84,7 +84,7 @@
 * [Übersetzungen](ubersetzungen.md)
   * [CMS Webübersetzungen](ubersetzungen.md#cms_webubersetzungen)
   * [CMS Übersetzungen](ubersetzungen.md#cms_ubersetzungen)
-  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#ubersetzungen_von_fehlermeldungen_-_portale__webseiten)
+  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#ubersetzungen_von_fehlermeldungen)
 
 ## Systemeinstellungen
 
