@@ -6,10 +6,10 @@ Mit Klick auf `Neu` verlassen Sie jetzt die angelegte Variantenart und gelangen 
 
 Die weiteren Felder in dieser Maske wie z.B. `Preisauf-/abschlag` füllen Sie nach Bedarf aus.
 
-<br>
 ![](bild35.png)
 
-Wenn Sie einen Variantenwert gespeichert haben, können Sie gleich mit Klick auf `Neu` den nächsten Wert anlegen, Sie müssen nicht zurück in die Maske Variantenart gehen.
+<br>
+Wenn Sie einen Variantenwert gespeichert haben, können Sie gleich mit Klick auf `Neu` den nächsten Wert anlegen, Sie müssen nicht zurück in die Maske _Variantenart_ gehen.
 
 ![](bild36.png)
 
