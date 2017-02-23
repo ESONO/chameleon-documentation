@@ -18,13 +18,13 @@ Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 
 **Variantenset**: Größe und Farbe
     
-* **Variantenarten**:
-  * Größe
-  * Farbe
+   **Variantenarten**:
+       * Größe
+       * Farbe
     
-    * **Variantenwerte**: Jede Variantenart hat entsprechende Werte
-      * S, M, L (Variantenart *Größe*)
-      * rot, pink, gelb, indigo, olive (Variantenart *Farbe*)
+           **Variantenwerte**: Jede Variantenart hat entsprechende Werte
+                  * S, M, L (Variantenart *Größe*)
+                  * rot, pink, gelb, indigo, olive (Variantenart *Farbe*)
       
 ```
 
