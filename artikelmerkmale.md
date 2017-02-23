@@ -1,9 +1,5 @@
 ### Artikelmerkmale
 
-##### Inhalt
-
-
-![](bild29.png)
 
     Artikel → Shop-Artikelmerkmale
 
