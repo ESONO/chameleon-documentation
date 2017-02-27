@@ -1,10 +1,10 @@
 ### Grundkonfiguration
 
-[Empfängerlisten / Konfiguration]
+[Empfängerlisten / Konfiguration](newsletter_grundkonfiguration.md#empfängerlisten)
 
 [Anmeldung](newsletter_grundkonfiguration.md#anmeldung)
 
-[Newsletter in verschiedenen Sprachen verschicken]
+[Newsletter in verschiedenen Sprachen verschicken](newsletter_grundkonfiguration.md#sprachen)
 
 [Abmeldung](newsletter_grundkonfiguration.md#abmeldung)
 
