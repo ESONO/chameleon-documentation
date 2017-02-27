@@ -6,7 +6,7 @@
 
 [Newsletter in verschiedenen Sprachen verschicken](newsletter_grundkonfiguration.md#sprachen)
 
-[Abmeldung](newsletter_grundkonfiguration.md#abmeldung)
+[Vom Newsletter abmelden](newsletter_grundkonfiguration.md#abmelden)
 
 <br>
 
@@ -66,7 +66,7 @@ Außerdem sollte das Feld `DoubleOptIn-Verfahren benutzen` unbedingt auf `JA` ei
 
 Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter `Anmeldung möglich für` anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
 <br>
-#### Abmeldung
+#### Vom Newsletter abmelden
 
 Die Abmeldeseite `Newsletter Abmelden` ist ebenfalls bereits als Systemseite eingerichtet. Die Texte können Sie selbst nach Ihren Wünschen eingeben.
 
