@@ -7,7 +7,7 @@
 <br>
 Über die Breadcrumb verfolgt das System die vom Benutzer durchgeführten Schritte. Mit Klick auf einen der Punkte können Sie jederzeit zur vorher angesteuerten Seite zurückkehren.
 
-![](bild7.png)
+![](/assets/breadcrumb.png)
 
 <br>
 Innerhalb eines Datensatzes stehen die Punkte der Breadcrumb auch über das Rechtsklick-Menü zur Verfügung. 
