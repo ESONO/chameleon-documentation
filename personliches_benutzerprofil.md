@@ -4,4 +4,4 @@ Im Profil des CMS-Benutzers kann dieser seine persönlichen Angaben wie Name, Pa
 
 Das persönliche Profil ist über das Top-Menü (schwarze Leiste) erreichbar.
 
-![](Bild.png)
+![](/assets/persönliches_benutzerprofil.png)
