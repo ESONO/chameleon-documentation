@@ -10,6 +10,7 @@ Richten Sie zuerst eine Empfängerliste ein. Sie dient dazu, dass ihre zukünfti
 `Basisdaten`
 
 ![](bild57.png)
+
 <br>
 Zusätzlich können in der Empfängerliste individuelle Versandeinstellungen vorgenommen werden:
 
