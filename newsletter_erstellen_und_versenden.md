@@ -1,7 +1,9 @@
 ### Newsletter erstellen und versenden
 
 [Newsletter-Seite erstellen](newsletter_erstellen_und_versenden.md#newsletter-seite-erstellen)
+
 [Kampagne anlegen](newsletter_erstellen_und_versenden.md#kampagne-anlegen)
+
 [Cronjob Newsletter versenden](newsletter_erstellen_und_versenden.md#cronjob-newsletter-versenden)
 
 <br>
