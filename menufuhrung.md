@@ -12,4 +12,4 @@
 <br>
 Innerhalb eines Datensatzes stehen die Punkte der Breadcrumb auch über das Rechtsklick-Menü zur Verfügung. 
 
-![](bild8.png)
+![](/assets/breadcrumb_rechtsklick.png)
