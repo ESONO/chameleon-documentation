@@ -10,7 +10,7 @@
 
 <br>
 
-#### Empfängerlisten / Konfiguration
+#### Empfängerliste einrichten
 
     Newsletter → Newsletter-Empfängerlisten / Konfiguration
 
