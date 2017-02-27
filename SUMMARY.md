@@ -99,7 +99,7 @@
 * [Kontaktformular](kontaktformular.md)
 * [Newsletter](newsletter.md)
   * [Newsletter-Elemente](newsletter-elemente.md)
-  * [Grundkonfiguration](grundkonfiguration.md)
+  * [Grundkonfiguration](newsletter_grundkonfiguration.md)
   * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
 * [Freigabesystem / Workflow](freigabesystem__workflow.md)
   * [Grundlagen](grundlagen.md)
