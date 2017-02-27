@@ -96,7 +96,7 @@
 
 ## Weitere Module / Packages
 
-* [Kontaktformular](kontaktformular.md)
+* [Formulare](formulare.md)
 * [Newsletter](newsletter.md)
   * [Newsletter-Elemente](newsletter-elemente.md)
   * [Grundkonfiguration](newsletter_grundkonfiguration.md)
