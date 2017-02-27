@@ -1,6 +1,6 @@
 ### Grundkonfiguration
 
-[Empfängerlisten / Konfiguration](newsletter_grundkonfiguration.md#empfängerliste-einrichten)
+[Empfängerliste einrichten](newsletter_grundkonfiguration.md#empfängerliste-einrichten)
 
 [Zum Newsletter anmelden](newsletter_grundkonfiguration.md#zum-newsletter-anmelden)
 
