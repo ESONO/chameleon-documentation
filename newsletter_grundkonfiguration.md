@@ -1,5 +1,11 @@
 ### Grundkonfiguration
 
+Empfängerlisten / Konfiguration
+Anmeldung
+Newsletter in verschiedenen Sprachen verschicken
+Abmeldung
+
+
 #### Empfängerlisten / Konfiguration
 
     Newsletter → Newsletter-Empfängerlisten / Konfiguration
