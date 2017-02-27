@@ -2,7 +2,7 @@
 Ab CHAMELEON Version 6.1 steht eine komplett überarbeite Funktionalität der Mehrsprachigkeit zur Verfügung.
 
 ### CMS Webübersetzungen
-[gültig bis Chameleon Version 6.0]
+[nur gültig bis Chameleon Version 6.0]
 
 
     CMS / Portal-Einstellungen → CMS Webübersetzungen
@@ -33,7 +33,7 @@ Stellen Sie nun auf die gewünschte Editiersprache um. Das zu übersetzende Feld
 <br>
 
 ### CMS Übersetzungen
-[gültig bis Chameleon Version 6.0]
+[nur gültig bis Chameleon Version 6.0]
 
 
     CMS Admin → CMS Übersetzungen
