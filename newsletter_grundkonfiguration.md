@@ -2,7 +2,7 @@
 
 [Empfängerlisten / Konfiguration](newsletter_grundkonfiguration.md#empfängerlisten)
 
-[Anmeldung](newsletter_grundkonfiguration.md#anmeldung)
+[Anmeldung](newsletter_grundkonfiguration.md#anmelden)
 
 [Newsletter in verschiedenen Sprachen verschicken](newsletter_grundkonfiguration.md#sprachen)
 
@@ -37,7 +37,7 @@ Zusätzlich können in der Empfängerliste individuelle Versandeinstellungen vor
 
 <br>
 
-#### Anmeldung
+#### Zum Newsletter anmelden
 
 Um Ihren Kunden einen Newsletter anbieten zu können, muss es für diese möglich sein, sich für ein Newsletter-Abo anzumelden. Richten Sie daher einen Navigationspunkt “Newsletter” ein (z.B. in der Top-Navigation). Verknüpfen Sie mit diesem Navigationspunkt die Systemseite `Newsletter Anmelden` (Rechtsklick auf den eben angelegten Navigationspunkt `Newsletter → Verbundene Seiten → Neu → Seite „Newsletter Anmelden` aus der Liste auswählen und `JA` bei Seitenverbindung aktiv).
 
@@ -65,6 +65,7 @@ Außerdem sollte das Feld `DoubleOptIn-Verfahren benutzen` unbedingt auf `JA` ei
 
 
 Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter `Anmeldung möglich für` anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
+
 <br>
 #### Vom Newsletter abmelden
 
