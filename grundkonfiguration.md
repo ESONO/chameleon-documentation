@@ -2,7 +2,7 @@
 
 ##### Empfängerlisten / Konfiguration
 
-```Newsletter → Newsletter-Empfängerlisten / Konfiguration```
+    Newsletter → Newsletter-Empfängerlisten / Konfiguration
 
 Richten Sie zuerst eine Empfängerliste ein. Sie dient dazu, dass ihre zukünftigen Abonnenten in einen Verteiler geschrieben werden. Sie können auch mehrere Empfängerlisten einrichten und somit unterschiedliche Newsletter beispielsweise an unterschiedliche Interessengruppen versenden. Wichtig bei der Konfiguration der Empfängerliste ist, dass Sie ihr entsprechendes Portal angeben. Außerdem sollten Sie immer eine Reply- und Absender-E-Mail Adresse angeben. 
 <br>
@@ -28,15 +28,15 @@ Zusätzlich können in der Empfängerliste individuelle Versandeinstellungen vor
 
 ##### Anmeldung
 
-Um Ihren Kunden einen Newsletter anbieten zu können, muss es für diese möglich sein, sich für ein Newsletter-Abo anzumelden. Richten Sie daher einen Navigationspunkt “Newsletter” ein (z.B. in der Top-Navigation). Verknüpfen Sie mit diesem Navigationspunkt die Systemseite ```Newsletter Anmelden``` (Rechtsklick auf den eben angelegten Navigationspunkt ```Newsletter → Verbundene Seiten → Neu → Seite „Newsletter Anmelden``` aus der Liste auswählen und ```JA``` bei Seitenverbindung aktiv).
+Um Ihren Kunden einen Newsletter anbieten zu können, muss es für diese möglich sein, sich für ein Newsletter-Abo anzumelden. Richten Sie daher einen Navigationspunkt “Newsletter” ein (z.B. in der Top-Navigation). Verknüpfen Sie mit diesem Navigationspunkt die Systemseite `Newsletter Anmelden` (Rechtsklick auf den eben angelegten Navigationspunkt `Newsletter → Verbundene Seiten → Neu → Seite „Newsletter Anmelden` aus der Liste auswählen und `JA` bei Seitenverbindung aktiv).
 
 ![](bild60.png)
 
-Über ```Seite editieren``` können Sie den Anmeldevorgang im Steckplatz ```Newsletter Signup``` in seinen einzelnen Schritten beschriften.
+Über `Seite editieren` können Sie den Anmeldevorgang im Steckplatz `Newsletter Signup` in seinen einzelnen Schritten beschriften.
 
-Wichtig ist, dass Sie auf der Anmeldeseite beim Feld ```Anmeldung möglich für``` angeben, für welchen Newsletter die Anmeldung möglich ist (also die Empfängerliste auswählen, auf die die Abonnenten nach ihrer Anmeldung geschrieben werden sollen).
+Wichtig ist, dass Sie auf der Anmeldeseite beim Feld `Anmeldung möglich für` angeben, für welchen Newsletter die Anmeldung möglich ist (also die Empfängerliste auswählen, auf die die Abonnenten nach ihrer Anmeldung geschrieben werden sollen).
 
-Außerdem sollte das Feld ```DoubleOptIn-Verfahren benutzen``` unbedingt auf ```JA``` eingestellt sein, da dies von der derzeitigen Rechtslage vorgeschrieben ist. Dieses Verfahren sorgt dafür, dass der Benutzer nach Ausfüllen des Anmeldeformulars zunächst eine E-Mail zugesandt bekommt, in der ihm ein Link zur endgültigen Anmeldung zur Verfügung steht. Es verhindert beispielsweise, dass jemand fremde E-Mail-Adressen auf den Newsletter-Verteiler setzt. Die Option Double-Opt-In auszuschalten ist somit nur für den internen Gebrauch bestimmt.
+Außerdem sollte das Feld `DoubleOptIn-Verfahren benutzen` unbedingt auf `JA` eingestellt sein, da dies von der derzeitigen Rechtslage vorgeschrieben ist. Dieses Verfahren sorgt dafür, dass der Benutzer nach Ausfüllen des Anmeldeformulars zunächst eine E-Mail zugesandt bekommt, in der ihm ein Link zur endgültigen Anmeldung zur Verfügung steht. Es verhindert beispielsweise, dass jemand fremde E-Mail-Adressen auf den Newsletter-Verteiler setzt. Die Option Double-Opt-In auszuschalten ist somit nur für den internen Gebrauch bestimmt.
 
 ![](bild61.png)
 
@@ -51,10 +51,10 @@ Außerdem sollte das Feld ```DoubleOptIn-Verfahren benutzen``` unbedingt auf ```
 ##### Newsletter in verschiedenen Sprachen verschicken
 
 
-Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter ```Anmeldung möglich für``` anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
+Wenn Sie Newsletter in unterschiedlichen Sprachen versenden möchten (z.B. bei einer mehrsprachigen Webseite), müssen Sie pro Sprache eine Empfängerliste erstellen und diese auf der Anmelde-Seite unter `Anmeldung möglich für` anwählen. Im Frontend kann der Benutzer nun wählen, ob er sich z.B. für den deutschen und/oder englischen Newsletter anmelden möchte.
 <br>
 ##### Abmeldung
 
-Die Abmeldeseite ```Newsletter Abmelden``` ist ebenfalls bereits als Systemseite eingerichtet. Die Texte können Sie selbst nach Ihren Wünschen eingeben.
+Die Abmeldeseite `Newsletter Abmelden` ist ebenfalls bereits als Systemseite eingerichtet. Die Texte können Sie selbst nach Ihren Wünschen eingeben.
 
 Wenn diese Grundeinstellungen vorgenommen sind, kann nun ein Newsletter erstellt und versendet werden.
