@@ -40,7 +40,9 @@ Außerdem sollte das Feld `DoubleOptIn-Verfahren benutzen` unbedingt auf `JA` ei
 
 ![](bild61.png)
 
-**<u>Ansicht der Newsletter-Anmeldeseite im Frontend:</u>**
+<br>
+
+###### Ansicht der Newsletter-Anmeldeseite im Frontend:
 
 ![](bild62.png)
 
