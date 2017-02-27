@@ -26,6 +26,7 @@ Hier ist es wichtig, dass Sie das entsprechende Portal auswählen, die im vorher
 
 ![](bild64.png)
 
+<br>
 Durch das *Aktiv*-Setzen des *Newsletter-Versands* werden die zugehörigen Abonnenten nach erstmaligem Abspeichern aus der `Empfängerliste` in die `Warteschlangen-Einträge` (Tab `Kampagnenstatus`) geladen. Hier können Sie die der Empfängerliste zugeordneten Email-Adressen sehen.
 
 Durch ein zweites Abspeichern wird der auf der Templateseite hinzugefügte Newsletter den in der Warteschlange stehenden Abonnenten zugewiesen. Das Versenden erfolgt nun automatisch durch den dafür zuständigen Cronjob (der Cronjob prüft automatisch, ob Newsletter zum Versenden bereit sind).
