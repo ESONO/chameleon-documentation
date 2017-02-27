@@ -1,5 +1,7 @@
 ### Changelog
 
+    CMS Admin → CMS Changelog
+
 #### Zweck / Nutzen
 Änderungen im CMS werden protokolliert. 
 
