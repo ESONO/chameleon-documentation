@@ -6,8 +6,9 @@
 
 [Newsletter in verschiedenen Sprachen verschicken]
 
-[Abmeldung]
+[Abmeldung](newsletter_grundkonfiguration.md#abmeldung)
 
+<br>
 
 #### Empfängerlisten / Konfiguration
 
