@@ -1,6 +1,7 @@
 ## Zentrale Shop-Einstellungen
 ----
 ### Shops
+
     Shop-Einstellungen → Shops
 
 Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
@@ -15,6 +16,20 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 | Bewertung | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
 | Trusted Shops | TrustedShop-Konfiguration |
 
+<br>
+
+#### Shop-spezifische Informationen
+
+    Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine (z.B. AGB)
+    
+
+Hier können Textbausteine, die ausschließlich für Shops gedacht sind, erstellt werden. Somit können Sie z.B. eine Seite mit Informationen wie AGB, Datenschutz etc. erstellen. Natürlich lassen sich einzelne Bausteine auch auf verschiedenen Seiten anlegen. 
+
+Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen`. Im Modul können Sie dann per Klick auswählen, welche Bausteine angezeigt werden sollen. 
+
+![](/assets/Shopspezifische_Textbausteine.png)
+
+Der Unterschied zu den [Textbausteinen](/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine (`Website → Textbausteine`) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
 
 
 
