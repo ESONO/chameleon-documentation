@@ -2,7 +2,7 @@
 
 Das Seiten-Layout legen Sie bereits beim Anlegen der Seite in der Navigationsverwaltung fest (wählen Sie dort kein Seiten-Layout, wird auch keine Seite angelegt).
 
-Haben Sie die Seite aufgerufen, können Sie über `Seitenvorlagen` das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie die Möglichkeit, die verschiedenen Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen alle verfügbaren Layouts.
+Haben Sie die Seite aufgerufen, können Sie über `Seitenvorlagen` das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie außerdem die Möglichkeit, die verschiedenen zur Verfügung stehenden Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen alle verfügbaren Layouts.
 
 ![](bild23.png)
 
