@@ -31,6 +31,10 @@
 * [Texte editieren mit dem CKEditor](ckeditor.md)
 * [Textbausteine](textbausteine.md)
 * [Bildergalerien](bildergalerien.md)
+* [Übersetzungen](ubersetzungen.md)
+  * [CMS Webübersetzungen](ubersetzungen.md#cms-webübersetzungen)
+  * [CMS Übersetzungen](ubersetzungen.md#cms-übersetzungen)
+  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#übersetzungen-von-fehlermeldungen)
 
 ## Shop
 
@@ -83,10 +87,6 @@
 * [Suche](suche.md)
   * [Artikelsuchindex](artikelsuchindex.md)
   * [Suchwortwolke](suchwortwolke.md)
-* [Übersetzungen](ubersetzungen.md)
-  * [CMS Webübersetzungen](ubersetzungen.md#cms-webübersetzungen)
-  * [CMS Übersetzungen](ubersetzungen.md#cms-übersetzungen)
-  * [Übersetzungen von Fehlermeldungen](ubersetzungen.md#übersetzungen-von-fehlermeldungen)
 
 ## Systemeinstellungen
 
