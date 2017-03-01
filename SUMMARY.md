@@ -30,13 +30,14 @@
 * [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
 * [Texte editieren mit dem CKEditor](ckeditor.md)
 * [Textbausteine](textbausteine.md)
+* [Bildergalerien](bildergalerien.md)
 
 ## Shop
 
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
   * [Shops](zentrale_shop-einstellungen.md#shops)
   * [Shop-Textbausteine](zentrale_shop-einstellungen.md#shop-textbausteine)
-  * [Benutzereinstellungen (Extranet-Konfiguration)](extranet-konfiguration.md)
+  * [Benutzereinstellungen \(Extranet-Konfiguration\)](extranet-konfiguration.md)
   * [Benutzerländer \(Hauptgruppe Shop Einstellungen\)](benutzerlander_hauptgruppe_shop_einstellungen.md)
   * [Maßeinheiten](masseinheiten.md)
   * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
@@ -82,7 +83,6 @@
 * [Suche](suche.md)
   * [Artikelsuchindex](artikelsuchindex.md)
   * [Suchwortwolke](suchwortwolke.md)
-* [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
   * [CMS Webübersetzungen](ubersetzungen.md#cms-webübersetzungen)
   * [CMS Übersetzungen](ubersetzungen.md#cms-übersetzungen)
