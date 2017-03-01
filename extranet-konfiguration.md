@@ -1,4 +1,4 @@
-### Extranet-Konfiguration (Benutzereinstellungen)
+### Benutzereinstellungen (Extranet-Konfiguration)
 
     CMS / Portal-Einstellungen → Extranet-Konfiguration
 
