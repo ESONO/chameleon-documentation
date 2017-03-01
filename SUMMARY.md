@@ -77,9 +77,6 @@
     * [Versandkostenart](versandkostenart.md)
     * [Versandkostengruppen](versandkostengruppen.md)
     * [Zahlmethoden](zahlmethoden.md)
-* [Auswertungen / Statistik](auswertungen__statistik.md)
-  * [Auswertung \(Chameleon intern\)](auswertung_chameleon_intern.md)
-  * [Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
 * [Rabatte und Gutscheine](rabatte_und_gutscheine.md)
   * [Gutscheinserien](gutscheinserien.md)
   * [Gutscheinsponsoren](gutscheinsponsoren.md)
@@ -87,6 +84,9 @@
 * [Suche](suche.md)
   * [Artikelsuchindex](artikelsuchindex.md)
   * [Suchwortwolke](suchwortwolke.md)
+* [Auswertungen / Statistik](auswertungen__statistik.md)
+  * [Auswertung \(Chameleon intern\)](auswertung_chameleon_intern.md)
+  * [Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
 
 ## Systemeinstellungen
 
