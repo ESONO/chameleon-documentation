@@ -16,7 +16,6 @@ Angelegte Textbausteine können Sie in WYSIWYG-Felder (in Fließtextmodulen) üb
 <br>
 
 
-
 In Chameleon sind bereits einige Textbausteine für den Shop vorkonfiguriert: 
 
 ###### Footer
@@ -38,5 +37,12 @@ In Chameleon sind bereits einige Textbausteine für den Shop vorkonfiguriert:
 
 ###### Bestätigung / Danke-Seite
 * Doch noch ein Kundenkonto anlegen? (erscheint bei einer Gastbestellung nach dem Kauf)
+
+<br>
+**Es können beliebig weitere Textbausteine für die Verwendung im Shop und/oder auf Content-Seiten erstellt werden.**
+
+
+
+
 
 
