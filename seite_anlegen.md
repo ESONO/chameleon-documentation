@@ -1,8 +1,8 @@
 ### Seite anlegen
 
-Eine neue Seite können Sie entweder über die Navigationsverwaltung oder auch über die Seitenverwaltung ```(Neu)``` anlegen. Da sowieso vorher ein Navigationsknoten angelegt werden muss empfiehlt es sich, die Seite über den Navigationsbaum anzulegen.
+Eine neue Seite können Sie entweder über die Navigationsverwaltung oder auch über die Seitenverwaltung `Neu` anlegen. Da in der Regel sowieso ein Navigationsknoten (= Menüpunkt) angelegt werden muss, empfiehlt es sich, die Seite bereits beim Einrichten des Menüpunktes in der Navigationsverwaltung mit anzulegen.
 
-Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite anlegt werden soll. Ferner klicken Sie auf ```Neu```, um einen neuen Navigationspunkt anzulegen.
+Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite anlegt werden soll. Ferner klicken Sie auf `Neu`, um einen neuen Navigationspunkt anzulegen.
 
 ![](bild16.png)
 
