@@ -18,7 +18,7 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 <br>
 
-#### Shop-spezifische Informationen / Textbausteine
+#### Shop-Textbausteine
 
     Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine (z.B. AGB)
     
