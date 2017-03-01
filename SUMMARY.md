@@ -29,6 +29,7 @@
 * [Dokumente](dokumente.md)
 * [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
 * [Texte editieren mit dem CKEditor](ckeditor.md)
+* [Textbausteine](textbausteine.md)
 
 ## Shop
 
