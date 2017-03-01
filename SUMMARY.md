@@ -35,7 +35,7 @@
 
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
   * [Shops](zentrale_shop-einstellungen.md#shops)
-  * [Shop-spezifische Informationen / Textbausteine](zentrale_shop-einstellungen.md#shop-spezifische-informationen)
+  * [Shop-Textbausteine](zentrale_shop-einstellungen.md#shop-textbausteine)
   * [Extranet-Konfiguration](extranet-konfiguration.md)
   * [Benutzerländer \(Hauptgruppe Shop Einstellungen\)](benutzerlander_hauptgruppe_shop_einstellungen.md)
   * [Maßeinheiten](masseinheiten.md)
