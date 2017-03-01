@@ -25,7 +25,7 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 Hier können Textbausteine, die ausschließlich für Shops gedacht sind, erstellt werden. Somit können Sie z.B. eine Seite mit Informationen wie AGB, Datenschutz etc. erstellen. Natürlich lassen sich einzelne Bausteine auch auf verschiedenen Seiten anlegen. 
 
-Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen`. Im Modul können Sie dann per Klick auswählen, welche Bausteine angezeigt werden sollen. 
+Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen` anzulegen. Im Modul können Sie dann per Klick auswählen, welche Bausteine angezeigt werden sollen. 
 
 ![](/assets/Shopspezifische_Textbausteine.png)
 
