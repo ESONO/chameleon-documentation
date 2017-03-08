@@ -23,7 +23,7 @@ Legen Sie zuerst eine Artikelkategoriegruppe an, danach entsprechenden Kategorie
 
 <br>
 
-### Teaser
+#### Teaser
    
 Mit dem Teaser-Modul können einzelne Teaser angelegt werden, die dann auf Artikel oder wahlweise auch auf eine CMS-Seite oder eine externe URL verweisen können. Für die Teaser kann ein Teaser-Format gewählt werden über das die Darstellung des Teasers bestimmt wird. Die Teaser-Formate können im Backend angelegt werden. 
 
