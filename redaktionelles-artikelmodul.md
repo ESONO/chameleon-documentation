@@ -35,7 +35,7 @@ Beispiele:
 
 <br>
 
-### Redaktioneller Artikel
+### Einen redaktionellen Artikel anlegen
 
     Artikel (redaktionell) → Artikel (redaktionell)
 
