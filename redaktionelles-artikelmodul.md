@@ -55,4 +55,8 @@ Zusätzlich zur Überschrift und dem eigentlichen Teasertext kann noch ein Bild 
 
 Für einen Artikel können beliebig viele Teaser mit unterschiedlichen Ausgabearten (Formaten angelegt werden). So kann ein Artikel an mehreren Stellen in unterschiedlicher Form eingebunden werden.
 
+### Redaktionelle Artikel über Artikellisten anzeigen
+
+
+
 
