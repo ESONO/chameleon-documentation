@@ -30,6 +30,7 @@
 * [Sprache / Website / Cache / Hilfe](sprache__website_cache__hilfe.md)
 * [Texte editieren mit dem CKEditor](ckeditor.md)
 * [Textbausteine](textbausteine.md)
+* [Redaktionelles Artikelmodul](redaktionelles-artikelmodul.md)
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
   * [CMS Webübersetzungen](ubersetzungen.md#cms-webübersetzungen)
