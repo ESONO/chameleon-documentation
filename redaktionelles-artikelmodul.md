@@ -31,7 +31,7 @@ In den Basisdaten wird der Inhalt des Artikels sowie alle relevanten Daten zur V
 
 Wie bereits oben beschrieben, muss hier der Artikeltyp ausgewählt werden. Damit der Artikel in einer automatisierten Liste oder an einer bestimmten Stelle in der Navigation erscheint, muss er ebenfalls einer vorher definierten Kategorie zugewiesen werden.
 
-Der eigentliche Text wird im Feld `Artikeltext` eingetragen. Hier stehen alle Funktionen des WYSIWYG-Editors zur Verfügung.
+Der eigentliche Text wird im Feld `Artikeltext` eingetragen. Hier stehen alle Funktionen des [WYSIWYG-Editors](/ckeditor.md) zur Verfügung.
 
 
 `Teaser`
