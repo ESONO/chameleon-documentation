@@ -48,5 +48,6 @@ Der eigentliche Text wird im Feld `Artikeltext` eingetragen. Hier stehen alle Fu
 
 `Teaser`
 
+Über das Teaser-Format wird festgelegt, wie der Teaser auf der Website erscheint, ob z.B. als Slider, Bild mit Link, nur Bild, Bild mit Überschrift und Text usw.
 
 
