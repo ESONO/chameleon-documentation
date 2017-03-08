@@ -30,6 +30,7 @@ Mit dem Teaser-Modul können einzelne Teaser angelegt werden, die dann auf Artik
     Artikel (redaktionell) → Artikel Teaser-Formate
 
 Beispiele:
+
 ![](/assets/teaserformate.png)
 
 <br>
