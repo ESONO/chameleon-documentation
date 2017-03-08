@@ -56,8 +56,10 @@ Zusätzlich zur Überschrift und dem eigentlichen Teasertext kann noch ein Bild 
 Für einen Artikel können beliebig viele Teaser mit unterschiedlichen Ausgabearten (Formaten angelegt werden). So kann ein Artikel an mehreren Stellen in unterschiedlicher Form eingebunden werden.
 
 ### Redaktionelle Artikel über Artikellisten anzeigen
-Das Listenmodul stellt eine Liste von Artikeln dar die mit Filtern eingeschränkt werden kann. Die Liste kann dabei auf einzelne Artikel, Artikel-Kategorien oder Artikel-Typen eingeschränkt werden.  Für die Liste kann außerdem eine Sortierung und ein Filter angegeben werden. Außerdem kann gewählt werden, welche Sortierung und Filter im Frontend zur Auswahl stehen sollen. 
-Das Artikellistenmodul kann z.B. auch auf Artikeldetailseiten verwendet werden um passende Artikel zum aktuell aktiven Artikel darzustellen, einfach den entsprechenden Filter verwenden. Der Name des Listviews ergibt sich aus dem Namen des Views vom Listenmodul. 
+Das Listenmodul stellt eine Liste von Artikeln dar, die mit Filtern eingeschränkt werden kann. Die Liste kann dabei auf einzelne Artikel, Artikelkategorien oder Artikeltypen eingeschränkt werden. Für die Liste kann zudem eine Sortierung und ein Filter angegeben werden. Außerdem kann gewählt werden, welche Sortierung und Filter im Frontend zur Auswahl stehen sollen. 
+
+Das Artikellistenmodul kann z.B. auch auf Artikeldetailseiten verwendet werden, um passende Artikel zum aktuell aktiven Artikel darzustellen, einfach den entsprechenden Filter verwenden. Der Name des Listviews ergibt sich aus dem Namen des Views vom Listenmodul. 
+
 
 
 
