@@ -32,7 +32,7 @@
 * [Textbausteine](textbausteine.md)
 * [Redaktionelles Artikelmodul](redaktionelles-artikelmodul.md)
   * [Redaktionelle Artikel anlegen](redaktionelles-artikelmodul.md#einen-redaktionellen-artikel-anlegen)
-  * [Artikellisten erstellen](redaktionelles-artikelmodul.md#redaktionelle-artikel)
+  * [Artikellisten erstellen](redaktionelles-artikelmodul.md#redaktionelle-artikel-über-artikellisten-anzeigen)
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
   * [CMS Webübersetzungen](ubersetzungen.md#cms-webübersetzungen)
