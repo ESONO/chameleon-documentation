@@ -2,7 +2,7 @@
 
 Das redaktionelle Artikelmodul kann verwendet werden, um Artikel  in Form von Teasern, Listen und Detailseiten darzustellen. *Artikel* sind dabei in Typen unterteilt, die sich in der Darstellung stark unterscheiden und nahezu beliebigen Content enthalten können, sei es einfach nur Überschrift und Text, ein Video oder eine Bildergalerie. Die Artikel lassen sich in Kategorien einteilen, die dann z.B. bestimmen können, unter welchem Navigationspunkt ein Artikel erscheint. Es ist sogar möglich, die Navigation oder Teile davon automatisch aus den Artikelkategorien generieren zu lassen.
 
-### Artikeltypen
+#### Artikeltypen
 
     Artikel (redaktionell) → Artikeltypen
 
@@ -11,7 +11,7 @@ Außerdem kann für jeden Artikeltyp eine eigene Extension für das pkg_article-
 
 In der Regel werden die Artikeltypen durch Ihren Dienstleister vorkonfiguriert.
 
-### Artikelkategorien
+#### Artikelkategorien
 
     Artikel (redaktionell) → Artikelkategoriegruppen
     
