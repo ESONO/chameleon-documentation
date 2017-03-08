@@ -31,7 +31,7 @@
 * [Texte editieren mit dem CKEditor](ckeditor.md)
 * [Textbausteine](textbausteine.md)
 * [Redaktionelles Artikelmodul](redaktionelles-artikelmodul.md)
-  * [Redaktionellen Artikel anlegen](redaktionelles-artikelmodul.md#einen-redaktionellen-artikel-anlegen)
+  * [Redaktionelle Artikel anlegen](redaktionelles-artikelmodul.md#einen-redaktionellen-artikel-anlegen)
   * [Artikellisten erstellen](redaktionelles-artikelmodul.md#redaktionelle-artikel)
 * [Bildergalerien](bildergalerien.md)
 * [Übersetzungen](ubersetzungen.md)
