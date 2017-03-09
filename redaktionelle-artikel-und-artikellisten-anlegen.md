@@ -48,7 +48,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 ######Beispiel:
 Es existieren 30 freigeschaltete Artikel, es sollen aber nur die neuesten 10 angezeigt werden, jedoch pro Seite nur 5 Artikel.
-Einträge je Seite = 5
+Einträge je Seite = 5; 
 Artikelanzahl beschränken auf = 10
 
 <br>
