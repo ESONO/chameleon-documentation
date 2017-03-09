@@ -44,7 +44,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 `Einträge je Seite`: Hier können Sie angeben, wieviele Artikel auf einer Seite erscheinen dürfen. Wenn es mehr Artikel gibt als auf einer Seite erscheinen dürfen, wird eine nächste Seite erstellt, die über Blättern erreichbar ist)
 
-`Artikelanzahl beschränken auf`: Hier können Sie angeben, wieviele Artikel insgesamt ausgespielt werden dürfen (z.B. von 30 Artikeln maximal 10).
+`Artikelanzahl beschränken auf`: Hier können Sie angeben, wieviele Artikel insgesamt ausgespielt werden dürfen.
 
 ######Beispiel:
 Es existieren 30 freigeschaltete Artikel, es sollen aber nur die neuesten 10 angezeigt werden, jedoch pro Seite nur 5 Artikel.
