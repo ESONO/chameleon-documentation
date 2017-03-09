@@ -34,7 +34,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 Über `Editieren` und `Neu` legen Sie eine Liste an.
 <br>
 
-    Basisdaten
+`Basisdaten`
 
 `Sortierung`: Sie können beliebig viele Listen im Modul unterbringen. Über Sortierung kann die Reihenfolge der Liste verschoben werden.
 
@@ -49,7 +49,8 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema _Literatur_ / Kategorie _Zeitgenössische Autoren_ - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugewiesen sind).
 
 <br>
-    Filter
+  
+`Filter`
 
 Es ist auch möglich, einer Liste manuell Artikel zuzuweisen, indem man bei  `Auf folgende Artikel einschränken` den entsprechenden Datensatz (Artikel) verknüpft). Dann ist eine Einschränkung über Typen oder Kategorien nicht notwendig.
 
