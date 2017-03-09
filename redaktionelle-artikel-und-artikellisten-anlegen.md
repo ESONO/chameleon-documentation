@@ -56,7 +56,7 @@ Es ist auch möglich, einer Liste manuell Artikel zuzuweisen, indem man bei  `Au
 <br>
 
 
-[^1]: Ausnahme: manuelle Zuweisung von Artikeln in einer Liste, sh. Artikellisten.
+[^1]: Ausnahme: manuelle Zuweisung von Artikeln in einer Liste, sh. nachfolgenden Abschnitt _Redaktionelle Artikel über Artikellisten anzeigen_.
 
 
 
