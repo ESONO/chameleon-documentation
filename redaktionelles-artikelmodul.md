@@ -84,7 +84,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 `Artikelanzahl beschränken auf`: Hier können Sie angeben, wieviele Artikel insgesamt ausgespielt werden dürfen (z.B. von 30 Artikeln maximal 10)
 
-Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema Literatur / Kategorie Zeitgenössische Autoren - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind).
+Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema _Literatur_ / Kategorie _Zeitgenössische Autoren_ - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind).
 
 
 <br>
