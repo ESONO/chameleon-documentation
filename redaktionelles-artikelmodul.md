@@ -1,6 +1,8 @@
 ## Redaktionelles Artikelmodul
 
-Das redaktionelle Artikelmodul kann verwendet werden, um Artikel  in Form von Teasern, Listen und Detailseiten darzustellen. *Artikel* sind dabei in Typen unterteilt, die sich in der Darstellung stark unterscheiden und nahezu beliebigen Content enthalten können, sei es einfach nur Überschrift und Text, ein Video oder eine Bildergalerie. Die Artikel lassen sich in Kategorien einteilen, die dann z.B. bestimmen können, unter welchem Navigationspunkt ein Artikel erscheint. Es ist sogar möglich, die Navigation oder Teile davon automatisch aus den Artikelkategorien generieren zu lassen.
+Mit dem redaktionellen Artikelmodul als Basis können Sie Teaser, Listen und Detailseiten ganz unterschiedlicher Artikeltypen wie News, Blog, Event, Video, Bildergalerie usw. zusammenstellen. So lassen sich z.B. themenbezogene Content-Listen generieren und an jeder beliebigen Stelle auf der Website platzieren.
+
+Die Artikel lassen sich in Kategorien einteilen, die dann z.B. bestimmen können, unter welchem Navigationspunkt ein Artikel erscheint. Es ist sogar möglich, die Navigation oder Teile davon automatisch aus den Artikelkategorien generieren zu lassen.
 
 #### Artikeltypen
 
@@ -58,6 +60,7 @@ Zusätzlich zur Überschrift und dem eigentlichen Teasertext kann noch ein Bild 
 Für einen Artikel können beliebig viele Teaser mit unterschiedlichen Ausgabearten (Formaten angelegt werden). So kann ein Artikel an mehreren Stellen in unterschiedlicher Form eingebunden werden.
 
 ### Redaktionelle Artikel über Artikellisten anzeigen
+
 Das Listenmodul stellt eine Liste von Artikeln dar, die mit Filtern eingeschränkt werden kann. Die Liste kann dabei auf einzelne Artikel, Artikelkategorien oder Artikeltypen eingeschränkt werden. Für die Liste kann zudem eine Sortierung und ein Filter angegeben werden. Außerdem kann gewählt werden, welche Sortierung und Filter im Frontend zur Auswahl stehen sollen. 
 
 Das Artikellistenmodul kann z.B. auch auf Artikeldetailseiten verwendet werden, um passende Artikel zum aktuell aktiven Artikel darzustellen, einfach den entsprechenden Filter verwenden. Der Name des Listviews ergibt sich aus dem Namen des Views vom Listenmodul. 
