@@ -69,7 +69,10 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 ![](/assets/red_artikelliste1.png)
 
+<br>
 Über `Editieren` und `Neu` legen Sie eine Liste an.
+
+`Basisdaten`
 
 **Standardsortierung:** Wählen Sie, in welcher Reihenfolge die Artikel erscheinen sollen (nach Datum, Überschrift oder manueller Selektion
 
