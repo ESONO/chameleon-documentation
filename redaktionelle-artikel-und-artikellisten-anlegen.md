@@ -16,7 +16,7 @@ Der eigentliche Text wird im Feld `Artikeltext` eingetragen. Hier stehen alle Fu
 
 Über das Teaser-Format wird festgelegt, wie der Teaser auf der Website erscheint, ob z.B. als Slider, Bild mit Link, nur Bild, Bild mit Überschrift und Text usw.
 
-Zusätzlich zur Überschrift und dem eigentlichen Teasertext kann noch ein Bild eingefügt werden.
+Zusätzlich zur Überschrift und dem eigentlichen Teasertext kann noch ein Bild eingefügt werden (die Anzeige des Bildes ist abhängig vom gewählten Teaser-Format).
 
 Für einen Artikel können beliebig viele Teaser mit unterschiedlichen Ausgabearten (Teaser-Formaten) angelegt werden. So kann ein Artikel an mehreren Stellen in unterschiedlicher Form eingebunden werden.
 
