@@ -69,6 +69,13 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 ![](/assets/red_artikelliste1.png)
 
+Über `Editieren` und `Neu` legen Sie eine Liste an.
+
+Standardsortierung: Wählen Sie, in welcher Reihenfolge die Artikel erscheinen sollen (nach Datum, Überschrift oder manueller Selektion
+Überschrift: Wird über der Liste angezeigt
+
+Die Liste kann nun weiter eingeschränkt werden, z.B. nach Artikeltyp oder Kategorie (z.B. Thema Literatur / Kategorie Zeitgenössische Autoren - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind.
+
 
 <br>
 
