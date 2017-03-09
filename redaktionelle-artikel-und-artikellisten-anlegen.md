@@ -52,7 +52,7 @@ Einträge je Seite = 5
 Artikelanzahl beschränken auf = 10
 
 <br>
-Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema _Literatur_ / Kategorie _Zeitgenössische Autoren_ - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugewiesen sind).
+Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema (Kategoriegruppe) _Literatur_ / Kategorie _Zeitgenössische Autoren_ - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugewiesen sind).
 
 <br>
   
