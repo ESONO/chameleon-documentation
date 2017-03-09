@@ -75,7 +75,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 **Überschrift:** Wird über der Liste angezeigt
 
-Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema Literatur / Kategorie Zeitgenössische Autoren - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind.
+Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema Literatur / Kategorie Zeitgenössische Autoren - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind).
 
 
 <br>
