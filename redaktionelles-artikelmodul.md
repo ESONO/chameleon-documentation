@@ -62,6 +62,7 @@ Das Listenmodul stellt eine Liste von Artikeln dar, die mit Filtern eingeschrän
 
 Das Artikellistenmodul kann z.B. auch auf Artikeldetailseiten verwendet werden, um passende Artikel zum aktuell aktiven Artikel darzustellen, einfach den entsprechenden Filter verwenden. Der Name des Listviews ergibt sich aus dem Namen des Views vom Listenmodul. 
 
+<br>
 
 
 [^1]: Ausnahme: manuelle Zuweisung von Artikeln in einer Liste, sh. Artikellisten.
