@@ -67,6 +67,7 @@ Das Artikellistenmodul kann z.B. auch auf Artikeldetailseiten verwendet werden, 
 
 Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionell)`. Wählen Sie sodann die gewünschte Teaservorlage aus, zum Beispiel `Bild mit Überschrift auf schwarzem Overlay (Bildergalerie)`.
 
+![](/assets/red_artikelliste1.png)
 
 
 <br>
