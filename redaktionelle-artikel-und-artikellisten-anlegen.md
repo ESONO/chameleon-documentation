@@ -10,7 +10,7 @@ Wie bereits oben beschrieben, muss hier der `Artikeltyp` ausgewählt werden. Dam
 
 Der eigentliche Text wird im Feld `Artikeltext` eingetragen. Hier stehen alle Funktionen des [WYSIWYG-Editors](/ckeditor.md) zur Verfügung.
 
-
+<br>
 
 `Teaser`
 
