@@ -49,6 +49,7 @@ Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder *
 
 <br>
 Tab `Filter`
+
 Es ist auch möglich, einer Liste manuell Artikel zuzuweisen, indem man bei  `Auf folgende Artikel einschränken` den entsprechenden Datensatz (Artikel) verknüpft). Dann ist eine Einschränkung über Typen oder Kategorien nicht notwendig.
 
 <br>
