@@ -30,7 +30,7 @@ Es können verschiedene Teaser angelegt werden, die dann auf Artikel oder wahlwe
 
     Artikel (redaktionell) → Artikel Teaser-Formate
 
-Beispiele:
+Beispiele von Teaserformaten:
 
 ![](/assets/teaserformate.png)
 
