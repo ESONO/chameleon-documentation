@@ -31,6 +31,7 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 <br>
 Über `Editieren` und `Neu` legen Sie eine Liste an.
+<br>
 
 Tab `Basisdaten`
 
