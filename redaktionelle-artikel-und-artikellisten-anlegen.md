@@ -51,6 +51,7 @@ Es existieren 30 freigeschaltete Artikel, es sollen aber nur die neuesten 10 ang
 Einträge je Seite = 5
 Artikelanzahl beschränken auf = 10
 
+<br>
 Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema _Literatur_ / Kategorie _Zeitgenössische Autoren_ - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugewiesen sind).
 
 <br>
