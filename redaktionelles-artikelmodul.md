@@ -74,9 +74,10 @@ Um eine Artikelliste anzulegen, wählen Sie im Modul `Artikel-Liste (redaktionel
 
 `Basisdaten`
 
-**Standardsortierung:** Wählen Sie, in welcher Reihenfolge die Artikel erscheinen sollen (nach Datum, Überschrift oder manueller Selektion
+`Sortierung`: Sie können beliebig viele Listen im Modul unterbringen. Über Sortierung kann die Reihenfolge der Liste verschoben werden.
+`Standardsortierung`: Wählen Sie, in welcher Reihenfolge die Artikel erscheinen sollen (nach Datum, Überschrift oder manueller Selektion
 
-**Überschrift:** Wird über der Liste angezeigt
+`Überschrift:` Wird im Frontend über der Liste angezeigt
 
 Die Liste kann nun weiter eingeschränkt werden, z.B. nach **Artikeltyp** oder **Kategorie** (z.B. Thema Literatur / Kategorie Zeitgenössische Autoren - in der Liste werden nur Teaser von Artikeln angezeigt, die der Kategorie *Zeitgenössische Autoren* zugwiesen sind).
 
