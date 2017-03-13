@@ -4,11 +4,11 @@ Eine neue Seite können Sie entweder über die Navigationsverwaltung oder auch �
 
 Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite anlegt werden soll. Ferner klicken Sie auf `Neu`, um einen neuen Navigationspunkt anzulegen.
 
-![](bild16.png)
+![](/assets/seitenverwaltung_seite_anlegen1.png)
 
 Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:
 
-![](bild17.png)
+![](/assets/seitenverwaltung_seite_anlegen2.png)
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
