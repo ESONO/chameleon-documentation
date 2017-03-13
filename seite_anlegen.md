@@ -10,6 +10,8 @@ Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können
 
 ![](/assets/seitenverwaltung_seite_anlegen2.png)
 
+<br>
+
 | Bezeichnung | Beschreibung |
 | -- | -- |
 | Name | Titel der Seite |
@@ -19,6 +21,7 @@ Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können
 | Seiten / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
 | SEO | Im SEO Tab haben Sie die Möglichkeit, den Navigationspunkt von der Indizierung durch Suchmaschinen auszuschließen und Ausnahmeregeln zu definieren. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
 
+<br>
 Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
 
 ![](bild18.png)
