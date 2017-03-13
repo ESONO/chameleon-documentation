@@ -6,11 +6,11 @@ In den Seitenvorlagen sind sogenannte Modul-Spots festgelegt. Dies sind Steckpl�
 
 Über `Funktionen` können Sie ein neues Modul anlegen:
 
-![](bild19.png)
+![](/assets/seitenverwaltung_modul_anlegen.png)
 
 Bei einem bereits angelegten Modul gelangen Sie ebenfalls über `Funktionen` in das Kontextmenü zum Bearbeiten:
 
-![](bild20.png)
+![](/assets/seitenverwaltung_modul_bearbeiten.png)
 
 <br>
 
