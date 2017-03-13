@@ -4,7 +4,7 @@ Der CKEditor, auch WYSIWYG („What You See Is What You Get“) genannt, ermögl
 
 Der Editor findet sich vor allem in Fließtextmodulen.
 
-![](bild27.png)
+![](/assets/editor.png)
 
 Die einzelnen Funktionen ähneln dabei denen von bekannten Textverarbeitungsprogrammen.
 
