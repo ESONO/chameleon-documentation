@@ -30,7 +30,8 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 | Systemmeldungen / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
 
 <br>
-![](Bild1.png)
+
+![](/assets/portal_basisdaten.png)
 
 <br>
 
