@@ -49,7 +49,7 @@ Diese Funktion steht in der Regel nur Administratoren zur Verfügung.
 
 Einige Systemmeldungen und Fehlercodes erscheinen auch im Frontend und sollten daher ebenfalls übersetzt werden (Feld `Meldung`)
 
-![](bild55.png)
+![](/assets/cms_übersetzungen.png)
 
 
 
