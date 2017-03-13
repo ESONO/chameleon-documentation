@@ -32,10 +32,10 @@ Bei einem bereits angelegten Modul gelangen Sie ebenfalls über `Funktionen` in 
 
 Am oberen Rand einer Seite gibt es 4 Buttons, über die Sie schnell den Bearbeitungsmodus wechseln:
 
-![](bild21.png)
+![](/assets/seitenverwaltung_seite_bearbeiten.png)
 
-* ```Seiten-Einstellungen```: Grundkonfiguration der Seite, wie z.B. Name, verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
-* ```Inhalte editieren```: Hier können die Module in den Steckplätzen bearbeitet werden.
-* ```Seitenvorschau```: Öffnet die Webansicht der Seite. 
-* ```Seitenvorlagen```: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.
+* `Seiten-Einstellungen`: Grundkonfiguration der Seite, wie z.B. Name, verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
+* `Inhalte editieren`: Hier können die Module in den Steckplätzen bearbeitet werden.
+* `Seitenvorschau`: Öffnet die Webansicht der Seite. 
+* `Seitenvorlagen`: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.
 
