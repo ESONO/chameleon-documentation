@@ -41,14 +41,6 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 <br>
 
-`AddThis`
-
-![](Bild2.png)
-
-Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil-ID eingeben. Dies dient dazu, Social Media Logos und den jeweiligen Link hinzuzufügen.
-
-<br>
-
 `robots`
 
 Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!
