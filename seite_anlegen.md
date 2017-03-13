@@ -24,7 +24,7 @@ Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können
 <br>
 Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
 
-![](bild18.png)
+![](/assets/seitenverwaltung_seite_anlegen3.png)
 
 
 | Bezeichnung | Beschreibung |
