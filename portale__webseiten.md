@@ -43,7 +43,7 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!
 
-![](bild3.png)
+![](/assets/portal_robots.png)
 
 <br>
 #####Speichern / Seitenbaum editieren
