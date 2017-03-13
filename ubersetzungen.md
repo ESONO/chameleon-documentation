@@ -21,15 +21,15 @@ Suchen Sie den Begriff, den Sie übersetzen wollen und öffnen diesen Datensatz.
 
 Das Sprachflag beim Textfeld zeigt Ihnen an, in welcher Editiersprache Sie sich gerade im Backend befinden.
 
-![](bild52.png)
+![](/assets/cms_webübersetzungen1.png)
 
 Stellen Sie nun auf die gewünschte Editiersprache um. Das zu übersetzende Feld ist durch das entsprechende Flag gekennzeichnet. Noch nicht übersetzte Felder erkennen Sie anhand des Bearbeitungsstiftes.
 
-![](bild53.png)
+![](/assets/cms_webübersetzungen2.png)
 
 Übersetzen Sie den Text und speichern Sie den Datensatz.
 
-![](bild54.png)
+![](/assets/cms_webübersetzungen3.png)
 <br>
 
 ### CMS Übersetzungen
