@@ -20,4 +20,6 @@ Die Bildergalerien können über einen im Frontend anzulegenden View angezeigt w
 
 ###### Beispiel Bildergalerie im Frontend:
 
-![](bild51.png)
+![](/assets/Bildergalerie1.png)
+
+![](/assets/Bildergalerie2.png)
