@@ -1,6 +1,6 @@
 ## Sprache / Website/ Cache / Hilfe
 
-![](bild25.png)
+![](/assets/sprache_topnavi.png)
 
 * `Sprache`: Bei multilingualen CMS/Shops hat man die Möglichkeit, während der Arbeit die Sprache zu wechseln, indem man auf „Editiersprache“ klickt und in der Auswahl die entsprechende Sprache wählt.
 * `Webseite`: öffnet das Frontend in einem neuen Browser-Tab.
