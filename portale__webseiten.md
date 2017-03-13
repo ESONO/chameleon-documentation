@@ -37,7 +37,7 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 `Metadaten`
 
-![](bild_metadaten.png)
+![](/assets/portal_metadaten.png)
 
 <br>
 
