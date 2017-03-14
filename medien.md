@@ -21,6 +21,6 @@ Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnel
 
 Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Bild-Datensatz in `Medien` auf und laden über `Mediendatei ersetzen` die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
 
-Die Medienverwaltung ist auch direkt im Datensatz, in dem das Bild eingefügt werden soll, erreichbar: `Medien verwalten`
+Die Medienverwaltung ist auch im Datensatz, in dem das Bild eingefügt werden soll, über den Button `Medien verwalten` erreichbar. Zudem kann die Datei auch direkt im Datensatz in den entsprechenden Ordner hochgeladen werden.
 
 Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden (das Hochladen funktioniert in dem Fall nicht). Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.
