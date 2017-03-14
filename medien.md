@@ -1,6 +1,6 @@
 ## Medien
 
-Über den Punkt `Medien` gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. Alle Bilder / Videos, die auf der Webseite angezeigt werden sollen, müssen zuerst in der Medienverwaltung hinterlegt werden. 
+Über den Punkt `Medien` gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. 
 
 Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet). 
 
@@ -19,6 +19,8 @@ Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnel
 | Umbenennen | Benennt ein Verzeichnis um. |
 
 
-Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über `Mediendatei ersetzen` die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
+Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Bild-Datensatz in `Medien` auf und laden über `Mediendatei ersetzen` die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
 
-Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden. Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.
+Die Medienverwaltung ist auch direkt im Datensatz, in dem das Bild eingefügt werden soll, erreichbar: `Medien verwalten`
+
+Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden (das Hochladen funktioniert in dem Fall nicht). Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.
