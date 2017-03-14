@@ -23,4 +23,6 @@ Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsp
 
 Die Medienverwaltung ist auch im Datensatz, in dem das Bild eingefügt werden soll, über den Button `Medien verwalten` erreichbar. Zudem kann die Datei auch direkt im Datensatz in den entsprechenden Ordner hochgeladen werden.
 
+![](/assets/medienverwaltung_datensatz.png)
+
 Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden (das Hochladen funktioniert in dem Fall nicht). Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.
