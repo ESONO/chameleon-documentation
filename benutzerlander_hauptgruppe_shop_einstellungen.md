@@ -1,4 +1,4 @@
-### Benutzerländer (Hauptgruppe Shop Einstellungen)
+### Benutzerländer
 
     `Shop-Einstellungen → Benutzerländer`
 
