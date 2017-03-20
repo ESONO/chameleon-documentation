@@ -3,7 +3,7 @@
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können im Chameleon Backend mithilfe des **Variantengenerators** erzeugt werden.
 
-Dafür wird zunächst ein generisches **Variantenset** erzeugt (z.B. *Größe und Farbe*), welches für alle Artikel verwendet werden kann. Mithilfe des intelligenten **Generators** können dann mögliche Varianten vorgeschlagen und automatisch erzeugt, z.B. T-Shirt gelb S, gelb M, gelb L, rot S, rot M, rot L usw..
+Dafür wird zunächst ein generisches **Variantenset** erzeugt (z.B. *Größe und Farbe*), welches für alle Artikel des gleichen Produkttyps verwendet werden kann. Mithilfe des intelligenten **Generators** können dann mögliche Varianten vorgeschlagen und automatisch erzeugt, z.B. T-Shirt gelb S, gelb M, gelb L, rot S, rot M, rot L usw..
 
 Zur Veranschaulichung dieser Dokumentation wird als Produkt eine [Mütze aus dem Chameleon Demoshop](https://demo.chameleon-system.de/testmarke-3/gehaekeltes/merino-muetze-muetzen_pid_820_6702.html?_ref=spot3&url=%2FProdukte%2FGehaekeltes%2FMuetzen%2F) in verschiedenen **Größen und Farben** verwendet.
 
