@@ -44,7 +44,7 @@ Gutscheine, die nicht „gesponsert“ und damit nicht tatsächlich bezahlt sind
 
 Zusätzlich kann bei einem Gutschein ein Gratisartikel hinterlegt werden (wenn das entsprechende Modul installiert ist). Wird ein solcher Gutschein mit Gratisartikel eingelöst, legt das System den Artikel mit einem Wert von 0,- € in den Warenkorb. Es erscheint der Hinweis, über welchen Gutschein der Artikel in den Warenkorb gelegt wurde.
 
-Folgende zusätzliche Einstellungen und Einschränkungen sind möglich:
+Folgende Einstellungen und Einschränkungen sind möglich:
 
 * Über ein Start- und Enddatum kann ein Gutschein auf eine Zeitspanne eingeschränkt werden.
 * Es kann ein Mindestbestellwert definiert werden, der überschritten werden muss, bevor der Gutschein akzeptiert wird.
@@ -86,7 +86,7 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 *nur verfügbar, wenn das Modul `Gratisartikel` freigeschaltet ist
 
 
-Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
+Gutscheine zur Serie können über den Button `Gutscheine erstellen` generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
 
 [^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
 
