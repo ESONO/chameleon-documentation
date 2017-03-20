@@ -1,6 +1,6 @@
 ### Gutscheine anlegen
 
-#### Gutscheinserien
+#### Mehrere Gutscheine in einer Serie
 
     Rabatte & Gutscheine → Gutscheinserien
 
