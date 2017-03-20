@@ -1,4 +1,6 @@
-### Gutscheinserien
+### Gutscheine anlegen
+
+#### Gutscheinserien
 
     Rabatte & Gutscheine → Gutscheinserien
 
@@ -75,3 +77,8 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
 
 [^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
+
+<br>
+#### Einen Gutschein anlegen
+
+Soll nur ein Gutschein erstellt werden (anstatt mehreren in einer Serie), muss zunächst ebenfalls eine Serie angelegt werden. Dann im Feld `Gutscheine der Serie` auf `Neu` klicken und den gewünschten Code eingeben.
