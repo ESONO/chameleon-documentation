@@ -1,5 +1,7 @@
 ### Gutscheine anlegen
 
+Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen beziehen sich auf die Serie und damit auf alle Gutscheine in dieser Serie. Soll nur ein einzelner Gutschein erstellt werden, wird dafür ebenfalls eine Serie angelegt.
+
 #### Mehrere Gutscheine in einer Serie
 
     Rabatte & Gutscheine → Gutscheinserien
