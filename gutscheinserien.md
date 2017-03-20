@@ -2,7 +2,7 @@
 
 Gutscheine werden als [Gutscheinserien](gutscheinserien.md#mehrere-gutscheine-in-einer-serie) angelegt. Alle Einstellungen beziehen sich auf die Serie und damit auf alle Gutscheine in dieser Serie.
 
-Soll nur ein [einzelner Gutschein](gutscheinserien.md#einen-gutschein-anlegen) erstellt werden, wird dafür ebenfalls eine Serie angelegt.
+Soll nur ein [einzelner Gutschein](gutscheinserien.md#einen-gutschein-anlegen) erstellt werden, wird dafür ebenfalls eine Serie angelegt.*
 
 #### Mehrere Gutscheine in einer Serie
 
