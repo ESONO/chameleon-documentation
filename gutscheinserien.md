@@ -16,6 +16,7 @@ Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit
 Zusätzlich wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
 
 ![](/assets/aktionsgutschein.png)
+<br>
 
 Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen beziehen sich auf die Gutscheinserie, und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
 
