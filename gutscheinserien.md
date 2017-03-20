@@ -81,4 +81,6 @@ Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" gen
 <br>
 #### Einen Gutschein anlegen
 
+    Rabatte & Gutscheine → Gutscheinserien
+
 Soll nur ein Gutschein erstellt werden (anstatt mehreren in einer Serie), muss zunächst ebenfalls eine Serie angelegt werden. Dann im Feld `Gutscheine der Serie` auf `Neu` klicken und den gewünschten Code eingeben.
