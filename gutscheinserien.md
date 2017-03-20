@@ -9,9 +9,13 @@ Soll nur ein [einzelner Gutschein](gutscheinserien.md#einen-gutschein-anlegen) e
 
     Rabatte & Gutscheine → Gutscheinserien
 
-Im System können Gutscheine hinterlegt werden, die einen absoluten oder prozentualen Wert als Nachlass gewähren. Prozentuale Nachlässe beziehen sich immer auf die Bruttosumme der Produkte, bevor Rabatte oder ähnliches angerechnet werden. Zusätzlich kann bei einem Gutschein ein Gratisartikel hinterlegt werden (wenn das entsprechende Modul installiert ist). Wird ein solcher Gutschein mit Gratisartikel eingelöst, legt das System den Artikel mit einem Wert von 0,- € in den Warenkorb. Zusätzlich erscheint der Hinweis, über welchen Gutschein der Artikel in den Warenkorb gelegt wurde. Neben dem Hinweis erscheint weiterhin ein Link, über den der Gutschein wieder aus dem Warenkorb genommen werden kann.
+Im System können Gutscheine hinterlegt werden, die einen absoluten oder prozentualen Wert als Nachlass gewähren. Prozentuale Nachlässe beziehen sich immer auf die Bruttosumme der Produkte, bevor Rabatte oder ähnliches angerechnet werden. 
 
-Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. Zusätzlich wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
+Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
+
+Zusätzlich wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
+
+![](/assets/aktionsgutschein.png)
 
 Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen beziehen sich auf die Gutscheinserie, und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
 
@@ -36,6 +40,8 @@ Gutscheine können für alle Benutzer verwendbar sein oder auf bestimmte Benutze
 Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat, siehe [Gutscheinsponsoren](gutscheinsponsoren.md).
 
 Gutscheine, die nicht „gesponsert“ und damit nicht tatsächlich bezahlt sind, dürfen nicht auf Artikel zugreifen, die von Gutscheinen ausgeschlossen wurden. Die für den Gutschein relevante Mindestbestellsumme sowie der Warenkorbwert (der nicht unter Null fallen darf) beziehen sich immer auf die Summe der Artikel, die nicht von Gutscheinen ausgeschlossen wurden. 
+
+Zusätzlich kann bei einem Gutschein ein Gratisartikel hinterlegt werden (wenn das entsprechende Modul installiert ist). Wird ein solcher Gutschein mit Gratisartikel eingelöst, legt das System den Artikel mit einem Wert von 0,- € in den Warenkorb. Es erscheint der Hinweis, über welchen Gutschein der Artikel in den Warenkorb gelegt wurde.
 
 Folgende zusätzliche Einstellungen und Einschränkungen sind möglich:
 
