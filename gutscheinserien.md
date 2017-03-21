@@ -86,6 +86,7 @@ Gutscheine zur Serie werden über den Button `Gutscheine erstellen` generiert.
 ![](/assets/gutscheine_erstellen.png)
 
 Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sowie der Gutschein-Code angegeben werden.[^2] Soll jeder Gutschein dieser Serie den gleichen Code besitzen, wie z.B. "Frühlingsaktion", dann geben Sie dies in den Pop-Up-Dialog ein. 
+
 ![](/assets/gutscheine_erstellen1.png)
 
 ![](/assets/gutscheine_erstellen2.png)
