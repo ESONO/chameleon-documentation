@@ -20,15 +20,6 @@ Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen,
 
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
-Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. 
-![](/assets/gutscheine_exportieren.png)
-
-Für jeden Gutschein werden folgende Daten exportiert:
-* Code: Identifikationscode des Gutscheins
-* Datum: Erstellungsdatum
-* Verbraucht (Ja / Nein)
-* Verbrauchsdatum: wird hinterlegt, sobald ein Gutschein komplett verbraucht wurde
-* Restwert: möglicher unverbrauchter Restwert des Gutscheines
 
 Gutscheine können für alle Benutzer verwendbar sein oder auf bestimmte Benutzergruppen oder Benutzer eingeschränkt werden.
 
@@ -93,6 +84,20 @@ Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sow
 Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein eineindeutiger Code generiert.
 
 ![](/assets/gutscheine_erstellen3.png)
+<br>
+
+###### Gutscheine exportieren
+Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. 
+![](/assets/gutscheine_exportieren.png)
+
+Für jeden Gutschein werden folgende Daten exportiert:
+* Code: Identifikationscode des Gutscheins
+* Datum: Erstellungsdatum
+* Verbraucht (Ja / Nein)
+* Verbrauchsdatum: wird hinterlegt, sobald ein Gutschein komplett verbraucht wurde
+* Restwert: möglicher unverbrauchter Restwert des Gutscheines
+
+
 
 
 [^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
