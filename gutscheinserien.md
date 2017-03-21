@@ -5,7 +5,7 @@ Gutscheine werden als Gutscheinserie angelegt. Alle Einstellungen beziehen sich 
 
     Rabatte & Gutscheine → Gutscheinserien
 
-Im System können Gutscheine hinterlegt werden, die einen absoluten oder prozentualen Wert als Nachlass gewähren. Prozentuale Nachlässe beziehen sich immer auf die Bruttosumme der Produkte, bevor Rabatte oder ähnliches angerechnet werden. 
+Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nachlassgewährung haben. Prozentuale Nachlässe beziehen sich immer auf die Bruttosumme der Produkte, bevor Rabatte oder ähnliches angerechnet werden. 
 
 Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
 
