@@ -80,7 +80,7 @@
     * [Versandkostengruppen](versandkostengruppen.md)
     * [Zahlmethoden](zahlmethoden.md)
 * [Rabatte und Gutscheine](rabatte_und_gutscheine.md)
-  * [Gutscheine anlegen](gutscheinserien.md)
+  * [Gutscheine erstellen](gutscheinserien.md)
   * [Gutscheinsponsoren](gutscheinsponsoren.md)
   * [Rabatte](rabatte.md)
 * [Suche](suche.md)
