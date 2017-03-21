@@ -12,9 +12,7 @@ Zusätzlich wird neben jedem Gutschein ein Link angezeigt, über den der Gutsche
 ![](/assets/aktionsgutschein.png)
 <br>
 
-Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen beziehen sich auf die Gutscheinserie, und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
 
-Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^1]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
 
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
@@ -70,6 +68,10 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 <br>
 ###### Gutscheine anlegen
+
+Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen (sh. oben) beziehen sich auf die Gutscheinserie und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
+
+
 Gutscheine zur Serie werden über den Button `Gutscheine erstellen` generiert. 
 ![](/assets/gutscheine_erstellen.png)
 
@@ -83,6 +85,12 @@ Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sow
 Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein eineindeutiger Code generiert.
 
 ![](/assets/gutscheine_erstellen3.png)
+<br>
+
+Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^1]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
+
+
+
 <br>
 
 ###### Gutscheine exportieren
