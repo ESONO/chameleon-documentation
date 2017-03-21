@@ -81,7 +81,7 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 *nur verfügbar, wenn das Modul `Gratisartikel` freigeschaltet ist
 
-
+<br>
 Gutscheine zur Serie werden über den Button `Gutscheine erstellen` generiert. 
 ![](/assets/gutscheine_erstellen.png)
 
