@@ -85,7 +85,7 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 Gutscheine zur Serie werden über den Button `Gutscheine erstellen` generiert. 
 ![](/assets/gutscheine_erstellen.png)
 
-Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden. Soll jeder Gutschein dieser Serie den gleichen Code besitzen, wie z.B. "Frühlingsaktion", dann geben Sie dies in den Pop-Up-Dialog ein. 
+Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden.[^2] Soll jeder Gutschein dieser Serie den gleichen Code besitzen, wie z.B. "Frühlingsaktion", dann geben Sie dies in den Pop-Up-Dialog ein. 
 ![](/assets/gutscheine_erstellen1.png)
 
 ![](/assets/gutscheine_erstellen2.png)
@@ -95,11 +95,13 @@ Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein ein
 
 ![](/assets/gutscheine_erstellen3.png)
 
-Soll nur ein Gutschein erstellt werden (anstatt mehreren in einer Serie), muss zunächst ebenfalls eine Serie angelegt werden. 
+
 
 Dann im Feld `Gutscheine der Serie` auf `Neu` klicken und den gewünschten Code eingeben.
 
 [^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
+
+[^2]:
 
 <br>
 
