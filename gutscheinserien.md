@@ -97,7 +97,7 @@ Für jeden Gutschein werden folgende Daten exportiert:
 * Verbrauchsdatum: wird hinterlegt, sobald ein Gutschein komplett verbraucht wurde
 * Restwert: möglicher unverbrauchter Restwert des Gutscheines
 
-
+<br>
 
 
 [^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
