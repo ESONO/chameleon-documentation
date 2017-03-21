@@ -22,7 +22,7 @@ Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert 
 
 Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. Für jeden Gutschein werden folgende Daten exportiert:
 
-![](bild50.png)
+![](/assets/gutscheine_exportieren.png)
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
