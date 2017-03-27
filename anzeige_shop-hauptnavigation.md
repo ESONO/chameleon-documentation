@@ -8,6 +8,8 @@
 
 Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menüpunkt kann entweder mit einer Seite oder auch mit einer Artikelkategorie verknüpft werden.
 
+![](/assets/shop_hauptnavigation1.png)
+
 <br>
 
 | Bezeichnung | Beschreibung |
