@@ -4,7 +4,7 @@
 
 Über diesen Menüpunkt wird die Anzeige der Shop-Hauptnavigation gesteuert.
 
-![](bild28.png)
+![](/assets/shop_hauptnavigation.png)
 
 Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menüpunkt kann entweder mit einer Seite oder auch mit einer Artikelkategorie verknüpft werden.
 
