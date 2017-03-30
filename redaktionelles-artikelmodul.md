@@ -18,11 +18,16 @@ In der Regel werden die Artikeltypen durch Ihren Dienstleister vorkonfiguriert.
 
     Artikel (redaktionell) → Artikelkategoriegruppen
     
-Das Artikel-Package kennt Artikelkategoriegruppen und Kategorien. Kategorien sind Eigenschaften der Artikelkategoriegruppen und können beliebig verschachtelt sein. Artikel werden immer Kategorien zugeordnet, nicht Artikelkategoriegruppen. Kategorie und Kategoriegruppe sind auch Teil des SEO-Links. Die Kategorien können verwendet werden, um Listen danach zu filtern und Artikel  in die Navigation einzubinden.
+Das Artikel-Package kennt Artikelkategoriegruppen und Kategorien. Kategorien sind Eigenschaften der Artikelkategoriegruppen und können beliebig verschachtelt sein. Artikel werden immer Kategorien zugeordnet, nicht Artikelkategoriegruppen. Kategorie und Kategoriegruppe sind auch Teil des SEO-Links. 
 
 Legen Sie zuerst eine Artikelkategoriegruppe an, danach entsprechenden Kategorien.
 
 ![](/assets/artikelkategorien.png)
+
+Die Kategorien können verwendet werden, um Listen danach zu filtern und Artikel  in die Navigation bzw. Breadcrumb einzubinden. Hierfür wird die Kategorie einer Seite im CMS zugewiesen über das Feld `Listen / Übersichtsseite`. 
+
+![](/assets/artikelkategorie_listen.png)
+
 
 <br>
 
