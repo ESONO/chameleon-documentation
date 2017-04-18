@@ -5,7 +5,7 @@
 
 Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nachlassgewährung haben. Prozentuale Nachlässe beziehen sich immer auf den Gesamtwert des Warenkorbes (Bruttosumme der Produkte). 
 
-Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (=Kaufgutschein - jemand hat für den Gutschein gezahlt) unterschieden.
+Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (= Kaufgutschein, d.h. jemand hat für den Gutschein gezahlt) unterschieden.
 Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwertes abgezogen, dementsprechend reduziert sich die berechnete Mehrwertsteuer.
 
 
@@ -14,9 +14,9 @@ Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwerte
 
 Gesponserte Gutscheine hingegen werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein, sh. auch [Gutscheinsponsoren](gutscheinsponsoren.md)).
 
-Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
+Geldwert-Gutscheine (gesponsert) erscheinen im Warenkorb unterhalb der Produktbruttosumme mit Namen und Wert. 
 
-![](/assets/gutschein_gesponsert.png)
+![](/assets/gutschein_gesponsert1.png)
 <br>
 
 
