@@ -20,9 +20,7 @@ Geldwert-Gutscheine (gesponsert) erscheinen im Warenkorb unterhalb der Produktbr
 <br>
 
 
-Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
-
-![](/assets/gutschein_verbrauch.png)
+Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). 
 
 Artikel können von der Verwendung von Aktionsgutscheinen ausgeschlossen werden: ```Artikel → Preis/Versand → keine Gutscheine zulassen```. Gesponserte Gutscheinen hingegen können auch für Artikel verwendet werden, bei denen sonst keine Gutscheine zugelassen sind.
 
@@ -57,7 +55,8 @@ Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sow
 ![](/assets/gutscheine_erstellen2.png)
 
 
-Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein eineindeutiger Code generiert.
+Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein eineindeutiger Code generiert. 
+Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
 ![](/assets/gutscheine_erstellen3.png)
 <br>
