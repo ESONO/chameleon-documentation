@@ -5,15 +5,15 @@
 
 Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nachlassgewährung haben. Prozentuale Nachlässe beziehen sich immer auf den Gesamtwert des Warenkorbes (Bruttosumme der Produkte). 
 
-Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (=Kaufgutschein) unterschieden.
+Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (=Kaufgutschein - jemand hat für den Gutschein gezahlt) unterschieden.
 Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwertes abgezogen, dementsprechend reduziert sich die berechnete Mehrwertsteuer.
 
 
 ![](/assets/gutschein_aktion.png)
 <br>
 
-Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat (siehe [Gutscheinsponsoren](gutscheinsponsoren.md)).
-Gesponserte Gutscheine werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein).
+Gesponserte Gutscheine werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein). (siehe [Gutscheinsponsoren](gutscheinsponsoren.md)).
+
 Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
 
 ![](/assets/gutschein_gesponsert.png)
@@ -41,36 +41,9 @@ Folgende Einstellungen und Einschränkungen sind möglich:
 * Ob der Gutschein nur bei der ersten Bestellung des Benutzers verwendet werden kann.
 * Ob der Gutschein die Versandkosten aufheben soll.
 * Es ist möglich, den Gutschein als einen „gesponserten“ Gutschein zu markieren. Zusätzlich können der Name des Sponsors, ein Bild und ein Logo hinterlegt werden. „Gesponserte“ Gutscheine ignorieren die Einstellung „keine Gutscheine zulassen“ der Warenkorbartikel im Warenkorb.
+* Gratisartikel: Ein hier hinterlegter Artikel wird bei Verwendung des Gutscheins gratis in den Warenkorb gelegt (nur verfügbar, wenn das Modul "Gratisartikel" freigeschaltet ist)
+* Gutscheine können eingeschränkt werden auf bestimmte Kunden, Kundengruppen, einzelne Produkte, Hersteller, Artikelgruppen, Produktekategorien
 
-
-Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfügung:
-
-| Bezeichnung | Beschreibung |
-| -- | -- |
-| Name | Bezeichnung der Gutscheinserie |
-| Gutscheinsponsor | Auswahl des Sponsoren, der zuvor unter „Gutscheinsponsoren“ angelegt wurde |
-| Wert | Der Wert jedes einzelnen Gutscheins dieser Serie. Der Wert kann absolut oder prozentual (zum Gesamtwarenkorb) angegeben werden (wird über das Feld „Wertart“ definiert). |
-| Wertart | definiert, ob es sich bei dem Feldwert um einen Absolutwert oder um eine Prozentangabe handelt. Prozentangaben beziehen sich immer auf den Gesamtwert des Warenkorbs. |
-| Umsatzsteuergruppe | Wird für die Serie keine Umsatzsteuergruppe gewählt, dann gilt immer die in den Shopeinstellungen hinterlegte Standardgruppe. |
-| Gratisartikel* | Ein hier hinterlegter Artikel wird bei Verwendung des Gutscheins gratis in den Warenkorb gelegt. |
-| Gratisversand | Wird ein Gutschein mit dieser Markierung verwendet, betragen die Versandkosten 0,- €. |
-| Aktiv | Aktiviert / deaktiviert die Serie und alle dazu gehörenden Gutscheine. |
-| Aktiv ab | Legt ein Datum fest, ab welchem die Gutscheine der Serie verwendet werden können. |
-| Aktiv bis | Legt ein Datum fest, bis zu welchem die Gutscheine der Serie verwendet werden können. |
-| Mindestbestellwert | Gutscheine dieser Serie dürfen erst ab diesem Bestellwert verwendet werden. |
-| Nur mit anderen Serien zulassen | Gutscheine dieser Serie dürfen nur mit Gutscheinen anderer Serien verwendet werden. |
-| Nicht in Kombination mit anderen Gutscheinen zulassen | Gutscheine dieser Serie dürfen nicht in Kombination mit anderen Gutscheinen verwendet werden (egal von welcher Serie). |
-| Nur einen Gutschein pro Kunde zulassen | Ein Kunde darf nur einen Gutschein dieser Serie verwenden (kann nur bei registrierten Kunden geprüft werden). |
-| Nur bei der ersten Bestellung eines Kunden zulassen | Kann nur nach Registrierung des Kunden geprüft werden. |
-| Auf folgende Kunden einschränken | Filter |
-| Auf folgende Kundengruppen einschränken | Filter |
-| Auf Produkte dieser Hersteller einschränken | Filter |
-| Auf Produkte aus diesen Artikelgruppen einschränken| Filter |
-| Auf Produkte aus diesen Kategorien einschränken | Filter |
-| Auf diese Produkte einschränken | Filter |
-| Gutscheine der Serie | Eine Übersicht aller zur Serie gehörenden Gutscheine |
-
-*nur verfügbar, wenn das Modul `Gratisartikel` freigeschaltet ist
 
 <br>
 ###### Gutscheine anlegen
