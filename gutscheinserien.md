@@ -12,7 +12,7 @@ Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwerte
 ![](/assets/gutschein_aktion.png)
 <br>
 
-Gesponserte Gutscheine hingegen werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein). (siehe [Gutscheinsponsoren](gutscheinsponsoren.md)).
+Gesponserte Gutscheine hingegen werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein, sh. auch [Gutscheinsponsoren](gutscheinsponsoren.md)).
 
 Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
 
