@@ -5,9 +5,12 @@
 
 Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nachlassgewährung haben. Prozentuale Nachlässe beziehen sich immer auf den Gesamtwert des Warenkorbes (Bruttosumme der Produkte). 
 
+Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (=Kaufgutschein) unterschieden.
+Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwertes abgezogen, dementsprechend reduziert sich die berechnete Mehrwertsteuer.
+
 Im Warenkorb wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
 
-![](/assets/aktionsgutschein.png)
+![](/assets/gutschein_aktion.png)
 <br>
 
 Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat (siehe [Gutscheinsponsoren](gutscheinsponsoren.md)).
