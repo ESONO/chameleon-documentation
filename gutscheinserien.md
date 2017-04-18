@@ -22,14 +22,13 @@ Geldwert-Gutscheine (gesponsert) erscheinen im Warenkorb unterhalb der Produktbr
 
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
-Artikel können von der Verwendung von Aktionsgutscheinen ausgeschlossen werden: ```Artikel → Preis/Versand → keine Gutscheine zulassen```. Gesponserte Gutscheinen hingegen können auch für Artikel verwendet werden, bei denen keine Gutscheine zugelassen sind.
+![](/assets/gutschein_verbrauch.png)
 
-
-Gutscheine, die nicht „gesponsert“ und damit nicht tatsächlich bezahlt sind, dürfen nicht auf Artikel zugreifen, die von Gutscheinen ausgeschlossen wurden. Die für den Gutschein relevante Mindestbestellsumme sowie der Warenkorbwert (der nicht unter Null fallen darf) beziehen sich immer auf die Summe der Artikel, die nicht von Gutscheinen ausgeschlossen wurden (gesponserte Gutscheine können auch für Artikel verwendet werden, die ansonsten von der Gutscheinverwendung ausgeschlossen sind). 
+Artikel können von der Verwendung von Aktionsgutscheinen ausgeschlossen werden: ```Artikel → Preis/Versand → keine Gutscheine zulassen```. Gesponserte Gutscheinen hingegen können auch für Artikel verwendet werden, bei denen sonst keine Gutscheine zugelassen sind.
 
 Zusätzlich kann bei einem Gutschein ein Gratisartikel hinterlegt werden (wenn das entsprechende Modul installiert ist). Wird ein solcher Gutschein mit Gratisartikel eingelöst, legt das System den Artikel mit einem Wert von 0,- € in den Warenkorb. Es erscheint der Hinweis, über welchen Gutschein der Artikel in den Warenkorb gelegt wurde.
 
-Folgende Einstellungen und Einschränkungen sind möglich:
+Folgende weitere Einstellungen und Einschränkungen sind möglich:
 
 * Über ein Start- und Enddatum kann ein Gutschein auf eine Zeitspanne eingeschränkt werden.
 * Es kann ein Mindestbestellwert definiert werden, der überschritten werden muss, bevor der Gutschein akzeptiert wird.
@@ -83,9 +82,9 @@ Für jeden Gutschein werden folgende Daten exportiert:
 <br>
 
 
-[^1]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
+[^2]: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
 
-[^2]: Wollen Sie nur 1 Gutschein erstellen, geben Sie ins Dialogfenster eine `1` ein. Alternativ können Sie auch bei `Gutscheine der Serie` auf `Neu` klicken und dann den gewünschten Code eingeben.
+[^1]: Wollen Sie nur 1 Gutschein erstellen, geben Sie ins Dialogfenster eine `1` ein. Alternativ können Sie auch bei `Gutscheine der Serie` auf `Neu` klicken und dann den gewünschten Code eingeben.
 
 <br>
 
