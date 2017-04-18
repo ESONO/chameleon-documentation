@@ -11,7 +11,6 @@ Im Warenkorb wird neben jedem Gutschein ein Link angezeigt, über den der Gutsch
 <br>
 
 Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat, siehe [Gutscheinsponsoren](gutscheinsponsoren.md).
-
 Gesponserte Gutscheine werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein).
 Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit Namen und Wert. 
 
