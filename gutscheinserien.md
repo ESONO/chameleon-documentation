@@ -50,7 +50,7 @@ Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen (sh. 
 Gutscheine zur Serie werden über den Button `Gutscheine erstellen` generiert. 
 ![](/assets/gutscheine_erstellen.png)
 
-Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sowie der Gutschein-Code angegeben werden.[^2] Soll jeder Gutschein dieser Serie den gleichen Code besitzen, wie z.B. "Frühlingsaktion", dann geben Sie dies in den Pop-Up-Dialog ein. 
+Bei der Generierung muss die Anzahl der Gutscheine, die erstellt werden soll sowie der Gutschein-Code angegeben werden.[^1] Soll jeder Gutschein dieser Serie den gleichen Code besitzen, wie z.B. "Frühlingsaktion", dann geben Sie dies in den Pop-Up-Dialog ein. 
 
 ![](/assets/gutscheine_erstellen1.png)
 
@@ -62,7 +62,7 @@ Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein ein
 ![](/assets/gutscheine_erstellen3.png)
 <br>
 
-Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^1]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
+Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden[^2]. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
 
 
 
