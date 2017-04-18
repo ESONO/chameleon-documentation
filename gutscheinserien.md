@@ -8,7 +8,6 @@ Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nac
 Es wird zwischen Aktionsgutscheinen und gesponserten Gutscheinen (=Kaufgutschein) unterschieden.
 Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwertes abgezogen, dementsprechend reduziert sich die berechnete Mehrwertsteuer.
 
-Im Warenkorb wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
 
 ![](/assets/gutschein_aktion.png)
 <br>
@@ -21,6 +20,9 @@ Geldwert-Gutscheine (gesponsert) erscheinen unterhalb der Produktbruttosumme mit
 <br>
 
 
+Im Warenkorb wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
+
+I
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
 
