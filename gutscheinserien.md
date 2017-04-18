@@ -12,15 +12,13 @@ Bei Aktionsgutscheinen wird der Gutscheinwert von der Bruttosumme des Warenwerte
 ![](/assets/gutschein_aktion.png)
 <br>
 
-Gesponserte Gutscheine hingegen werden wie ein Zahlungsmittel verwendet und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein, sh. auch [Gutscheinsponsoren](gutscheinsponsoren.md)).
+Gesponserte Gutscheine hingegen werden wie ein Zahlungsmittel verwendet, werden also nach der Steuer abgezogen und wirken sich daher **nicht** auf die berechnete MwSt. aus. Diese Option sollte also für Gutscheine verwendet werden, für die ein Kunde oder Partner tatsächlich bezahlt hat (wie z.B. ein Kaufgutschein, sh. auch [Gutscheinsponsoren](gutscheinsponsoren.md)).
 
 Geldwert-Gutscheine (gesponsert) erscheinen im Warenkorb unterhalb der Produktbruttosumme mit Namen und Wert. 
 
 ![](/assets/gutschein_gesponsert1.png)
 <br>
 
-
-Im Warenkorb wird neben jedem Gutschein ein Link angezeigt, über den der Gutschein wieder aus dem Warenkorb entfernt werden kann.
 
 Der Gutscheinwert selbst wird immer aus der Gutscheinserie genommen (verändert man diesen Wert, verändert sich auch automatisch der Gutscheinwert). Bei jeder Verwendung eines Gutscheins wird das Datum, der Benutzer sowie der Verbrauchswert beim Gutschein in der Gutscheinverwendungsliste hinterlegt. Sobald der Gutschein komplett verbraucht ist, wird das Verbrauchsdatum hinterlegt und der Gutschein als verbraucht markiert. 
 
