@@ -69,6 +69,9 @@ Werden mehrere Varianten eines Artikels angeboten, müssen hier die passenden Va
 
 Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel [Artikelvarianten](/artikelvarianten.md) beschrieben.
 
+### Währungen
+
+Wenn Ihr Shop über mehrere Währungen verfügt, werden diese hier definiert. Dabei wird ein Umrechnungsfaktor zur Basiswährung angegeben.
 
 
 
