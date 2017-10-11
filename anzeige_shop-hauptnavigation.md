@@ -10,7 +10,8 @@ Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menü
 
 ![](/assets/shop_hauptnavigation1.png)
 
-<br>
+----
+
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
