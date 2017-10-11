@@ -46,7 +46,7 @@
   * [Benutzereinstellungen](zentrale_shop-einstellungen.md#benutzereinstellungen-extranet-konfiguration)
   * [Benutzerländer](zentrale_shop-einstellungen.md#benutzerlander)
   * [Maßeinheiten](zentrale_shop-einstellungen.md#masseinheiten)
-  * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
+  * [Umsatzsteuergruppen](zentrale_shop-einstellungen.md#umsatzsteuergruppen)
   * [Variantensets](variantensets.md)
   * [Währungen](wahrungen.md)
   * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
