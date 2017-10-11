@@ -1,4 +1,4 @@
-### Systemnachrichten / Fehlercodes-Typen
+## Systemnachrichten / Fehlercodes-Typen
 
     CMS / Portal-Einstellungen → Portale / Webseiten
 
