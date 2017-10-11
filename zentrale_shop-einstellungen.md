@@ -31,5 +31,12 @@ Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen`
 
 Der Unterschied zu den [Textbausteinen](/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine (`Website → Textbausteine`) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
 
+### Benutzereinstellungen (Extranet-Konfiguration)
+
+    CMS / Portal-Einstellungen → Extranet-Konfiguration
+
+In der Extranet-Konfiguration können Einstellungen vorgenommen werden, die für die Interaktion mit dem Portal-/Shop-Besucher notwendig sind, z.B. bei der Registrierung, bei ungültigem Login oder bei vergessenem Passwort. 
+Unter `Seiten` können entsprechende Landing-Pages definiert werden, die dem Kunden bei Aktionen wie „verweigertem Zugriff“ oder nach einer „erfolgreichen Registrierung“ angezeigt werden sollen.
+
 
 
