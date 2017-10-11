@@ -38,5 +38,11 @@ Der Unterschied zu den [Textbausteinen](/textbausteine.md) ist, dass die Shop-Te
 In der Extranet-Konfiguration können Einstellungen vorgenommen werden, die für die Interaktion mit dem Portal-/Shop-Besucher notwendig sind, z.B. bei der Registrierung, bei ungültigem Login oder bei vergessenem Passwort. 
 Unter `Seiten` können entsprechende Landing-Pages definiert werden, die dem Kunden bei Aktionen wie „verweigertem Zugriff“ oder nach einer „erfolgreichen Registrierung“ angezeigt werden sollen.
 
+### Benutzerländer
+
+    Shop-Einstellungen → Benutzerländer
+
+Die zur Registrierung verfügbaren Länder. In welche Länder generell Ware geliefert wird, wird in den [Versandkostenarten](/versandkostenart.md) definiert.
+
 
 
