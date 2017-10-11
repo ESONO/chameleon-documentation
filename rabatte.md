@@ -7,18 +7,25 @@ Im System können Rabatte definiert werden, die sich auf den Warenkorb oder auf 
 Rabatte können über eine Checkbox aktiviert und deaktiviert oder automatisch über das System für einen bestimmten Zeitraum aktiviert werden.
 Bei einem Rabatt kann festgelegt werden, ab welcher Einkaufsmenge oder ab welchem Einkaufswert dieser aktiviert werden soll.
 
-Zusätzlich kann festgelegt werden, ob der Rabatt generell für alle Artikel, nur für bestimmte Kategorien oder nur für bestimmte Artikel gelten soll.
-
-Gilt der Rabatt nur für bestimmte Artikel oder Kategorien, beziehen sich die Einkaufsmengen- und Wertangaben immer auf die Summe der Artikel im Warenkorb, die für diesen Rabatt gelten.
-
-Rabatte können außerdem auf bestimmte Benutzergruppen oder Benutzer sowie bestimmte Länder eingeschränkt werden. 
-Hier ist zu beachten, dass so eingeschränkte Rabatte erst zur Anwendung kommen, nachdem sich der Benutzer angemeldet bzw. sein Lieferland gewählt hat.
-
 Generell können Rabatte als [absoluter Wert](https://demo.chameleon-system.de/testmarke-4/beispielprodukte/artikel-mit-rabatt-absolut_pid_839_6992.html?_ref=spot2&url=%2FTestbereich%2FBeispielprodukte%2F) oder als [prozentualer Wert](https://demo.chameleon-system.de/testmarke-4/beispielprodukte/artikel-mit-rabatt-prozentual_pid_839_6995.html?_ref=spot2&url=%2FTestbereich%2FBeispielprodukte%2F) angegeben werden. Die prozentuale Angabe bezieht sich auf die für den Rabatt relevanten Artikel. Hier muss also nicht unbedingt der ganze Warenkorb betroffen sein.
 
 Zusätzlich zu der prozentualen oder absoluten Angabe kann ein Gratisartikel bei einem Rabatt hinterlegt werden. Wird ein Rabatt mit einem Gratisartikel angewendet, so wird der Gratisartikel automatisch mit einem 0,- € Wert in den Warenkorb gelegt.
 
 Wird ein Rabatt auf den aktiven Warenkorb oder einen Teil des Warenkorbs mit einem positiven berechneten Wert größer 0 angewendet, so wird der Rabatt unterhalb der Bruttoproduktsumme mit Namen und Wert aufgeführt.
+
+######Einschränkungen
+Es kann festgelegt werden, ob der Rabatt generell für alle Artikel oder nur für bestimmte Artikel oder Produktkategorien gelten soll.
+
+Gilt der Rabatt nur für bestimmte Artikel oder Kategorien, beziehen sich die Einkaufsmengen- und Wertangaben immer auf die Summe der Artikel im Warenkorb, die für diesen Rabatt gelten.
+
+Rabatte können außerdem auf bestimmte Benutzergruppen oder Benutzer sowie bestimmte Länder eingeschränkt werden. Hier ist zu beachten, dass so eingeschränkte Rabatte erst zur Anwendung kommen, nachdem sich der Benutzer angemeldet bzw. sein Lieferland gewählt hat.
+
+Bei den Einschränkungen kann zudem hinterlegt werden, wie sich der Rabatt auswirken soll, wenn die Einschränkungsliste wider Erwarten leer sein sollte. 
+
+Wenn der Rabatt eingeschränkt wird, z.B. auf ein bestimmtes Produkt, dieses Produkt jedoch z.B. durch einen späteren Produktimport gelöscht wird, wird das Produkt aus der Liste automatisch entfernt. Das hat zur Folge, dass es keine Einschränkung mehr gibt und der Rabatt somit für alle Produkte gilt. Ist dies nicht gewünscht, muss das Häkchen bei "Bei leerer Liste Datensatz sperren" gesetzt werden. Dadurch bleibt die Rabatteinschränkung bestehen, selbst wenn das betreffende Produkt nicht mehr existiert; somit gilt der Rabatt zu diesem Zeitpunkt für kein Produkt.
+
+
+
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
