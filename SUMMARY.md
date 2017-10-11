@@ -49,7 +49,7 @@
   * [Umsatzsteuergruppen](zentrale_shop-einstellungen.md#umsatzsteuergruppen)
   * [Variantensets](zentrale_shop-einstellungen.md#variantensets)
   * [Währungen](zentrale_shop-einstellungen.md#wahrungen)
-  * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
+* [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 * [Produktinformation](produktinformation.md)
   * [Artikel](artikel.md)
   * [Artikelkategorien](artikelkategorien.md)
