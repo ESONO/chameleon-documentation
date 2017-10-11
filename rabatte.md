@@ -27,6 +27,7 @@ Wenn der Rabatt eingeschränkt wird, z.B. auf ein bestimmtes Produkt, dieses Pro
 
 
 
+
 | Bezeichnung | Beschreibung |
 | -- | -- |
 | **Name** | Bezeichnung des Rabattes |
