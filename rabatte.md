@@ -20,7 +20,7 @@ Gilt der Rabatt nur für bestimmte Artikel oder Kategorien, beziehen sich die Ei
 
 Rabatte können außerdem auf bestimmte Benutzergruppen oder Benutzer sowie bestimmte Länder eingeschränkt werden. Hier ist zu beachten, dass so eingeschränkte Rabatte erst zur Anwendung kommen, nachdem sich der Benutzer angemeldet bzw. sein Lieferland gewählt hat.
 
-Bei den Einschränkungen kann zudem hinterlegt werden, wie sich der Rabatt auswirken soll, wenn die Einschränkungsliste wider Erwarten leer sein sollte. 
+Bei den Einschränkungen kann weiterhin hinterlegt werden, wie sich der Rabatt auswirken soll, wenn die Einschränkungsliste wider Erwarten leer sein sollte. 
 
 Wenn der Rabatt eingeschränkt wird, z.B. auf ein bestimmtes Produkt, dieses Produkt jedoch z.B. durch einen späteren Produktimport gelöscht wird, wird das Produkt aus der Liste automatisch entfernt. Das hat zur Folge, dass es keine Einschränkung mehr gibt und der Rabatt somit für alle Produkte gilt. Ist dies nicht gewünscht, muss das Häkchen bei "Bei leerer Liste Datensatz sperren" gesetzt werden. Dadurch bleibt die Rabatteinschränkung bestehen, selbst wenn das betreffende Produkt nicht mehr existiert; somit gilt der Rabatt zu diesem Zeitpunkt für kein Produkt.
 
