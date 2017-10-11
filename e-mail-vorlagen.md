@@ -10,6 +10,8 @@ Eine E-Mail-Vorlage wird zentral verwaltet und kann an vielen Stellen im System 
 
 Alle E-Mail-Vorlagen werden in zwei Formaten *Html* und *Text* gepflegt. Im Shop kann der Kunde wählen, ob er Html- oder Text-E-Mails empfangen möchte. Ist der Hmtl-Inhalt einer Vorlage nicht gefüllt, so wird automatisch eine Text-E-Mail erstellt und versendet.
 
+---
+
 | Bezeichnung | Beschreibung |
 | -- | -- |
 | **ID-Code** | eindeutig identifizierbarer Code (wird vom Entwickler benötigt, um die E-Mail-Vorlage eindeutig identifizieren zu können). Der ID-Code sollte nicht ohne wichtigen Grund und Systemkenntnis geändert werden, da dies zu Fehlern führen kann bzw. dazu, dass keine E-Mails mehr versendet werden. |
