@@ -22,7 +22,7 @@ Rabatte können außerdem auf bestimmte Benutzergruppen oder Benutzer sowie best
 
 Bei den Einschränkungen kann weiterhin hinterlegt werden, wie bzw. ob sich der Rabatt auswirken soll, wenn die Einschränkungsliste wider Erwarten leer sein sollte. 
 
-Wenn der Rabatt eingeschränkt wird, z.B. auf ein bestimmtes Produkt, dieses Produkt jedoch z.B. durch einen späteren Produktimport gelöscht wird, wird das Produkt aus der Liste automatisch entfernt. Das hat zur Folge, dass es keine Einschränkung mehr gibt und der Rabatt somit für alle Produkte gilt. Ist dies nicht gewünscht, muss das Häkchen bei "Bei leerer Liste Datensatz sperren" gesetzt werden. Dadurch bleibt die Rabatteinschränkung bestehen, selbst wenn das betreffende Produkt nicht mehr existiert; somit gilt der Rabatt zu diesem Zeitpunkt für kein Produkt.
+Wenn der Rabatt eingeschränkt wird, z.B. auf ein bestimmtes Produkt, dieses Produkt jedoch z.B. durch einen späteren Produktimport gelöscht wird, wird das Produkt aus der Liste automatisch entfernt. Das hat zur Folge, dass es keine Einschränkung mehr gibt und der Rabatt somit für alle Produkte im Shop gilt. Ist dies nicht gewünscht, muss das Häkchen bei "Bei leerer Liste Datensatz sperren" gesetzt werden. Dadurch bleibt die Rabatteinschränkung bestehen, selbst wenn das betreffende Produkt nicht mehr existiert; somit gilt der Rabatt zu diesem Zeitpunkt für kein Produkt.
 
 
 
