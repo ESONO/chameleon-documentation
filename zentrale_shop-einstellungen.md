@@ -57,6 +57,12 @@ Jede Einheit besteht dabei aus folgendem:
 * Faktor, mit dem eine Einheit multipliziert werden muss, um auf die Grundeinheit zu kommen. <u>Beispiel</u>: Für die Einheit Gramm muss der Faktor *0,001* sein, um auf die Grundeinheit kg zu kommen.
 * Die Grundeinheit (ein Verweis auf eine Maßeinheit mit dem Faktor 1): <u>Kilogramm</u>
 
+### Umsatzsteuergruppen
+
+    Shop-Einstellungen → Umsatzsteuergruppen
+
+Alle über den Shop verwaltbaren Steuergruppen. 
+
 
 
 
