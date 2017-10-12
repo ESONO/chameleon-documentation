@@ -18,8 +18,6 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 <br> 
 
-[masseinheiten](zentrale_shop-einstellungen.md#masseinheiten)
-
 #### Shop-Textbausteine
 
     Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine (z.B. AGB)
