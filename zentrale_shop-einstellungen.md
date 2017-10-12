@@ -18,6 +18,8 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 <br>
 
+(zentrale_shop-einstellungen.md#variantensets)
+
 #### Shop-Textbausteine
 
     Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine (z.B. AGB)
