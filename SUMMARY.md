@@ -48,7 +48,7 @@
   * [Maßeinheiten](zentrale_shop-einstellungen.md#ma-einheiten)
   * [Umsatzsteuergruppen](zentrale_shop-einstellungen.md#umsatzsteuergruppen)
   * [Variantensets](zentrale_shop-einstellungen.md#variantensets)
-  * [Währungen](zentrale_shop-einstellungen.md#waehrungen)
+  * [Währungen](zentrale_shop-einstellungen.md#w-hrungen)
 * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 * [Produktinformation](produktinformation.md)
   * [Artikel](artikel.md)
