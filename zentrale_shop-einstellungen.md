@@ -16,7 +16,7 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 | Bewertung | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
 | Trusted Shops | TrustedShop-Konfiguration |
 
-<br>
+<br> 
 
 (zentrale_shop-einstellungen.md#variantensets)
 
