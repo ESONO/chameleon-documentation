@@ -44,7 +44,7 @@
   * [Shops](zentrale_shop-einstellungen.md#shops)
   * [Shop-Textbausteine](zentrale_shop-einstellungen.md#shop-textbausteine)
   * [Benutzereinstellungen](zentrale_shop-einstellungen.md#benutzereinstellungen-extranet-konfiguration)
-  * [Benutzerländer](zentrale_shop-einstellungen.md#benutzerl&#xE4;nder)
+  * [Benutzerländer](zentrale_shop-einstellungen.md#benutzerl-nder)
   * [Maßeinheiten](zentrale_shop-einstellungen.md#ma-einheiten)
   * [Umsatzsteuergruppen](zentrale_shop-einstellungen.md#umsatzsteuergruppen)
   * [Variantensets](zentrale_shop-einstellungen.md#variantensets)
