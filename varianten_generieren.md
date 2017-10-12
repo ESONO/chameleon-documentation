@@ -4,13 +4,9 @@ Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varia
 
 Unter ```Variantenwerte``` erhalten Sie nun eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Hier können Sie bereits vorauswählen, welche Varianten überhaupt zur Verfügung stehen sollen. (Das ist vor allem dann sinnvoll, wenn Sie ein Variantenset erstellen wollen, welches für möglichst viele Artikel gilt, wie z.B. Basic T-Shirts in 30 verschiedenen Farben und 6 Größen.)
 
-Wählen Sie die möglichen Varianten aus
-
-Mit Klick auf den Button `Mögliche Varianten` anzeigen werden nun die ausgewählten Werte generiert. Hier können Sie bei Bedarf unterschiedliche Preise angeben.
-
 ![](/assets/artikelvarianten_varianten_generieren1.png)
 
-erhalten Sie eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Wählen Sie aus den vorgeschlagenen Varianten die aus, die angelegt werden sollen, und klicken Sie auf `Varianten generieren`.
+Mit Klick auf den Button `Mögliche Varianten` anzeigen werden nun die ausgewählten Werte generiert. Hier können Sie bei Bedarf unterschiedliche Preise angeben.
 
 ![](/assets/artikelvarianten_varianten_generieren2.png)
 
