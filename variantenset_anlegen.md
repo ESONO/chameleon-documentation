@@ -1,4 +1,4 @@
-#### Variantenset anlegen
+##### Variantenset anlegen
 
     Shop-Einstellungen → Variantensets
 
