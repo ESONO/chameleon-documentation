@@ -2,7 +2,11 @@
 
 Nachdem Sie das Variantenset erstellt haben, können Sie nun die einzelnen Varianten des Hauptartikels (Parent) mithilfe des Variantengenerators anlegen. Gehen Sie beim Parent-Artikel (`Artikel → Artikel`) zum Tab `Varianten` und wählen Sie dort das entsprechende Variantenset aus dem Dropdown-Menü aus. 
 
-Mit Klick auf den Button `Mögliche Varianten` anzeigen
+Unter ```Variantenwerte``` erhalten Sie nun eine Matrix mit allen möglichen Kombinationen, die sich aus den Variantenarten und –werten ergeben. Hier können Sie bereits vorauswählen, welche Varianten überhaupt zur Verfügung stehen sollen. (Das ist vor allem dann sinnvoll, wenn Sie ein Variantenset erstellen wollen, welches für möglichst viele Artikel gilt, wie z.B. Basic T-Shirts in 30 verschiedenen Farben und 6 Größen.)
+
+Wählen Sie die möglichen Varianten aus
+
+Mit Klick auf den Button `Mögliche Varianten` anzeigen werden nun die ausgewählten Werte generiert. Hier können Sie bei Bedarf unterschiedliche Preise angeben.
 
 ![](/assets/artikelvarianten_varianten_generieren1.png)
 
