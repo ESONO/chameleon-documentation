@@ -18,7 +18,7 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 <br> 
 
-[währungen](zentrale_shop-einstellungen.md#währungen)
+[masseinheiten](zentrale_shop-einstellungen.md#masseinheiten)
 
 #### Shop-Textbausteine
 
