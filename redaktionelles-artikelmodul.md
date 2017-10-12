@@ -4,7 +4,7 @@ Mit dem redaktionellen Artikelmodul als Basis können Sie Teaser, Listen und Det
 
 Die Artikel lassen sich in Kategorien einteilen, die dann z.B. bestimmen können, unter welchem Navigationspunkt ein Artikel erscheint. Es ist sogar möglich, die Navigation oder Teile davon automatisch aus den Artikelkategorien generieren zu lassen.
 
-#### Artikeltypen
+### Artikeltypen
 
     Artikel (redaktionell) → Artikeltypen
 
@@ -14,7 +14,7 @@ Außerdem kann für jeden Artikeltyp eine eigene Extension für das pkg_article-
 
 In der Regel werden die Artikeltypen durch Ihren Dienstleister vorkonfiguriert.
 
-#### Artikelkategorien
+### Artikelkategorien
 
     Artikel (redaktionell) → Artikelkategoriegruppen
     
@@ -31,7 +31,7 @@ Die Kategorien können verwendet werden, um Listen danach zu filtern und Artikel
 
 <br>
 
-#### Teaser
+### Teaser
    
 Es können verschiedene Teaser angelegt werden, die dann auf Artikel oder wahlweise auch auf eine CMS-Seite oder eine externe URL verweisen können. Für die Teaser kann ein Teaser-Format gewählt werden über das die Darstellung des Teasers bestimmt wird. Die Teaser-Formate können im Backend angelegt werden. 
 
