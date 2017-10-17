@@ -14,5 +14,5 @@ Füllen Sie zunächst die Pflichtfelder (durch * gekennzeichnet) aus:
 `SPEICHERN`
 
 
-* `Verfügbare Variantenwerte:` Erstellen Sie hier die Werte der Variante, in diesem Beispiel alle Größen und Farben, in denen das T-Shirt verkäuflich ist, sh. nächster Abschnitt.
+* `Verfügbare Variantenwerte:` Erstellen Sie hier die Werte der Variante, in diesem Beispiel alle Größen und Farben, in denen die Mütze verkäuflich sein soll, sh. nächster Abschnitt.
 
