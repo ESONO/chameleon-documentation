@@ -17,7 +17,7 @@ Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können
 | Name | Titel der Seite |
 | URL-Name | wird an die URL des darüberstehenden Knoten angehängt. Mit der so entstehenden URL kann die Seite im Browser aufgerufen werden. Standardmäßig wird der URL-Name automatisch aus der Eingabe im Feld ‘Name’ kopiert. Der URL Name kann anschließend aber auch verändert werden. |
 | verstecken | schaltet die Seite unsichtbar. Wichtig: Die Seite wird nur in der Navigation nicht aufgeführt, ist aber über Eingabe der URL, wenn bekannt, erreichbar. |
-| geschützte Seite in Navigation anzeigen | .... |
+| zugriffsbeschränkte Seite in Navigation anzeigen | .... |
 | externer Link | Sie können anstatt einer lokalen Seite auch eine externe Website in ihrer Navigation verlinken. Wichtig: Geben Sie hierbei den vollen Link mit http:// an. |
 | Seiten / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
 | SEO | Im SEO Tab haben Sie die Möglichkeit, den Navigationspunkt von der Indizierung durch Suchmaschinen auszuschließen und Ausnahmeregeln zu definieren. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
