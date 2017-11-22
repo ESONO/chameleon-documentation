@@ -5,7 +5,7 @@ Der Zugriff auf eine Seite kann auf angemeldete Benutzer eingeschränkt werden. 
 ![](/assets/zugriff_einschränken1.png)
 
 <br>
-Ist ein Navigationspunkt mit einer zugriffsbeschränkten Seite verbunden, wird dieser standardmäßig für nicht angemeldete Benutzer _nicht_ angezeigt. Soll die Seite dennoch in der Menüführung erscheinen, wählen Sie in der `Navigationsverwaltung` beim Feld `Zugriffsbeschränkte Seite in Navigation anzeigen` JA.
+Ist die zugriffsbeschränkte Seite mit einem Navigationspunkt verbunden, wird dieser standardmäßig für nicht angemeldete Benutzer _nicht_ angezeigt. Soll die Seite dennoch in der Menüführung erscheinen, wählen Sie in der `Navigationsverwaltung` beim Feld `Zugriffsbeschränkte Seite in Navigation anzeigen` JA.
 Der Navigationspunkt ist nun im Frontend sichtbar. Um die Seite öffnen zu können, muss der Benutzer weiterhin angemeldet sein. Stellen Sie dazu sicher, dass in der Extranet-Konfiguration für "Zugriff verweigert" eine passende Login-Seite hinterlegt ist, auf die weitergeleitet werden kann.
 
 ![](/assets/zugriff_einschränken2.png)
