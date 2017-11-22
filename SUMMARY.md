@@ -24,6 +24,7 @@
   * [Mehrere Seiten mit einem Navigationspunkt verbinden](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
   * [Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
   * [Seiten-Einstellungen](seiten-einstellungen.md)
+  * [Zugriff auf eine Seite einschränken](zugriff-auf-eine-seite-einschranken.md)
   * [Seite löschen](seite_loschen.md)
 * [Medien](medien.md)
 * [Dokumente](dokumente.md)
