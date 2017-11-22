@@ -1,5 +1,5 @@
 ## Übersetzungen
-Ab CHAMELEON Version 6.1 steht eine komplett überarbeite Funktionalität der Mehrsprachigkeit zur Verfügung.
+> Ab CHAMELEON Version 6.1 steht eine komplett überarbeite Funktionalität der Mehrsprachigkeit zur Verfügung.
 
 ### CMS Webübersetzungen
 [nur gültig bis Chameleon Version 6.0]
