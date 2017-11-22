@@ -9,7 +9,7 @@
 | gehört zu Portal / Webseite | Wenn Sie mehrere Portale (z.B.: verschiedene Sprachversionen) verwalten, können Sie hier wählen, zu welchem Portal diese Seite gehört. |
 | primärer Navigationspunkt | Hier sehen Sie, welchem Navigationspunkt die Seite zugeordnet ist. Sie können die Seite hier auch einem anderen (oder weiteren) Punkt zuordnen (S. 16 ff.) |
 | Seitenbild | die hier hinterlegten Bilder können, im Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen. |
-| Hintergrundbild |  |
+| Hintergrundbild | Hier kann ein Bild angegeben werden, welches in der Seite als Hintergrundbild verwendet wird. Diese Einstellung überschreibt das bei Portal oder Bereich hinterlegte Bild. |
 | Zusätzlich berechtigte Gruppen | Normalerweise kann eine Seite nur von den Benutzern editiert werden, die Zugang zu dem der Seite zugewiesenen Portal haben. Ausgenommen davon sind CMS-Benutzer, die zu den hier hinterlegten Gruppen gehören. |
 | SSL verwenden | ist SSL aktiv, werden Links auf die Seite automatisch mit https:// aufgerufen. |
 | Zugriff einschränken | Über dieses Feld kann der Zugriff auf die Seite auf angemeldete Benutzer eingeschränkt werden. Sie können den Zugriff zusätzlich auf bestimmte Extranet-Benutzergruppen einschränken, indem Sie weiter unten im Feld "Auf folgende Extranet-Gruppen einschränken" die entsprechenden Benutzergruppen auswählen. |
