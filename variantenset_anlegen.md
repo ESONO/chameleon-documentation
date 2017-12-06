@@ -12,7 +12,8 @@ Legen Sie zunächst ein neues Variantenset an.
 * `Name` des Variantensets: Vergeben Sie hier einen Namen, der die entsprechenden Varianten widerspiegelt, also z.B. *Merino: Farbe, Größe*
 * `Felder der Variante, deren Inhalt vom Hauptartikel abweichen darf`: Setzen Sie bei denjenigen Feldern, die variantenspezifisch sein dürfen, ein Häkchen. Die Werte dieser Felder dürfen also von denen des Parent-Artikels (=Hauptartikel) abweichen.
 
- ![](bild31.png)
+ ![](assets/variantenset_anlegen3.png)
+
 
 <br>
 
