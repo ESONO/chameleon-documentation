@@ -5,7 +5,7 @@
 Legen Sie zunächst ein neues Variantenset an.
 
 
-![](/bild29.png)
+![](/variantenset_anlegen1.png)
 
 <br>
 ###### Füllen Sie die Felder wie folgt aus:
