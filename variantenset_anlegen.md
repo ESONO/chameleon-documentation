@@ -1,11 +1,11 @@
 ##### Variantenset anlegen
 
-    Shop-Einstellungen → Variantensets
+    Shop-Einstellungen → Varianten: Sets
 
 Legen Sie zunächst ein neues Variantenset an.
 
 
-![](/variantenset_anlegen1.png)
+![](assets/variantenset_anlegen1.png)
 
 <br>
 ###### Füllen Sie die Felder wie folgt aus:
