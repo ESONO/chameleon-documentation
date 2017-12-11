@@ -10,5 +10,5 @@ Des Weiteren bietet die CHAMELEON-interne Auswertung alle wichtigen Daten einer 
 
 Eine Druckfunktion zur Ausgabe der im Browser sichtbaren Auswertungen ist ebenfalls vorhanden. Weiterhin können Sie sich die gesamte Statistik oder die Top 50 Artikel als csv-Datei downloaden.
 
-![](bild49.png)
+![](/assets/auswertung.png)
 
