@@ -9,11 +9,11 @@ Beispiel eines Bestellprozesses (auch Checkout genannt):
 
 ###### Darstellung im Frontend:
 
-![](bild47.png)
+![](/assets/bestellschritte1.png)
 <br>
 ###### Einstellung im Backend:
 
-![](bild48.png)
+![](/assets/bestellschritte2.png)
 
 Für die einzelnen Schritte können Sie einen Namen und eine Beschreibung und festlegen, ob die Schritte in der Navigationsleiste auf der Seite angezeigt werden sollen (sh. Abbildung oben Frontend). Sie können auch eine bestimmte Vorlage für die Ansicht im Frontend hinterlegen.
 
