@@ -1,4 +1,4 @@
-![](/assets/chameleon_logo_neu.png)
+![](/assets/chameleon_logo.png)
 
 
 
