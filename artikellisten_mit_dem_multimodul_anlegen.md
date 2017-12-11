@@ -9,12 +9,12 @@ In den `Multimodul-Sets` sind bereits angelegte Listen verfügbar (Cross-Selling
 
 Möchten Sie z.B. auf der Produktdetailseite weitere Listen wie „Dazu passt“ oder „Zubehör“ anzeigen lassen, dann fügen Sie im Multimodul-Set „Cross-Selling Produktdetailseite“ ein `Set bestehend aus folgenden Modulen` hinzu. Wählen Sie über `Modul anlegen / bearbeiten` das Modul `Produktliste (standard)` aus. Die Filtereinstellungen können Sie nun über `Editieren` bearbeiten.
 
-![](bild44.png)
+![](/assets/artikellisten_multimodul1.png)
 
 **Achtung**: Die Artikel, die in den Cross-Selling-Listen *Zubehör* und *Ähnliche Artikel* („Dazu passt“) erscheinen sollen, werden beim Artikel selbst im Tab `Cross Selling` hinterlegt. 
 
 Die Reihenfolge der umschaltbaren Tabs wird über den Button `Sortierung` im Multimodul-Set gesteuert.
 
-![](bild45.png)
+![](/assets/artikellisten_multimodul2.png)
 
 
