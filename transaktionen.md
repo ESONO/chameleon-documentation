@@ -2,13 +2,13 @@
 
 Bei aktiviertem Workflow und den passenden Rechten des CMS-Redakteurs erscheint im Backend-Header das Workflow-Menü:
 
-![](bild66.png)
+![](/assets/workflow_transaktionen_1.png)
 
 Es wird automatisch eine Transaktion angelegt und ein Titel generiert.
 
 Diesen sollten Sie auf einen aussagekräftigen **Titel ändern**, um anderen Redakteuren einen Überblick über die beinhalteten Änderungen zu geben. Klicken Sie dazu den Titel der aktiven Transaktion an. Es öffnet sich ein Fenster mit Detailinformationen zur Transaktion. 
 
-![](bild67.png)
+![](/assets/workflow_transaktionen_2.png)
 
 <u>Hier erhalten Sie folgende Informationen:</u>
 
@@ -23,9 +23,9 @@ Diesen sollten Sie auf einen aussagekräftigen **Titel ändern**, um anderen Red
 
 <u>Mögliche Funktionen bei Transaktionen (je nach Rechten des Redakteurs unterschiedlich):</u>
 
-![](bild68.png)
+![](/assets/workflow_transaktionen_3.png)
 
-![](bild69.png)
+![](/assets/workflow_transaktionen_4.png)
 
 | Name | Beschreibung |
 | -- | -- |
