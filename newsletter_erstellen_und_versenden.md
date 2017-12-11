@@ -10,7 +10,7 @@
 
 #### Newsletter-Seite erstellen
 
-![](bild63.png)
+![](/assets/newsletter_seite_erstellen1.png)
 
 Der Newsletter wird als Seite im Backend angelegt. Sie können die Newsletter z.B. unter dem Menüpunkt `Newsletter` als versteckte Seiten anlegen (versteckt, damit sie nicht verlinkt auf Ihrer Website erscheinen). Sie können aber auch einen eigenen Navigationspunkt `Newsletter` unter dem Hauptportal anlegen und darunter die einzelnen Newsletter-Seiten hängen (in diesem Fall muss auch der oberste Navigationspunkt versteckt sein).
 
@@ -30,7 +30,7 @@ Nachdem Sie Ihren Newsletter fertig bearbeitet haben, erstellen Sie eine neue Ka
 
 Hier ist es wichtig, dass Sie das entsprechende Portal auswählen, die im vorherigen Schritt erstellte Newsletter-Templateseite durch `Ast zuweisen` und die Empfängerliste durch `Auswählen` hinzufügen.
 
-![](bild64.png)
+![](/assets/newsletter_seite_erstellen2.png)
 
 <br>
 Durch das *Aktiv*-Setzen des *Newsletter-Versands* werden die zugehörigen Abonnenten nach erstmaligem Abspeichern aus der `Empfängerliste` in die `Warteschlangen-Einträge` (Tab `Kampagnenstatus`) geladen. Hier können Sie die der Empfängerliste zugeordneten Email-Adressen sehen.
@@ -40,7 +40,7 @@ Durch ein zweites Abspeichern wird der auf der Templateseite hinzugefügte Newsl
 Es empfiehlt sich, vor dem Senden des Newsletters zuerst einen Test-Newsletter zu versenden, damit Sie noch einmal überprüfen können, ob alles stimmt, wie der Newsletter im Email-Programm aussieht usw. Dafür legen Sie eine Test-Empfängerliste mit Ihrer Emailadresse und ggf. weiteren Adressen an und verknüpfen zunächst nur diese Empfängerliste mit der Kampagne. 
 
 Wenn der Test erfolgreich war, verknüpfen Sie nun die richtige Empfängerliste mit der Kampagne, und löschen außerdem die Warteschlangen-Einträge 
-![](bild65.png) des Testversands (ansonsten wird der Newsletter trotz Aktiv-Schaltung nicht versendet, da das System bei Einträgen davon ausgeht, dass der Job schon erledigt wurde). Speziell dafür gibt es den Button am oberen Rand des Datensatzes.
+![](/assets/newsletter_seite_erstellen3.png) des Testversands (ansonsten wird der Newsletter trotz Aktiv-Schaltung nicht versendet, da das System bei Einträgen davon ausgeht, dass der Job schon erledigt wurde). Speziell dafür gibt es den Button am oberen Rand des Datensatzes.
 
 <u>Hinweis:</u> Um Änderungen an den Warteschlangen-Einträgen zu sehen, müssen Sie die Kampagne neu aufrufen.
 
