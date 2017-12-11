@@ -1,6 +1,6 @@
 ### Vorschau
 
-![](bild76.png)
+![](/assets/workflow_vorschau1.png)
 
 Sie haben jederzeit die Möglichkeit, die Darstellung ihrer Änderungen im Live-System zu überprüfen. Dabei ist es immer nur möglich, die Änderungen einer Transaktion für die Vorschau zu aktivieren, nicht mehrere (dies ist für spätere CHAMELEON-Versionen geplant). Es wird immer die gerade aktuelle Transaktion (ersichtlich im Header des CMS) in der Live-Website als Vorschau dargestellt. Um eine andere Transaktion sehen zu können, müssen Sie diese vorher aktivieren - entweder über den Button ```Transaktion übernehmen``` in einem Datensatz oder über ```Alle anzeigen``` in der Workflow-Box im CMS-Header und Klicken auf das ```aktivieren```-Icon.
 
