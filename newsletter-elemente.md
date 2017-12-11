@@ -1,7 +1,6 @@
 ### Newsletter-Elemente
 
-![](bild56.png)
-
+![](/assets/newsletter_elemente.png)
 <br>
 
 #### Blacklisted Benutzer
