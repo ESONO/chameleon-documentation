@@ -16,7 +16,7 @@ Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, 
 | **Einleitungstext** | Der optionale Einleitungstext wird gewöhnlich am Anfang der Liste, direkt nach der Überschrift angezeigt. |
 | **Abschlusstext** | Der optionale Abschlusstext wird gewöhnlich am Ende der Liste angezeigt. |
 
-![](bild42.png)
+![](/assets/auto_artikelliste.png)
 
 Möchten Sie manuell ausgewählte Produkte anzeigen lassen, wählen Sie bei ```Filter/Inhalt``` ```Manuelle Selektion```. Im Tab ```Über die Alternativselektion kann definiert werden, wie sich die Liste verhalten soll, wenn der gewählte Filter keine Ergebnisse bringt``` können Sie entweder Artikel aus bestimmten Warengruppen oder Produktkategorien anzeigen lassen oder auch einzeln selektierte Artikel. Diese Auswahl können Sie auch treffen, wenn Sie z.B. eine Filter gewählt haben, der keine Ergebnisse bringt wie „Zuletzt angeschaut“.
 
