@@ -4,10 +4,10 @@
 
 ## Vorbemerkung
 
-* [Verwendete Browser](chameleon_dokumentation.md#verwendete-browser)
-* [Stage und Live-Umgebung](chameleon_dokumentation.md#stage-und-live-umgebung)
-* [Datenbackup](chameleon_dokumentation.md#datenbackup)
-* [Backend](chameleon_dokumentation.md#backend)
+* [Verwendete Browser](chameleon_documentation.md#verwendete-browser)
+* [Stage und Live-Umgebung](chameleon_documentation.md#stage-und-live-umgebung)
+* [Datenbackup](chameleon_documentation.md#datenbackup)
+* [Backend](chameleon_documentation.md#backend)
 
 ## Allgemeine Bedienung und Content Management
 
