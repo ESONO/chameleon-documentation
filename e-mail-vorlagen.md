@@ -8,7 +8,7 @@ Eine Ausnahme hiervon ist die E-Mail-Einstellung für die „Passwort vergessen�
 
 Eine E-Mail-Vorlage wird zentral verwaltet und kann an vielen Stellen im System über den Identifier ***ID-Code*** einfach verwendet werden. Es ist darauf zu achten, dass der ID-Code nicht ohne wichtigen Grund geändert wird.
 
-Alle E-Mail-Vorlagen werden in zwei Formaten *Html* und *Text* gepflegt. Im Shop kann der Kunde wählen, ob er Html- oder Text-E-Mails empfangen möchte. Ist der Hmtl-Inhalt einer Vorlage nicht gefüllt, so wird automatisch eine Text-E-Mail erstellt und versendet.
+Alle E-Mail-Vorlagen werden in zwei Formaten *HTML* und *Text* gepflegt. Im Shop kann der Kunde wählen, ob er HTML- oder Text-E-Mails empfangen möchte. Ist der HTML-Inhalt einer Vorlage nicht gefüllt, so wird automatisch eine Text-E-Mail erstellt und versendet.
 
 ---
 
@@ -22,10 +22,10 @@ Alle E-Mail-Vorlagen werden in zwei Formaten *Html* und *Text* gepflegt. Im Shop
 | **Absender** | E-Mail-Adresse des Absenders (diese E-Mail-Adresse sollte existieren, da der Empfänger diese in seinem E-Mail-Programm sieht um darauf antworten zu können). |
 | **Absender (Name)** | Name des Absenders (z.B. Name des Shops) |
 | **BBC** | „BCC“ (Blindkopie) sollte grundsätzlich dann verwendet werden, wenn eine E-Mail an weitere Adressen als Kopie versendet werden soll, ohne dass der Empfänger sehen kann, welche das sind. Alle unter „BCC“ aufgenommenen Empfänger bleiben für sämtliche weitere Empfänger unsichtbar. |
-| **Body** | Inhalt der Html-E-Mail |
+| **Body** | Inhalt der HTML-E-Mail |
 | **Body (Text)** | Inhalt der Text-E-Mail |
 | **Folgende Dateien der E-Mail beifügen** | Dateien, die  hier hinzugefügt wurden, werden automatisch der E-Mail angehängt und mit versendet. |
-| **Vorlage** | die Html-Vorlage (in der Vorlage sind meistens Teile der E-Mail umgesetzt, die bei den meisten Mails des Systems gleich bleiben sollen/müssen, weil sie der CI des Unternehmens entsprechen. Diese „statischen“ Teile der E-Mail sind „Header“ – Kopf der E-Mail oder der „Footer“ – Fußbereich in welchen meist Zusatzangaben definiert sind). |
+| **Vorlage** | die HTML-Vorlage (in der Vorlage sind meistens Teile der E-Mail umgesetzt, die bei den meisten Mails des Systems gleich bleiben sollen/müssen, weil sie der CI des Unternehmens entsprechen. Diese „statischen“ Teile der E-Mail sind „Header“ – Kopf der E-Mail oder der „Footer“ – Fußbereich in welchen meist Zusatzangaben definiert sind). |
 | **Text-Vorlage** | Entspricht der „Vorlage“, formatiert als reiner Text |
 
 
