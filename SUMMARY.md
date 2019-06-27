@@ -116,9 +116,3 @@
 
 * [Zusätzliche Dokumentation](zusaetzliche-dokumentationen/zusatzliche_dokumentation.md)
 
-## Test
-
-* [Untitled](test/untitled/README.md)
-  * [Untitled](test/untitled/untitled-2.md)
-  * [Untitled](test/untitled/untitled-1.md)
-
