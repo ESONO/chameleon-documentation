@@ -1,4 +1,0 @@
-## Auswertungen / Statistik
-
-
-
