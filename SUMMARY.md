@@ -34,10 +34,7 @@
 * [Redaktionelles Artikelmodul](allgemeine-bedienung-und-content-management/redaktionelles-artikelmodul/README.md)
   * [Redaktionelle Artikel und Artikellisten anlegen](allgemeine-bedienung-und-content-management/redaktionelles-artikelmodul/redaktionelle-artikel-und-artikellisten-anlegen.md)
 * [Bildergalerien](allgemeine-bedienung-und-content-management/bildergalerien.md)
-* [Übersetzungen](allgemeine-bedienung-und-content-management/ubersetzungen/README.md)
-  * [CMS Webübersetzungen](allgemeine-bedienung-und-content-management/ubersetzungen/cms-webuebersetzungen.md)
-  * [CMS Übersetzungen](allgemeine-bedienung-und-content-management/ubersetzungen/cms-uebersetzungen.md)
-  * [Übersetzungen von Fehlermeldungen](allgemeine-bedienung-und-content-management/ubersetzungen/uebersetzungen-von-fehlermeldungen.md)
+* [Übersetzungen](allgemeine-bedienung-und-content-management/ubersetzungen.md)
 
 ## Shop
 

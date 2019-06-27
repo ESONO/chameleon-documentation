@@ -1,2 +1,0 @@
-# CMS Webübersetzungen
-

@@ -1,2 +1,0 @@
-# Übersetzungen von Fehlermeldungen
-
