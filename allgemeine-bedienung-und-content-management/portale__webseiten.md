@@ -1,8 +1,8 @@
 # Portale und Webseiten
 
-```text
+{% hint style="success" %}
 CMS / Portal-Einstellungen → Portale / Webseiten
-```
+{% endhint %}
 
 Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Jede dieser Webseiten wird als Portal geführt. An dieser Stelle legen Sie die Grundeinstellungen Ihrer Webseite fest.
 
