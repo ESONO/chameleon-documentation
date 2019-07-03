@@ -1,13 +1,5 @@
 # Grundkonfiguration
 
-[Empfängerliste einrichten](newsletter_grundkonfiguration.md#empfängerliste-einrichten)
-
-[Zum Newsletter anmelden](newsletter_grundkonfiguration.md#zum-newsletter-anmelden)
-
-[Newsletter in verschiedenen Sprachen verschicken](newsletter_grundkonfiguration.md#newsletter-in-verschiedenen-sprachen-verschicken)
-
-[Vom Newsletter abmelden](newsletter_grundkonfiguration.md#vom-newsletter-abmelden)
-
 ## Empfängerliste einrichten
 
 ```text

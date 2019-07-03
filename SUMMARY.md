@@ -94,12 +94,6 @@
   * [Newsletter-Elemente](weitere-module-packages/newsletter/newsletter-elemente.md)
   * [Grundkonfiguration](weitere-module-packages/newsletter/newsletter_grundkonfiguration.md)
   * [Newsletter erstellen und versenden](weitere-module-packages/newsletter/newsletter_erstellen_und_versenden.md)
-* [Freigabesystem / Workflow](weitere-module-packages/freigabesystem__workflow/README.md)
-  * [Grundlagen](weitere-module-packages/freigabesystem__workflow/grundlagen.md)
-  * [Transaktionen](weitere-module-packages/freigabesystem__workflow/transaktionen.md)
-  * [Status-Arten](weitere-module-packages/freigabesystem__workflow/status-arten.md)
-  * [Transaktionen weitergeben / übernehmen](weitere-module-packages/freigabesystem__workflow/transaktionen_weitergeben__ubernehmen.md)
-  * [Vorschau](weitere-module-packages/freigabesystem__workflow/vorschau.md)
 
 ## Zusätzliche Dokumentationen
 
