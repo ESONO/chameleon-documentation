@@ -95,7 +95,3 @@
   * [Grundkonfiguration](weitere-module-packages/newsletter/newsletter_grundkonfiguration.md)
   * [Newsletter erstellen und versenden](weitere-module-packages/newsletter/newsletter_erstellen_und_versenden.md)
 
-## Zusätzliche Dokumentationen
-
-* [Zusätzliche Dokumentation](zusaetzliche-dokumentationen/zusatzliche_dokumentation.md)
-
