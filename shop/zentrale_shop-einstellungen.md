@@ -30,7 +30,7 @@ Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen`
 
 ![](../.gitbook/assets/shopspezifische_textbausteine.png)
 
-Der Unterschied zu den [Textbausteinen](../allgemeine-bedienung-und-content-management/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine \(`Website → Textbausteine`\) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
+Der Unterschied zu den [Textbausteinen](../inhalte/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine \(`Website → Textbausteine`\) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
 
 ### Benutzereinstellungen \(Extranet-Konfiguration\)
 

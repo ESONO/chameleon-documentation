@@ -25,5 +25,5 @@ Außerdem kann der Zugriff auf eine Seite auf bestimmte Kundengruppen eingeschr�
 
 ![](https://github.com/esono-ag/chameleon-documentation-de/tree/5b0a385112ca4bca11418aab4404f78598f48ec6/assets/2017-01-17%2015_21_39-Fotos.png)
 
-sh. auch [Zugriff auf eine Seite einschränken](../../allgemeine-bedienung-und-content-management/seitenverwaltung/zugriff-auf-eine-seite-einschranken.md)
+sh. auch [Zugriff auf eine Seite einschränken](../../inhalte/seitenverwaltung/zugriff-auf-eine-seite-einschranken.md)
 

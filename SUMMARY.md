@@ -9,32 +9,35 @@
 * [Datenbackup](vorbemerkung/datenbackup.md)
 * [Backend](vorbemerkung/backend.md)
 
-## Allgemeine Bedienung und Content Management
+## Allgemeine Bedienung <a id="allgemeine-bedienung-und-content-management"></a>
 
 * [Persönliches Benutzerprofil](allgemeine-bedienung-und-content-management/personliches_benutzerprofil.md)
 * [Menüführung](allgemeine-bedienung-und-content-management/menufuhrung.md)
 * [Listenansicht von Datensätzen](allgemeine-bedienung-und-content-management/listenansicht_von_datensatzen.md)
 * [Tabelle / Datensatz](allgemeine-bedienung-und-content-management/tabelle__datensatz.md)
-* [Portale und Webseiten](allgemeine-bedienung-und-content-management/portale__webseiten.md)
-* [Navigationsverwaltung](allgemeine-bedienung-und-content-management/navigationsverwaltung.md)
-* [Seitenverwaltung](allgemeine-bedienung-und-content-management/seitenverwaltung/README.md)
-  * [Seite anlegen](allgemeine-bedienung-und-content-management/seitenverwaltung/seite_anlegen.md)
-  * [Seiten-Layout wählen](allgemeine-bedienung-und-content-management/seitenverwaltung/seiten-layouts.md)
-  * [Seite bearbeiten / Module anlegen](allgemeine-bedienung-und-content-management/seitenverwaltung/seite_bearbeiten__module_anlegen.md)
-  * [Mehrere Seiten mit einem Navigationspunkt verbinden](allgemeine-bedienung-und-content-management/seitenverwaltung/mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
-  * [Eine Seite mit mehreren Navigationspunkten verknüpfen](allgemeine-bedienung-und-content-management/seitenverwaltung/eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
-  * [Seiten-Einstellungen](allgemeine-bedienung-und-content-management/seitenverwaltung/seiten-einstellungen.md)
-  * [Zugriff auf eine Seite einschränken](allgemeine-bedienung-und-content-management/seitenverwaltung/zugriff-auf-eine-seite-einschranken.md)
-  * [Seite löschen](allgemeine-bedienung-und-content-management/seitenverwaltung/seite_loschen.md)
-* [Medien](allgemeine-bedienung-und-content-management/medien.md)
-* [Dokumente](allgemeine-bedienung-und-content-management/dokumente.md)
 * [Sprache / Website / Cache / Hilfe](allgemeine-bedienung-und-content-management/sprache__website_cache__hilfe.md)
-* [Texte editieren mit dem CKEditor](allgemeine-bedienung-und-content-management/ckeditor.md)
-* [Textbausteine](allgemeine-bedienung-und-content-management/textbausteine.md)
-* [Redaktionelles Artikelmodul](allgemeine-bedienung-und-content-management/redaktionelles-artikelmodul/README.md)
-  * [Redaktionelle Artikel und Artikellisten anlegen](allgemeine-bedienung-und-content-management/redaktionelles-artikelmodul/redaktionelle-artikel-und-artikellisten-anlegen.md)
-* [Bildergalerien](allgemeine-bedienung-und-content-management/bildergalerien.md)
-* [Übersetzungen](allgemeine-bedienung-und-content-management/ubersetzungen.md)
+* [Portale und Webseiten](allgemeine-bedienung-und-content-management/portale__webseiten.md)
+
+## Inhalte
+
+* [Navigationsverwaltung](inhalte/navigationsverwaltung.md)
+* [Seitenverwaltung](inhalte/seitenverwaltung/README.md)
+  * [Seite anlegen](inhalte/seitenverwaltung/seite_anlegen.md)
+  * [Seiten-Layout wählen](inhalte/seitenverwaltung/seiten-layouts.md)
+  * [Seite bearbeiten / Module anlegen](inhalte/seitenverwaltung/seite_bearbeiten__module_anlegen.md)
+  * [Mehrere Seiten mit einem Navigationspunkt verbinden](inhalte/seitenverwaltung/mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
+  * [Eine Seite mit mehreren Navigationspunkten verknüpfen](inhalte/seitenverwaltung/eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
+  * [Seiten-Einstellungen](inhalte/seitenverwaltung/seiten-einstellungen.md)
+  * [Zugriff auf eine Seite einschränken](inhalte/seitenverwaltung/zugriff-auf-eine-seite-einschranken.md)
+  * [Seite löschen](inhalte/seitenverwaltung/seite_loschen.md)
+* [Texte editieren mit dem CKEditor](inhalte/ckeditor.md)
+* [Textbausteine](inhalte/textbausteine.md)
+* [Redaktionelles Artikelmodul](inhalte/redaktionelles-artikelmodul/README.md)
+  * [Redaktionelle Artikel und Artikellisten anlegen](inhalte/redaktionelles-artikelmodul/redaktionelle-artikel-und-artikellisten-anlegen.md)
+* [Medien](inhalte/medien.md)
+* [Dokumente](inhalte/dokumente.md)
+* [Bildergalerien](inhalte/bildergalerien.md)
+* [Übersetzungen](inhalte/ubersetzungen.md)
 
 ## Shop
 
