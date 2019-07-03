@@ -38,15 +38,7 @@
 
 ## Shop
 
-* [Zentrale Shop-Einstellungen](shop/zentrale_shop-einstellungen/README.md)
-  * [Shops](shop/zentrale_shop-einstellungen/shops.md)
-  * [Shop-Textbausteine](shop/zentrale_shop-einstellungen/shop-textbausteine.md)
-  * [Benutzereinstellungen](shop/zentrale_shop-einstellungen/benutzereinstellungen.md)
-  * [Benutzerländer](shop/zentrale_shop-einstellungen/benutzerlaender.md)
-  * [Maßeinheiten](shop/zentrale_shop-einstellungen/masseinheiten.md)
-  * [Umsatzsteuergruppen](shop/zentrale_shop-einstellungen/umsatzsteuergruppen.md)
-  * [Variantensets](shop/zentrale_shop-einstellungen/variantensets.md)
-  * [Währungen](shop/zentrale_shop-einstellungen/waehrungen.md)
+* [Zentrale Shop-Einstellungen](shop/zentrale_shop-einstellungen.md)
 * [Anzeige Shop-Hauptnavigation](shop/anzeige_shop-hauptnavigation.md)
 * [Produktinformation](shop/produktinformation/README.md)
   * [Artikel](shop/produktinformation/artikel.md)

@@ -1,7 +1,5 @@
 # Changelog
 
-## Changelog
-
 ```text
 CMS Admin → CMS Changelog
 ```

@@ -34,7 +34,7 @@ Folgende weitere Einstellungen und Einschränkungen sind möglich:
 * Es ist möglich, den Gutschein als einen „gesponserten“ Gutschein zu markieren. Zusätzlich können der Name des Sponsors, ein Bild und ein Logo hinterlegt werden. „Gesponserte“ Gutscheine ignorieren die Einstellung „keine Gutscheine zulassen“ der Warenkorbartikel im Warenkorb.
 * Gutscheine können eingeschränkt werden auf bestimmte Kunden, Kundengruppen, einzelne Produkte, Hersteller, Artikelgruppen, Produktekategorien
 
-## Gutscheine anlegen
+### Gutscheine anlegen
 
 Gutscheine werden generell in Gutscheinserien angelegt. Alle Einstellungen \(sh. oben\) beziehen sich auf die Gutscheinserie und damit auf alle Gutscheine in dieser Serie. Für eine Gutscheinserie können automatisch Gutscheine generiert werden. Hier kann entweder ein fester Gutscheincode angegeben werden oder ein vom System automatisch generierter Code verwendet werden.
 
@@ -52,7 +52,7 @@ Wird kein Gutschein-Code angegeben, wird für jeden Gutschein vom System ein ein
 
 Innerhalb einer Gutscheinserie darf ein Gutscheincode mehr als einmal vorkommen, ein Gutscheincode darf aber nie in mehr als einer Gutscheinserie verwendet werden. Bei jedem Gutschein wird ein Erstellungsdatum hinterlegt.
 
-## Gutscheine exportieren
+### Gutscheine exportieren
 
 Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. ![](../../.gitbook/assets/gutscheine_exportieren.png)
 

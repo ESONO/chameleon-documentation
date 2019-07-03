@@ -8,11 +8,11 @@ Während der Bestellung durchläuft der Käufer alle zur Bestellung nötigen Sch
 
 Die Bestellschritte können Sie je nach Anforderung Ihres Shops selbst definieren. Beispiel eines Bestellprozesses \(auch Checkout genannt\):
 
-## Darstellung im Frontend:
+#### Darstellung im Frontend:
 
 ![](../../../.gitbook/assets/bestellschritte1.png)
 
-## Einstellung im Backend:
+#### Einstellung im Backend:
 
 ![](../../../.gitbook/assets/bestellschritte2.png)
 

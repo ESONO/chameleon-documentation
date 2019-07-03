@@ -14,7 +14,7 @@ Zusätzlich zu der prozentualen oder absoluten Angabe kann ein Gratisartikel bei
 
 Wird ein Rabatt auf den aktiven Warenkorb oder einen Teil des Warenkorbs mit einem positiven berechneten Wert größer 0 angewendet, so wird der Rabatt unterhalb der Bruttoproduktsumme mit Namen und Wert aufgeführt.
 
-## Einschränkungen
+### Einschränkungen
 
 Es kann festgelegt werden, ob der Rabatt generell für alle Artikel oder nur für bestimmte Artikel oder Produktkategorien gelten soll.
 

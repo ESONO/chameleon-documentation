@@ -1,6 +1,6 @@
 # Zentrale Shop-Einstellungen
 
-## Shops
+### Shops
 
 ```text
 Shop-Einstellungen → Shops
@@ -28,11 +28,11 @@ Hier können Textbausteine, die ausschließlich für Shops gedacht sind, erstell
 
 Im Backend ist dafür auf einer Seite das Modul `Shop spezifische Informationen` anzulegen. Im Modul können Sie dann einfach per Klick auswählen, welche Textbausteine auf der Seite angezeigt werden sollen.
 
-![](../../.gitbook/assets/shopspezifische_textbausteine.png)
+![](../.gitbook/assets/shopspezifische_textbausteine.png)
 
-Der Unterschied zu den [Textbausteinen](../../allgemeine-bedienung-und-content-management/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine \(`Website → Textbausteine`\) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
+Der Unterschied zu den [Textbausteinen](../allgemeine-bedienung-und-content-management/textbausteine.md) ist, dass die Shop-Textbausteine ausschließlich den Shop betreffen, die Textbausteine \(`Website → Textbausteine`\) jedoch global eingesetzt werden können, also auch auf reinen Content-Webseiten.
 
-## Benutzereinstellungen \(Extranet-Konfiguration\)
+### Benutzereinstellungen \(Extranet-Konfiguration\)
 
 ```text
 CMS / Portal-Einstellungen → Extranet-Konfiguration
@@ -40,15 +40,15 @@ CMS / Portal-Einstellungen → Extranet-Konfiguration
 
 In der Extranet-Konfiguration können Einstellungen vorgenommen werden, die für die Interaktion mit dem Portal-/Shop-Besucher notwendig sind, z.B. bei der Registrierung, bei ungültigem Login oder bei vergessenem Passwort. Unter `Seiten` können entsprechende Landing-Pages definiert werden, die dem Kunden bei Aktionen wie „verweigertem Zugriff“ oder nach einer „erfolgreichen Registrierung“ angezeigt werden sollen.
 
-## Benutzerländer
+### Benutzerländer
 
 ```text
 Shop-Einstellungen → Benutzerländer
 ```
 
-Die zur Registrierung verfügbaren Länder. In welche Länder generell Ware geliefert wird, wird in den [Versandkostenarten](../bestellinformation/bestellprozess-einstellungen/versandkostenart.md) definiert.
+Die zur Registrierung verfügbaren Länder. In welche Länder generell Ware geliefert wird, wird in den [Versandkostenarten](bestellinformation/bestellprozess-einstellungen/versandkostenart.md) definiert.
 
-## Maßeinheiten
+### Maßeinheiten
 
 ```text
 Shop-Einstellungen → Maßeinheiten
@@ -63,7 +63,7 @@ Jede Einheit besteht dabei aus folgendem:
 * Faktor, mit dem eine Einheit multipliziert werden muss, um auf die Grundeinheit zu kommen. Beispiel: Für die Einheit Gramm muss der Faktor _0,001_ sein, um auf die Grundeinheit kg zu kommen.
 * Die Grundeinheit \(ein Verweis auf eine Maßeinheit mit dem Faktor 1\): Kilogramm
 
-## Umsatzsteuergruppen
+### Umsatzsteuergruppen
 
 ```text
 Shop-Einstellungen → Umsatzsteuergruppen
@@ -71,13 +71,13 @@ Shop-Einstellungen → Umsatzsteuergruppen
 
 Alle über den Shop verwaltbaren Steuergruppen.
 
-## Variantensets
+### Variantensets
 
 Werden mehrere Varianten eines Artikels angeboten, müssen hier die passenden Variantensets angelegt werden, wie z.B. ein Variantenset _Rahmengröße und Farbe_ bei Fahrrädern.
 
-Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel [Artikelvarianten](../produktinformation/artikelvarianten/) beschrieben.
+Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel [Artikelvarianten](produktinformation/artikelvarianten/) beschrieben.
 
-## Währungen
+### Währungen
 
 Wenn Ihr Shop über mehrere Währungen verfügt, werden diese hier definiert. Dabei wird ein Umrechnungsfaktor zur Basiswährung angegeben.
 
