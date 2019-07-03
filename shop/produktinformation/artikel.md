@@ -1,8 +1,8 @@
 # Artikel
 
-```text
+{% hint style="success" %}
 Artikel → Artikel
-```
+{% endhint %}
 
 In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.
 

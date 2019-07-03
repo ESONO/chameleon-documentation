@@ -4,9 +4,9 @@ Anwender sollten mit individuellen Zugängen Arbeiten am Backend vornehmen, da e
 
 Menüpunkte im Backend werden in dieser Dokumentation wie folgt aufgeführt:
 
-```text
+{% hint style="success" %}
 Artikel → Artikelkategorien
-```
+{% endhint %}
 
 ![](../.gitbook/assets/vorbemerkung_backend.png)
 

@@ -1,8 +1,8 @@
 # Artikeltypen
 
-```text
+{% hint style="success" %}
 Artikel → Artikeltypen
-```
+{% endhint %}
 
 Hier können Artikeltypen definiert werden. Im Gegensatz zu Warengruppen, die abstrakt sein können \(z.B. Warengruppe X mit Versandkosten Y und Steuersatz Z\), definieren Artikeltypen ganz konkrete Eigenschaften einzelner Artikel.
 

@@ -1,8 +1,8 @@
 # Hersteller / Marke
 
-```text
+{% hint style="success" %}
 Artikel → Hersteller/Marke
-```
+{% endhint %}
 
 Hersteller bzw. Marken werden hier zentral verwaltet. Jeder Artikel kann einem Hersteller bzw. Marke zugewiesen werden. Bei der Selektion der Artikel werden Hersteller/Marken als zusätzlicher Filter dargestellt und ermöglichen dem Kunden bei der Suche somit eine einfache Filterung der Artikel.
 

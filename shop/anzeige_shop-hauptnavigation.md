@@ -1,8 +1,8 @@
 # Anzeige Shop-Hauptnavigation
 
-```text
+{% hint style="success" %}
 Website → Shop-Hauptnavigation
-```
+{% endhint %}
 
 Über diesen Menüpunkt wird die Anzeige der Shop-Hauptnavigation gesteuert.
 

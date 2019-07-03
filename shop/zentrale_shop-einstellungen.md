@@ -2,9 +2,9 @@
 
 ### Shops
 
-```text
+{% hint style="success" %}
 Shop-Einstellungen → Shops
-```
+{% endhint %}
 
 Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
@@ -20,9 +20,9 @@ Unter `Shops` werden alle vom System verwalteten Shops aufgelistet. Ist nur ein 
 
 ### Shop-Textbausteine
 
-```text
-Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine (z.B. AGB)
-```
+{% hint style="success" %}
+Shop-Einstellungen → Shops → Konfiguration → Shop-Textbausteine \(z.B. AGB\)
+{% endhint %}
 
 Hier können Textbausteine, die ausschließlich für Shops gedacht sind, erstellt werden. Somit können Sie z.B. eine Seite mit Informationen wie AGB, Datenschutz etc. erstellen. Natürlich lassen sich einzelne Bausteine auch auf verschiedenen Seiten anlegen.
 
@@ -34,25 +34,25 @@ Der Unterschied zu den [Textbausteinen](../allgemeine-bedienung-und-content-mana
 
 ### Benutzereinstellungen \(Extranet-Konfiguration\)
 
-```text
+{% hint style="success" %}
 CMS / Portal-Einstellungen → Extranet-Konfiguration
-```
+{% endhint %}
 
 In der Extranet-Konfiguration können Einstellungen vorgenommen werden, die für die Interaktion mit dem Portal-/Shop-Besucher notwendig sind, z.B. bei der Registrierung, bei ungültigem Login oder bei vergessenem Passwort. Unter `Seiten` können entsprechende Landing-Pages definiert werden, die dem Kunden bei Aktionen wie „verweigertem Zugriff“ oder nach einer „erfolgreichen Registrierung“ angezeigt werden sollen.
 
 ### Benutzerländer
 
-```text
+{% hint style="success" %}
 Shop-Einstellungen → Benutzerländer
-```
+{% endhint %}
 
 Die zur Registrierung verfügbaren Länder. In welche Länder generell Ware geliefert wird, wird in den [Versandkostenarten](bestellinformation/bestellprozess-einstellungen/versandkostenart.md) definiert.
 
 ### Maßeinheiten
 
-```text
+{% hint style="success" %}
 Shop-Einstellungen → Maßeinheiten
-```
+{% endhint %}
 
 Hier werden die Maßeinheiten für die Grundpreisberechnung hinterlegt.
 
@@ -65,9 +65,9 @@ Jede Einheit besteht dabei aus folgendem:
 
 ### Umsatzsteuergruppen
 
-```text
+{% hint style="success" %}
 Shop-Einstellungen → Umsatzsteuergruppen
-```
+{% endhint %}
 
 Alle über den Shop verwaltbaren Steuergruppen.
 

@@ -2,9 +2,9 @@
 
 ## Einen redaktionellen Artikel anlegen
 
-```text
-Artikel (redaktionell) → Artikel (redaktionell)
-```
+{% hint style="success" %}
+Artikel \(redaktionell\) → Artikel \(redaktionell\)
+{% endhint %}
 
 `Basisdaten`
 

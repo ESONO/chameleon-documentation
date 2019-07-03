@@ -1,8 +1,8 @@
 # Artikelmerkmale
 
-```text
+{% hint style="success" %}
 Artikel → Shop-Artikelmerkmale
-```
+{% endhint %}
 
 Für jedes Merkmal kann Name Beschreibung sowie Icon hinterlegt werden. Hierbei handelt es sich nicht um Produktattribute, d.h. es können keine Werte je Merkmal pro Artikel zugewiesen werden. Artikelmerkmale sind z.B. CE-geprüft, TÜV-geprüft, spülmaschinenfest, Batterien incl., Full-HD usw..
 
