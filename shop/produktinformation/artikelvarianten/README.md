@@ -4,7 +4,7 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 
 Dafür wird zunächst ein generisches **Variantenset** erzeugt \(z.B. _Größe und Farbe_\), welches für alle Artikel des gleichen Produkttyps verwendet werden kann. Mithilfe des intelligenten **Generators** können dann mögliche Varianten vorgeschlagen und automatisch erzeugt, z.B. T-Shirt gelb S, gelb M, gelb L, rot S, rot M, rot L usw..
 
-Zur Veranschaulichung dieser Dokumentation wird dieses Produkt aus dem Chameleon Demoshop in verschiedenen **Größen und Farben** verwendet.
+Zur Veranschaulichung dieser Dokumentation wird dieses [Produkt](https://demo.chameleon-system.de/testmarke-11/schmuck/armband-colour-armbaender_pid_832_7079.html?_ref=spot3&url=%2FProdukte%2FSchmuck%2FArmbaender%2F) aus dem Chameleon Demoshop in verschiedenen **Größen und Farben** verwendet.
 
 ## Variantenset
 
