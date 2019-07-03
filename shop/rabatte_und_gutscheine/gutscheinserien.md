@@ -1,8 +1,8 @@
 # Gutscheine erstellen
 
-```text
+{% hint style="success" %}
 Rabatte & Gutscheine → Gutscheinserien
-```
+{% endhint %}
 
 Gutscheine können entweder einen absoluten oder einen prozentualen Wert zur Nachlassgewährung haben. Prozentuale Nachlässe beziehen sich immer auf den Gesamtwert des Warenkorbes \(Bruttosumme der Produkte\).
 

@@ -2,7 +2,7 @@
 
 Informationen Kunden betreffend finden sich im Hauptmenü unter
 
-```text
+{% hint style="success" %}
 Shopkunden / Benutzer
-```
+{% endhint %}
 

@@ -1,8 +1,8 @@
 # Interface / Interface Manager
 
-```text
-CMS Admin → CMS Interface-Manager (Im- und Export)
-```
+{% hint style="success" %}
+CMS Admin → CMS Interface-Manager \(Im- und Export\)
+{% endhint %}
 
 Das Interface \(„Schnittstelle“\) ist die zentrale Stelle im CMS, an welcher der Benutzer die Möglichkeit hat, manuell Prozesse zur Kommunikation/Datenaustausch mit externen Systemen zu starten. Neue Schnittstellen sollten grundsätzlich nur von Entwicklern eingerichtet werden, da hierfür unter anderem Datenbankzugriffe korrekt konfiguriert werden müssen.
 

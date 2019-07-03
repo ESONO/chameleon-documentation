@@ -1,8 +1,8 @@
 # Auswertung \(Chameleon intern\)
 
-```text
+{% hint style="success" %}
 Artikel → Auswertung
-```
+{% endhint %}
 
 Die CHAMELEON-interne Auswertung zeigt eine Grobübersicht aller Bestellungen im Shop. Dabei hat man die Möglichkeit, die Auswertungen nach Jahr, Tag, Monat oder Woche zu gruppieren oder durch einen Zeitraum zu beschränken. Außerdem kann die Auswertung selbst in einer Tabellenansicht \(s.u.\) oder als Balkendiagramm ausgegeben werden.
 

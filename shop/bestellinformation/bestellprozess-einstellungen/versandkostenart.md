@@ -1,8 +1,8 @@
 # Versandkostenart
 
-```text
+{% hint style="success" %}
 Bestellprozess-Einstellungen → Versandkostenart
-```
+{% endhint %}
 
 Bei jeder Versandkostenart kann festgelegt werden, für welche Warengruppe, Kategorie, Artikel, Benutzergruppe, Benutzer oder Lieferland die Versandkostenart wirksam sein soll.
 

@@ -1,8 +1,8 @@
 # Rabatte
 
-```text
+{% hint style="success" %}
 Rabatte & Gutscheine → Rabatte
-```
+{% endhint %}
 
 Im System können Rabatte definiert werden, die sich auf den Warenkorb oder auf Teile des Warenkorbs auswirken.
 

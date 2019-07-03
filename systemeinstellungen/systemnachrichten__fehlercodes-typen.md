@@ -1,8 +1,8 @@
 # Systemnachrichten / Fehlercodes-Typen
 
-```text
+{% hint style="success" %}
 CMS / Portal-Einstellungen → Portale / Webseiten
-```
+{% endhint %}
 
 Alle im System vorhandenen Meldungen und Fehlercodes werden zentral an dieser Stelle gepflegt. Sollte eine der Meldungen dem System noch nicht bekannt sein, wird eine Meldung _„Unbekannter Fehler:_ _\[ERROR-IDENTIFIER\]“_ angezeigt.
 

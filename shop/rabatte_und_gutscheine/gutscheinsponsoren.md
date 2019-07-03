@@ -1,8 +1,8 @@
 # Gutscheinsponsoren
 
-```text
+{% hint style="success" %}
 Rabatte & Gutscheine → Gutscheinsponsoren
-```
+{% endhint %}
 
 Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat. Gutscheinsponsoren können zusätzlich zur Gutscheininformation auf der Webseite mit Name und Bild angezeigt werden.
 

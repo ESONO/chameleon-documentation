@@ -1,8 +1,8 @@
 # Versandkostengruppen
 
-```text
-Bestellprozess-Einstellungen → Versandkostengruppen
-```
+{% hint style="success" %}
+Bestellprozess-Einstellungen → Versandkostenart
+{% endhint %}
 
 Da die Versandkostenarten und die angebotenen Bezahlarten \(z.B. bei Nachname\) vom Logistik-Unternehmen abhängig sein können, werden Versandarten und Bezahlmethoden in so genannte Versandkostengruppen unterteilt. Versandkostengruppen können auf bestimmte Benutzer oder Benutzergruppen eingeschränkt, über eine Checkbox aktiviert oder deaktiviert und über eine Zeitsteuerung für einen bestimmten Zeitraum \(oder ab bzw. bis zu einem bestimmten Zeitpunkt\) automatisch vom System freigeschaltet werden.
 

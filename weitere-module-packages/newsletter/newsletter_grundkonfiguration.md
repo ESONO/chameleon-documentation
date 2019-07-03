@@ -2,9 +2,9 @@
 
 ## Empfängerliste einrichten
 
-```text
+{% hint style="success" %}
 Newsletter → Newsletter-Empfängerlisten / Konfiguration
-```
+{% endhint %}
 
 Richten Sie zuerst eine Empfängerliste ein. Sie dient dazu, dass ihre zukünftigen Abonnenten in einen Verteiler geschrieben werden. Sie können auch mehrere Empfängerlisten einrichten und somit unterschiedliche Newsletter beispielsweise an unterschiedliche Interessengruppen versenden. Wichtig bei der Konfiguration der Empfängerliste ist, dass Sie ihr entsprechendes Portal angeben. Außerdem sollten Sie immer eine Reply- und Absender-E-Mail Adresse angeben.   
 

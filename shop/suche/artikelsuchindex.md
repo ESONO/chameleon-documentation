@@ -1,8 +1,8 @@
 # Artikelsuchindex
 
-```text
+{% hint style="success" %}
 Suche → Artikelsuchindex
-```
+{% endhint %}
 
 Durch die Ausführung der Artikelindizierung werden alle Artikel des Shops durchgegangen und die unterschiedlich langen Teilwort-Suchindexe zwischengespeichert. Die Indizierung der Suche kann je nach Artikelanzahl und System-Performance unterschiedlich lang dauern.
 

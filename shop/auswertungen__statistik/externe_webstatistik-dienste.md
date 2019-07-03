@@ -1,8 +1,8 @@
 # Externe Webstatistik-Dienste
 
-```text
+{% hint style="success" %}
 CMS / Portal-Einstellungen → Externe Webstatistik-Dienste
-```
+{% endhint %}
 
 Über das Modul „Externe Webstatistik-Dienste“ besteht die Möglichkeit, alle gängigen und verfügbaren Dienste externer Anbieter \(proprietäre Software\) an das System anzubinden.
 

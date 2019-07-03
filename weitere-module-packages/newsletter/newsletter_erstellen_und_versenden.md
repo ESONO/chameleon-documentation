@@ -12,9 +12,9 @@ Auf der angelegten Seite können Sie nun die dynamischen Steckplätze editieren.
 
 ## Kampagne anlegen
 
-```text
+{% hint style="success" %}
 Newsletter → Newsletter-Kampagnen
-```
+{% endhint %}
 
 Nachdem Sie Ihren Newsletter fertig bearbeitet haben, erstellen Sie eine neue Kampagne. Diese dient dazu, den jeweiligen Newsletter einer Empfängerliste zuzuweisen und das Versenden vorzubereiten.
 

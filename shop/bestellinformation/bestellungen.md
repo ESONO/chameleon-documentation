@@ -1,8 +1,8 @@
 # Bestellungen
 
-```text
+{% hint style="success" %}
 Bestellungen → Bestellungen
-```
+{% endhint %}
 
 Dies ist die zentrale Stelle für alle im System durchgeführten Bestellungen. In der Bestellung selbst sind alle die mit ihr zusammenhängenden Parameter hinterlegt:
 

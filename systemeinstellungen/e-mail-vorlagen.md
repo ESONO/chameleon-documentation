@@ -1,8 +1,8 @@
 # E-Mail-Vorlagen
 
-```text
+{% hint style="success" %}
 CMS Admin → E-Mail-Vorlagen
-```
+{% endhint %}
 
 Aus dem Backend heraus werden für diverse Aktionen E-Mails versendet.
 

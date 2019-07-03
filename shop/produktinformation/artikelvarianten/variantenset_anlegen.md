@@ -1,8 +1,8 @@
 # Variantenset anlegen
 
-```text
+{% hint style="success" %}
 Shop-Einstellungen → Varianten: Sets
-```
+{% endhint %}
 
 Legen Sie zunächst ein neues Variantenset an.
 

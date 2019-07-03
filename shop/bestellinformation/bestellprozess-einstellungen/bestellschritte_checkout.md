@@ -1,8 +1,8 @@
 # Bestellschritte \(Checkout\)
 
-```text
+{% hint style="success" %}
 Bestellprozess-Einstellungen → Bestellschritte
-```
+{% endhint %}
 
 Während der Bestellung durchläuft der Käufer alle zur Bestellung nötigen Schritte. In den Bestellschritten werden alle für einen erfolgreichen Abschluss der Bestellung benötigten Daten zusammengestellt.
 

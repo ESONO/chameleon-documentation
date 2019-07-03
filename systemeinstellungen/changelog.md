@@ -1,8 +1,8 @@
 # Changelog
 
-```text
+{% hint style="success" %}
 CMS Admin → CMS Changelog
-```
+{% endhint %}
 
 ### Zweck / Nutzen
 
