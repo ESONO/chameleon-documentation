@@ -8,10 +8,6 @@ CMS Admin → CMS Changelog
 
 Änderungen im CMS werden protokolliert.
 
-### Voraussetzungen
-
-Chameleon Core 4.0.x
-
 ### Verwendung
 
 Das Changelog kann pro Tabelle \(= ein Menüpunkt oder Menüunterpunkt im CMS\) aktiviert werden. Die Aktivierung wird vom CMS-Administrator \(in der Regel Ihr technischer Ansprechpartner\) in den Tabelleneinstellungen vorgenommen.

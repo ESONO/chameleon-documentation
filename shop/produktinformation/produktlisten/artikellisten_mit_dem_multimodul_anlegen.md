@@ -10,7 +10,9 @@ Möchten Sie z.B. auf der Produktdetailseite weitere Listen wie „Dazu passt“
 
 ![](../../../.gitbook/assets/artikellisten_multimodul1.png)
 
-**Achtung**: Die Artikel, die in den Cross-Selling-Listen _Zubehör_ und _Ähnliche Artikel_ \(„Dazu passt“\) erscheinen sollen, werden beim Artikel selbst im Tab `Cross Selling` hinterlegt.
+{% hint style="info" %}
+Die Artikel, die in den Cross-Selling-Listen Zubehör und Ähnliche Artikel \(„Dazu passt“\) erscheinen sollen, werden beim Artikel selbst im Tab Cross Selling hinterlegt.
+{% endhint %}
 
 Die Reihenfolge der umschaltbaren Tabs wird über den Button `Sortierung` im Multimodul-Set gesteuert.
 

@@ -16,7 +16,9 @@ Kopiert den aktuellen Datensatz _direkt aus der Datenbank_. Sollten also Änderu
 
 Legt einen neuen, leeren Datensatz an.
 
-**ACHTUNG**: Auch wenn Sie den Datensatz nicht befüllen und noch nicht gespeichert haben, ist dieser angelegt. Wenn Sie also versehentlich einen neuen Datensatz erstellt haben, löschen Sie ihn wieder. Ansonsten weist das Backend zahlreiche leere Datensätze auf \(in der Listenansicht können Sie prüfen, ob leere Datensätze vorhanden sind\).
+{% hint style="warning" %}
+Auch wenn Sie den Datensatz nicht befüllen und noch nicht gespeichert haben, ist dieser angelegt. Wenn Sie also versehentlich einen neuen Datensatz erstellt haben, löschen Sie ihn wieder. Ansonsten weist das Backend zahlreiche leere Datensätze auf \(in der Listenansicht können Sie prüfen, ob leere Datensätze vorhanden sind\).
+{% endhint %}
 
 ## Löschen
 
@@ -38,5 +40,7 @@ Im oberen linken Bereich wird die ID des aktiven Datensatzes angezeigt. Dabei we
 
 Darauf folgt eine Liste aller Felder des Datensatzes. Neben manchen Feldern taucht Links neben dem Eingabefeld zusätzlich ein kleines Fragezeichen ![](../.gitbook/assets/hilfe.png) auf - hinter diesem Symbol verbirgt sich ein Hilfe/Erklärungstext für das Feld. Der Text wird durch einen Klick auf das Symbol eingeblendet.
 
-**Wichtig**: Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den `Speichern`-Button sichern.
+{% hint style="warning" %}
+Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den Speichern-Button sichern.
+{% endhint %}
 
