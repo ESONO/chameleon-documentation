@@ -7,5 +7,3 @@
 * `Cache`: Zwischenspeicher leeren von entweder a\) Seiten-Cache leeren und b\) Seiten- und Template-Cache leeren
 * `Hilfe`: öffnet eine Schnellreferenz aller Hilfetexte im System. Bei Einträgen mit diesem Zeichen können Sie direkt an die entsprechende Stelle im Backend springen.
 
-![](../.gitbook/assets/hilfe_topnavi.png)
-
